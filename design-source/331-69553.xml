@@ -1,0 +1,80 @@
+<canvas id="331:69553" name="↳ Number Inputs" x="0" y="0" width="0" height="0">
+  <frame id="15119:60373" name="Number Inputs" x="-11953" y="-2379" width="2180" height="3454">
+    <rounded-rectangle id="15119:64170" name="Background" x="1090" y="112" width="978" height="3230" />
+    <frame id="15119:62242" name="Number Input" x="112" y="112" width="1956" height="3230">
+      <symbol id="15119:62241" name="Type=Simple, Size=SM, State=Default, Dark Mode=False" x="96" y="96" width="320" height="86" />
+      <symbol id="15119:64823" name="Type=Simple, Size=SM, State=Default, Dark Mode=True" x="1074" y="96" width="320" height="86" />
+      <symbol id="15119:63903" name="Type=Credit Card Input, Size=SM, State=Default, Dark Mode=False" x="96" y="2202" width="320" height="86" />
+      <symbol id="15119:64830" name="Type=Credit Card Input, Size=SM, State=Default, Dark Mode=True" x="1074" y="2202" width="320" height="86" />
+      <symbol id="15119:64029" name="Type=Digits, Size=SM, State=Default, Dark Mode=False" x="96" y="2716" width="244" height="86" />
+      <symbol id="15119:64836" name="Type=Digits, Size=SM, State=Default, Dark Mode=True" x="1074" y="2716" width="244" height="86" />
+      <symbol id="15119:63028" name="Type=Currency, Size=SM, State=Default, Dark Mode=False" x="96" y="1688" width="320" height="86" />
+      <symbol id="15119:64846" name="Type=Currency, Size=SM, State=Default, Dark Mode=True" x="1074" y="1688" width="320" height="86" />
+      <symbol id="15119:62276" name="Type=2 Buttons, Size=SM, State=Default, Dark Mode=False" x="96" y="610" width="127" height="104" />
+      <symbol id="15119:64857" name="Type=2 Buttons, Size=SM, State=Default, Dark Mode=True" x="1074" y="610" width="127" height="104" />
+      <symbol id="15119:62833" name="Type=Advanced 2 Buttons, Size=SM, State=Default, Dark Mode=False" x="96" y="1124" width="153" height="102" />
+      <symbol id="15119:64867" name="Type=Advanced 2 Buttons, Size=SM, State=Default, Dark Mode=True" x="1074" y="1124" width="153" height="102" />
+      <symbol id="15119:62539" name="Type=2 Buttons, Size=SM, State=Active, Dark Mode=False" x="512" y="610" width="127" height="104" />
+      <symbol id="15119:64880" name="Type=2 Buttons, Size=SM, State=Active, Dark Mode=True" x="1490" y="610" width="127" height="104" />
+      <symbol id="15119:62843" name="Type=Advanced 2 Buttons, Size=SM, State=Active, Dark Mode=False" x="512" y="1124" width="153" height="102" />
+      <symbol id="15119:64890" name="Type=Advanced 2 Buttons, Size=SM, State=Active, Dark Mode=True" x="1490" y="1124" width="153" height="102" />
+      <symbol id="15119:62236" name="Type=Simple, Size=SM, State=Active, Dark Mode=False" x="512" y="96" width="320" height="86" />
+      <symbol id="15119:64903" name="Type=Simple, Size=SM, State=Active, Dark Mode=True" x="1490" y="96" width="320" height="86" />
+      <symbol id="15119:63910" name="Type=Credit Card Input, Size=SM, State=Active, Dark Mode=False" x="512" y="2202" width="320" height="86" />
+      <symbol id="15119:64910" name="Type=Credit Card Input, Size=SM, State=Active, Dark Mode=True" x="1490" y="2202" width="320" height="86" />
+      <symbol id="15119:64035" name="Type=Digits, Size=SM, State=Active, Dark Mode=False" x="512" y="2716" width="244" height="86" />
+      <symbol id="15119:64916" name="Type=Digits, Size=SM, State=Active, Dark Mode=True" x="1490" y="2716" width="244" height="86" />
+      <symbol id="15119:63035" name="Type=Currency, Size=SM, State=Active, Dark Mode=False" x="512" y="1688" width="320" height="86" />
+      <symbol id="15119:64929" name="Type=Currency, Size=SM, State=Active, Dark Mode=True" x="1490" y="1688" width="320" height="86" />
+      <symbol id="15119:62240" name="Type=Simple, Size=MD, State=Default, Dark Mode=False" x="96" y="238" width="320" height="103" />
+      <symbol id="15119:64940" name="Type=Simple, Size=MD, State=Default, Dark Mode=True" x="1074" y="238" width="320" height="103" />
+      <symbol id="15119:63917" name="Type=Credit Card Input, Size=MD, State=Default, Dark Mode=False" x="96" y="2344" width="320" height="103" />
+      <symbol id="15119:64947" name="Type=Credit Card Input, Size=MD, State=Default, Dark Mode=True" x="1074" y="2344" width="320" height="103" />
+      <symbol id="15119:64041" name="Type=Digits, Size=MD, State=Default, Dark Mode=False" x="96" y="2858" width="310" height="103" />
+      <symbol id="15119:64953" name="Type=Digits, Size=MD, State=Default, Dark Mode=True" x="1074" y="2858" width="310" height="103" />
+      <symbol id="15119:63042" name="Type=Currency, Size=MD, State=Default, Dark Mode=False" x="96" y="1830" width="320" height="103" />
+      <symbol id="15119:64963" name="Type=Currency, Size=MD, State=Default, Dark Mode=True" x="1074" y="1830" width="320" height="103" />
+      <symbol id="15119:62283" name="Type=2 Buttons, Size=MD, State=Default, Dark Mode=False" x="96" y="752" width="151" height="103" />
+      <symbol id="15119:64974" name="Type=2 Buttons, Size=MD, State=Default, Dark Mode=True" x="1074" y="752" width="151" height="103" />
+      <symbol id="15119:62853" name="Type=Advanced 2 Buttons, Size=MD, State=Default, Dark Mode=False" x="96" y="1282" width="173" height="119" />
+      <symbol id="15119:64984" name="Type=Advanced 2 Buttons, Size=MD, State=Default, Dark Mode=True" x="1074" y="1282" width="173" height="119" />
+      <symbol id="15119:62549" name="Type=2 Buttons, Size=MD, State=Active, Dark Mode=False" x="512" y="752" width="151" height="103" />
+      <symbol id="15119:64997" name="Type=2 Buttons, Size=MD, State=Active, Dark Mode=True" x="1490" y="752" width="151" height="103" />
+      <symbol id="15119:62863" name="Type=Advanced 2 Buttons, Size=MD, State=Active, Dark Mode=False" x="512" y="1282" width="173" height="119" />
+      <symbol id="15119:65007" name="Type=Advanced 2 Buttons, Size=MD, State=Active, Dark Mode=True" x="1490" y="1282" width="173" height="119" />
+      <symbol id="15119:62237" name="Type=Simple, Size=MD, State=Active, Dark Mode=False" x="512" y="238" width="320" height="103" />
+      <symbol id="15119:65020" name="Type=Simple, Size=MD, State=Active, Dark Mode=True" x="1490" y="238" width="320" height="103" />
+      <symbol id="15119:63924" name="Type=Credit Card Input, Size=MD, State=Active, Dark Mode=False" x="512" y="2344" width="320" height="103" />
+      <symbol id="15119:65027" name="Type=Credit Card Input, Size=MD, State=Active, Dark Mode=True" x="1490" y="2344" width="320" height="103" />
+      <symbol id="15119:64047" name="Type=Digits, Size=MD, State=Active, Dark Mode=False" x="512" y="2858" width="310" height="103" />
+      <symbol id="15119:65033" name="Type=Digits, Size=MD, State=Active, Dark Mode=True" x="1490" y="2858" width="310" height="103" />
+      <symbol id="15119:63049" name="Type=Currency, Size=MD, State=Active, Dark Mode=False" x="512" y="1830" width="320" height="103" />
+      <symbol id="15119:65046" name="Type=Currency, Size=MD, State=Active, Dark Mode=True" x="1490" y="1830" width="320" height="103" />
+      <symbol id="15119:62239" name="Type=Simple, Size=LG, State=Default, Dark Mode=False" x="96" y="397" width="320" height="117" />
+      <symbol id="15119:65057" name="Type=Simple, Size=LG, State=Default, Dark Mode=True" x="1074" y="397" width="320" height="117" />
+      <symbol id="15119:63931" name="Type=Credit Card Input, Size=LG, State=Default, Dark Mode=False" x="96" y="2503" width="320" height="117" />
+      <symbol id="15119:65064" name="Type=Credit Card Input, Size=LG, State=Default, Dark Mode=True" x="1074" y="2503" width="320" height="117" />
+      <symbol id="15119:64053" name="Type=Digits, Size=LG, State=Default, Dark Mode=False" x="96" y="3017" width="370" height="117" />
+      <symbol id="15119:65070" name="Type=Digits, Size=LG, State=Default, Dark Mode=True" x="1074" y="3017" width="370" height="117" />
+      <symbol id="15119:63056" name="Type=Currency, Size=LG, State=Default, Dark Mode=False" x="96" y="1989" width="320" height="117" />
+      <symbol id="15119:65080" name="Type=Currency, Size=LG, State=Default, Dark Mode=True" x="1074" y="1989" width="320" height="117" />
+      <symbol id="15119:62290" name="Type=2 Buttons, Size=LG, State=Default, Dark Mode=False" x="96" y="911" width="175" height="117" />
+      <symbol id="15119:65091" name="Type=2 Buttons, Size=LG, State=Default, Dark Mode=True" x="1074" y="911" width="175" height="117" />
+      <symbol id="15119:62873" name="Type=Advanced 2 Buttons, Size=LG, State=Default, Dark Mode=False" x="96" y="1457" width="204" height="135" />
+      <symbol id="15119:65101" name="Type=Advanced 2 Buttons, Size=LG, State=Default, Dark Mode=True" x="1074" y="1457" width="204" height="135" />
+      <symbol id="15119:62559" name="Type=2 Buttons, Size=LG, State=Active, Dark Mode=False" x="512" y="911" width="175" height="117" />
+      <symbol id="15119:65114" name="Type=2 Buttons, Size=LG, State=Active, Dark Mode=True" x="1490" y="911" width="175" height="117" />
+      <symbol id="15119:62883" name="Type=Advanced 2 Buttons, Size=LG, State=Active, Dark Mode=False" x="512" y="1457" width="204" height="135" />
+      <symbol id="15119:65124" name="Type=Advanced 2 Buttons, Size=LG, State=Active, Dark Mode=True" x="1490" y="1457" width="204" height="135" />
+      <symbol id="15119:62238" name="Type=Simple, Size=LG, State=Active, Dark Mode=False" x="512" y="397" width="320" height="117" />
+      <symbol id="15119:65137" name="Type=Simple, Size=LG, State=Active, Dark Mode=True" x="1490" y="397" width="320" height="117" />
+      <symbol id="15119:63938" name="Type=Credit Card Input, Size=LG, State=Active, Dark Mode=False" x="512" y="2503" width="320" height="117" />
+      <symbol id="15119:65144" name="Type=Credit Card Input, Size=LG, State=Active, Dark Mode=True" x="1490" y="2503" width="320" height="117" />
+      <symbol id="15119:64059" name="Type=Digits, Size=LG, State=Active, Dark Mode=False" x="512" y="3017" width="370" height="117" />
+      <symbol id="15119:65150" name="Type=Digits, Size=LG, State=Active, Dark Mode=True" x="1490" y="3017" width="370" height="117" />
+      <symbol id="15119:63063" name="Type=Currency, Size=LG, State=Active, Dark Mode=False" x="512" y="1989" width="320" height="117" />
+      <symbol id="15119:65163" name="Type=Currency, Size=LG, State=Active, Dark Mode=True" x="1490" y="1989" width="320" height="117" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

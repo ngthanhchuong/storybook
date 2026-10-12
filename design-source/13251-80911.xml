@@ -1,0 +1,18 @@
+<canvas id="13251:80911" name="↳ Skeleton" x="0" y="0" width="0" height="0">
+  <frame id="14941:4768" name="Skeleton" x="-7755" y="-1655" width="1832" height="1880">
+    <rounded-rectangle id="14941:6829" name="Background" x="904" y="112" width="816" height="1656" />
+    <frame id="14941:5511" name="Skeleton" x="112" y="112" width="1608" height="1656">
+      <symbol id="14941:5510" name="Type=Simple Text, Dark Mode=False" x="96" y="96" width="600" height="156" />
+      <symbol id="14941:6917" name="Type=Simple Text, Dark Mode=True" x="912" y="96" width="600" height="156" />
+      <symbol id="14941:5512" name="Type=Image Top, Dark Mode=False" x="96" y="364" width="600" height="364" />
+      <symbol id="14941:6928" name="Type=Image Top, Dark Mode=True" x="912" y="364" width="600" height="364" />
+      <symbol id="14941:5572" name="Type=Centered Text, Dark Mode=False" x="96" y="1104" width="600" height="92" />
+      <symbol id="14941:6942" name="Type=Centered Text, Dark Mode=True" x="912" y="1104" width="600" height="92" />
+      <symbol id="14941:5661" name="Type=Table, Dark Mode=False" x="96" y="1308" width="600" height="252" />
+      <symbol id="14941:6951" name="Type=Table, Dark Mode=True" x="912" y="1308" width="600" height="252" />
+      <symbol id="14941:5529" name="Type=Image Left, Dark Mode=False" x="96" y="840" width="600" height="152" />
+      <symbol id="14941:6986" name="Type=Image Left, Dark Mode=True" x="912" y="840" width="600" height="152" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

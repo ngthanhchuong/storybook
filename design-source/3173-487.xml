@@ -1,0 +1,60 @@
+<canvas id="3173:487" name="↳ Chat Bubble" x="0" y="0" width="0" height="0">
+  <frame id="14862:1737" name="Chat Bubble" x="-5286" y="-1263" width="1312" height="5696">
+    <rounded-rectangle id="14862:7110" name="Background" x="656" y="112" width="544" height="5472" />
+    <frame id="14862:2814" name="Chat Bubble" x="112" y="112" width="1088" height="5472">
+      <symbol id="14862:2659" name="Type=Simple Text, Position=Left, Dark Mode=False" x="96" y="96" width="352" height="142" />
+      <symbol id="14862:7567" name="Type=Simple Text, Position=Left, Dark Mode=True" x="640" y="96" width="352" height="142" />
+      <symbol id="14862:2815" name="Type=Simple Text, Position=Right, Dark Mode=False" x="96" y="257" width="352" height="142" />
+      <symbol id="14862:7575" name="Type=Simple Text, Position=Right, Dark Mode=True" x="640" y="257" width="352" height="142" />
+      <symbol id="14862:3435" name="Type=Voice Message Default, Position=Left, Dark Mode=False" x="96" y="418" width="352" height="167" />
+      <symbol id="14862:7584" name="Type=Voice Message Default, Position=Left, Dark Mode=True" x="640" y="418" width="352" height="167" />
+      <symbol id="14862:3572" name="Type=Voice Message Default, Position=Right, Dark Mode=False" x="96" y="625" width="352" height="167" />
+      <symbol id="14862:7623" name="Type=Voice Message Default, Position=Right, Dark Mode=True" x="640" y="625" width="352" height="167" />
+      <symbol id="14862:3661" name="Type=Voice Message Playing, Position=Left, Dark Mode=False" x="96" y="832" width="352" height="167" />
+      <symbol id="14862:7663" name="Type=Voice Message Playing, Position=Left, Dark Mode=True" x="640" y="832" width="352" height="167" />
+      <symbol id="14862:3700" name="Type=Voice Message Playing, Position=Right, Dark Mode=False" x="96" y="1039" width="352" height="167" />
+      <symbol id="14862:7703" name="Type=Voice Message Playing, Position=Right, Dark Mode=True" x="640" y="1039" width="352" height="167" />
+      <symbol id="14862:3797" name="Type=Voice Message Transcription, Position=Left, Dark Mode=False" x="96" y="1246" width="352" height="297" />
+      <symbol id="14862:7744" name="Type=Voice Message Transcription, Position=Left, Dark Mode=True" x="640" y="1246" width="352" height="297" />
+      <symbol id="14862:3836" name="Type=Voice Message Transcription, Position=Right, Dark Mode=False" x="96" y="1562" width="352" height="297" />
+      <symbol id="14862:7786" name="Type=Voice Message Transcription, Position=Right, Dark Mode=True" x="640" y="1562" width="352" height="297" />
+      <symbol id="14862:3886" name="Type=File, Position=Left, Dark Mode=False" x="96" y="1878" width="352" height="157" />
+      <symbol id="14862:7829" name="Type=File, Position=Left, Dark Mode=True" x="640" y="1878" width="352" height="157" />
+      <symbol id="14862:3925" name="Type=File, Position=Right, Dark Mode=False" x="96" y="2075" width="352" height="157" />
+      <symbol id="14862:7842" name="Type=File, Position=Right, Dark Mode=True" x="640" y="2075" width="352" height="157" />
+      <symbol id="14862:5063" name="Type=Calendar, Position=Left, Dark Mode=False" x="96" y="2272" width="352" height="285" />
+      <symbol id="14862:7856" name="Type=Calendar, Position=Left, Dark Mode=True" x="640" y="2272" width="352" height="285" />
+      <symbol id="14862:6646" name="Type=Calendar, Position=Right, Dark Mode=False" x="96" y="2597" width="352" height="285" />
+      <symbol id="14862:7880" name="Type=Calendar, Position=Right, Dark Mode=True" x="640" y="2597" width="352" height="285" />
+      <symbol id="14862:6684" name="Type=1 Image, Position=Left, Dark Mode=False" x="96" y="2922" width="352" height="356" />
+      <symbol id="14862:7905" name="Type=1 Image, Position=Left, Dark Mode=True" x="640" y="2922" width="352" height="356" />
+      <symbol id="14862:6726" name="Type=1 Image, Position=Right, Dark Mode=False" x="96" y="3297" width="352" height="356" />
+      <symbol id="14862:7915" name="Type=1 Image, Position=Right, Dark Mode=True" x="640" y="3297" width="352" height="356" />
+      <symbol id="14862:6955" name="Type=2+ Images, Position=Left, Dark Mode=False" x="96" y="3672" width="352" height="456.0000305175781" />
+      <symbol id="14862:7926" name="Type=2+ Images, Position=Left, Dark Mode=True" x="640" y="3672" width="352" height="456.0000305175781" />
+      <symbol id="14862:6965" name="Type=2+ Images, Position=Right, Dark Mode=False" x="96" y="4147" width="352" height="456.0000305175781" />
+      <symbol id="14862:7940" name="Type=2+ Images, Position=Right, Dark Mode=True" x="640" y="4147" width="352" height="456.0000305175781" />
+      <symbol id="14862:7004" name="Type=Link, Position=Left, Dark Mode=False" x="96" y="4622" width="352" height="357" />
+      <symbol id="14862:7955" name="Type=Link, Position=Left, Dark Mode=True" x="640" y="4622" width="352" height="357" />
+      <symbol id="14862:6990" name="Type=Link, Position=Right, Dark Mode=False" x="96" y="5019" width="352" height="357" />
+      <symbol id="14862:7968" name="Type=Link, Position=Right, Dark Mode=True" x="640" y="5019" width="352" height="357" />
+    </frame>
+  </frame>
+  <frame id="14862:3434" name="Chat Examples" x="-7266" y="-1263" width="1480" height="1214">
+    <frame id="14862:3433" name="Chat Example" x="112" y="112" width="600" height="990">
+      <instance id="14862:3402" name="Chat Bubble" x="192" y="288" width="352" height="142" />
+      <instance id="14862:7051" name="Chat Bubble" x="192" y="602" width="352" height="332" />
+      <instance id="14862:3394" name="Chat Bubble" x="56" y="172" width="352" height="117" />
+      <instance id="14862:3414" name="Chat Bubble" x="56" y="450" width="352" height="132" />
+      <instance id="14862:3422" name="Chat Bubble" x="192" y="56" width="352" height="117" />
+    </frame>
+    <frame id="14862:8674" name="Chat Example" x="768" y="112" width="600" height="990">
+      <instance id="14862:8675" name="Chat Bubble" x="192" y="288" width="352" height="142" />
+      <instance id="14862:8676" name="Chat Bubble" x="192" y="602" width="352" height="332" />
+      <instance id="14862:8677" name="Chat Bubble" x="56" y="172" width="352" height="117" />
+      <instance id="14862:8678" name="Chat Bubble" x="56" y="450" width="352" height="132" />
+      <instance id="14862:8679" name="Chat Bubble" x="192" y="56" width="352" height="117" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

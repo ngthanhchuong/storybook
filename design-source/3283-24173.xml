@@ -1,0 +1,68 @@
+<canvas id="3283:24173" name="↳ Progress Bars" x="0" y="0" width="0" height="0">
+  <frame id="14883:2503" name="Progress Bars" x="-1110" y="666" width="3040" height="1308">
+    <rounded-rectangle id="14883:3257" name="Background" x="112" y="654" width="2816" height="542" />
+    <frame id="14883:3232" name="Progress Bar" x="112" y="112" width="2816" height="1084">
+      <symbol id="14883:3231" name="Color=Red, Value=100%, Dark Mode=False" x="96" y="96" width="384" height="30" />
+      <symbol id="14883:3379" name="Color=Blue, Value=100%, Dark Mode=False" x="544" y="96" width="384" height="30" />
+      <symbol id="14883:3499" name="Color=Green, Value=100%, Dark Mode=False" x="992" y="96" width="384" height="30" />
+      <symbol id="14883:3619" name="Color=Yellow, Value=100%, Dark Mode=False" x="1440" y="96" width="384" height="30" />
+      <symbol id="14883:3739" name="Color=Purple, Value=100%, Dark Mode=False" x="1888" y="96" width="384" height="30" />
+      <symbol id="14883:3859" name="Color=Pink, Value=100%, Dark Mode=False" x="2336" y="96" width="384" height="30" />
+      <symbol id="14883:3289" name="Color=Red, Value=100%, Dark Mode=True" x="96" y="638" width="384" height="30" />
+      <symbol id="14883:3385" name="Color=Blue, Value=100%, Dark Mode=True" x="544" y="638" width="384" height="30" />
+      <symbol id="14883:3505" name="Color=Green, Value=100%, Dark Mode=True" x="992" y="638" width="384" height="30" />
+      <symbol id="14883:3625" name="Color=Yellow, Value=100%, Dark Mode=True" x="1440" y="638" width="384" height="30" />
+      <symbol id="14883:3745" name="Color=Purple, Value=100%, Dark Mode=True" x="1888" y="638" width="384" height="30" />
+      <symbol id="14883:3865" name="Color=Pink, Value=100%, Dark Mode=True" x="2336" y="638" width="384" height="30" />
+      <symbol id="14883:3233" name="Color=Red, Value=75%, Dark Mode=False" x="96" y="176" width="384" height="30" />
+      <symbol id="14883:3391" name="Color=Blue, Value=75%, Dark Mode=False" x="544" y="176" width="384" height="30" />
+      <symbol id="14883:3511" name="Color=Green, Value=75%, Dark Mode=False" x="992" y="176" width="384" height="30" />
+      <symbol id="14883:3631" name="Color=Yellow, Value=75%, Dark Mode=False" x="1440" y="176" width="384" height="30" />
+      <symbol id="14883:3751" name="Color=Purple, Value=75%, Dark Mode=False" x="1888" y="176" width="384" height="30" />
+      <symbol id="14883:3871" name="Color=Pink, Value=75%, Dark Mode=False" x="2336" y="176" width="384" height="30" />
+      <symbol id="14883:3295" name="Color=Red, Value=75%, Dark Mode=True" x="96" y="718" width="384" height="30" />
+      <symbol id="14883:3397" name="Color=Blue, Value=75%, Dark Mode=True" x="544" y="718" width="384" height="30" />
+      <symbol id="14883:3517" name="Color=Green, Value=75%, Dark Mode=True" x="992" y="718" width="384" height="30" />
+      <symbol id="14883:3637" name="Color=Yellow, Value=75%, Dark Mode=True" x="1440" y="718" width="384" height="30" />
+      <symbol id="14883:3757" name="Color=Purple, Value=75%, Dark Mode=True" x="1888" y="718" width="384" height="30" />
+      <symbol id="14883:3877" name="Color=Pink, Value=75%, Dark Mode=True" x="2336" y="718" width="384" height="30" />
+      <symbol id="14883:3239" name="Color=Red, Value=50%, Dark Mode=False" x="96" y="256" width="384" height="30" />
+      <symbol id="14883:3403" name="Color=Blue, Value=50%, Dark Mode=False" x="544" y="256" width="384" height="30" />
+      <symbol id="14883:3523" name="Color=Green, Value=50%, Dark Mode=False" x="992" y="256" width="384" height="30" />
+      <symbol id="14883:3643" name="Color=Yellow, Value=50%, Dark Mode=False" x="1440" y="256" width="384" height="30" />
+      <symbol id="14883:3763" name="Color=Purple, Value=50%, Dark Mode=False" x="1888" y="256" width="384" height="30" />
+      <symbol id="14883:3883" name="Color=Pink, Value=50%, Dark Mode=False" x="2336" y="256" width="384" height="30" />
+      <symbol id="14883:3301" name="Color=Red, Value=50%, Dark Mode=True" x="96" y="798" width="384" height="30" />
+      <symbol id="14883:3409" name="Color=Blue, Value=50%, Dark Mode=True" x="544" y="798" width="384" height="30" />
+      <symbol id="14883:3529" name="Color=Green, Value=50%, Dark Mode=True" x="992" y="798" width="384" height="30" />
+      <symbol id="14883:3649" name="Color=Yellow, Value=50%, Dark Mode=True" x="1440" y="798" width="384" height="30" />
+      <symbol id="14883:3769" name="Color=Purple, Value=50%, Dark Mode=True" x="1888" y="798" width="384" height="30" />
+      <symbol id="14883:3889" name="Color=Pink, Value=50%, Dark Mode=True" x="2336" y="798" width="384" height="30" />
+      <symbol id="14883:3245" name="Color=Red, Value=25%, Dark Mode=False" x="96" y="336" width="384" height="30" />
+      <symbol id="14883:3415" name="Color=Blue, Value=25%, Dark Mode=False" x="544" y="336" width="384" height="30" />
+      <symbol id="14883:3535" name="Color=Green, Value=25%, Dark Mode=False" x="992" y="336" width="384" height="30" />
+      <symbol id="14883:3655" name="Color=Yellow, Value=25%, Dark Mode=False" x="1440" y="336" width="384" height="30" />
+      <symbol id="14883:3775" name="Color=Purple, Value=25%, Dark Mode=False" x="1888" y="336" width="384" height="30" />
+      <symbol id="14883:3895" name="Color=Pink, Value=25%, Dark Mode=False" x="2336" y="336" width="384" height="30" />
+      <symbol id="14883:3307" name="Color=Red, Value=25%, Dark Mode=True" x="96" y="878" width="384" height="30" />
+      <symbol id="14883:3421" name="Color=Blue, Value=25%, Dark Mode=True" x="544" y="878" width="384" height="30" />
+      <symbol id="14883:3541" name="Color=Green, Value=25%, Dark Mode=True" x="992" y="878" width="384" height="30" />
+      <symbol id="14883:3661" name="Color=Yellow, Value=25%, Dark Mode=True" x="1440" y="878" width="384" height="30" />
+      <symbol id="14883:3781" name="Color=Purple, Value=25%, Dark Mode=True" x="1888" y="878" width="384" height="30" />
+      <symbol id="14883:3901" name="Color=Pink, Value=25%, Dark Mode=True" x="2336" y="878" width="384" height="30" />
+      <symbol id="14883:3251" name="Color=Red, Value=0%, Dark Mode=False" x="96" y="416" width="384" height="30" />
+      <symbol id="14883:3427" name="Color=Blue, Value=0%, Dark Mode=False" x="544" y="416" width="384" height="30" />
+      <symbol id="14883:3547" name="Color=Green, Value=0%, Dark Mode=False" x="992" y="416" width="384" height="30" />
+      <symbol id="14883:3667" name="Color=Yellow, Value=0%, Dark Mode=False" x="1440" y="416" width="384" height="30" />
+      <symbol id="14883:3787" name="Color=Purple, Value=0%, Dark Mode=False" x="1888" y="416" width="384" height="30" />
+      <symbol id="14883:3907" name="Color=Pink, Value=0%, Dark Mode=False" x="2336" y="416" width="384" height="30" />
+      <symbol id="14883:3313" name="Color=Red, Value=0%, Dark Mode=True" x="96" y="958" width="384" height="30" />
+      <symbol id="14883:3433" name="Color=Blue, Value=0%, Dark Mode=True" x="544" y="958" width="384" height="30" />
+      <symbol id="14883:3553" name="Color=Green, Value=0%, Dark Mode=True" x="992" y="958" width="384" height="30" />
+      <symbol id="14883:3673" name="Color=Yellow, Value=0%, Dark Mode=True" x="1440" y="958" width="384" height="30" />
+      <symbol id="14883:3793" name="Color=Purple, Value=0%, Dark Mode=True" x="1888" y="958" width="384" height="30" />
+      <symbol id="14883:3913" name="Color=Pink, Value=0%, Dark Mode=True" x="2336" y="958" width="384" height="30" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

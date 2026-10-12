@@ -1,0 +1,15 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Bottom navigation/Navigation Atoms",args:{"Type":"Icon","Active":"False","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["Avatar","Icon"]},"Active":{"control":"select","options":["False","True"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14863-10099"}},render:(args)=> <CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+8+')',render:()=> <CatalogStory pageId="2109:202906" groupId="14863:10099" gallery/>};
+export const Variant001:Story={name:"Type=Icon, Active=False, Dark Mode=False",args:{"Type":"Icon","Active":"False","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant002:Story={name:"Type=Icon, Active=True, Dark Mode=False",args:{"Type":"Icon","Active":"True","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant003:Story={name:"Type=Avatar, Active=False, Dark Mode=False",args:{"Type":"Avatar","Active":"False","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant004:Story={name:"Type=Avatar, Active=True, Dark Mode=False",args:{"Type":"Avatar","Active":"True","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant005:Story={name:"Type=Icon, Active=False, Dark Mode=True",args:{"Type":"Icon","Active":"False","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant006:Story={name:"Type=Icon, Active=True, Dark Mode=True",args:{"Type":"Icon","Active":"True","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant007:Story={name:"Type=Avatar, Active=False, Dark Mode=True",args:{"Type":"Avatar","Active":"False","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};
+export const Variant008:Story={name:"Type=Avatar, Active=True, Dark Mode=True",args:{"Type":"Avatar","Active":"True","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2109:202906" groupId="14863:10099" properties={args}/>};

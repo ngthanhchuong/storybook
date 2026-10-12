@@ -1,0 +1,44 @@
+<canvas id="331:57073" name="↳ Search Inputs" x="0" y="0" width="0" height="0">
+  <frame id="15119:53903" name="Searches" x="-6460" y="-718" width="3642" height="1261">
+    <rounded-rectangle id="15119:59509" name="Background" x="1836" y="112" width="1694" height="1037" />
+    <frame id="15119:58611" name="Search" x="112" y="112" width="3418" height="1037">
+      <symbol id="15119:58515" name="Type=Country, Size=SM, Dark Mode=False" x="96" y="96" width="400" height="34" />
+      <symbol id="15119:59832" name="Type=Country, Size=SM, Dark Mode=True" x="1790" y="96" width="400" height="34" />
+      <symbol id="15119:59061" name="Type=Select + Input + Button, Size=SM, Dark Mode=False" x="96" y="735" width="400" height="34" />
+      <symbol id="15119:59839" name="Type=Select + Input + Button, Size=SM, Dark Mode=True" x="1790" y="735" width="400" height="34" />
+      <symbol id="15119:59362" name="Type=2 Selects, Size=SM, Dark Mode=False" x="96" y="886" width="400" height="34" />
+      <symbol id="15119:59847" name="Type=2 Selects, Size=SM, Dark Mode=True" x="1790" y="886" width="400" height="34" />
+      <symbol id="15119:58609" name="Type=Country, Size=LG, Dark Mode=False" x="1128" y="96" width="500" height="55" />
+      <symbol id="15119:59858" name="Type=Country, Size=LG, Dark Mode=True" x="2822" y="96" width="500" height="55" />
+      <symbol id="15119:59068" name="Type=Select + Input + Button, Size=LG, Dark Mode=False" x="1128" y="735" width="500" height="55" />
+      <symbol id="15119:59865" name="Type=Select + Input + Button, Size=LG, Dark Mode=True" x="2822" y="735" width="500" height="55" />
+      <symbol id="15119:59371" name="Type=2 Selects, Size=LG, Dark Mode=False" x="1128" y="886" width="500" height="78" />
+      <symbol id="15119:59873" name="Type=2 Selects, Size=LG, Dark Mode=True" x="2822" y="886" width="500" height="78" />
+      <symbol id="15119:58608" name="Type=Country, Size=MD, Dark Mode=False" x="592" y="96" width="440" height="45" />
+      <symbol id="15119:59884" name="Type=Country, Size=MD, Dark Mode=True" x="2286" y="96" width="440" height="45" />
+      <symbol id="15119:59075" name="Type=Select + Input + Button, Size=MD, Dark Mode=False" x="592" y="735" width="440" height="45" />
+      <symbol id="15119:59891" name="Type=Select + Input + Button, Size=MD, Dark Mode=True" x="2286" y="735" width="440" height="45" />
+      <symbol id="15119:59380" name="Type=2 Selects, Size=MD, Dark Mode=False" x="592" y="886" width="440" height="45" />
+      <symbol id="15119:59899" name="Type=2 Selects, Size=MD, Dark Mode=True" x="2286" y="886" width="440" height="45" />
+      <symbol id="15119:58685" name="Type=Input + Icon Button, Size=SM, Dark Mode=False" x="96" y="247" width="400" height="34" />
+      <symbol id="15119:59910" name="Type=Input + Icon Button, Size=SM, Dark Mode=True" x="1790" y="247" width="400" height="34" />
+      <symbol id="15119:58733" name="Type=Input + Button, Size=SM, Dark Mode=False" x="96" y="399" width="400" height="34" />
+      <symbol id="15119:59916" name="Type=Input + Button, Size=SM, Dark Mode=True" x="1790" y="399" width="400" height="34" />
+      <symbol id="15119:58850" name="Type=Button Inside, Size=SM, Dark Mode=False" x="96" y="551" width="400" height="48" />
+      <symbol id="15119:59922" name="Type=Button Inside, Size=SM, Dark Mode=True" x="1790" y="551" width="400" height="48" />
+      <symbol id="15119:58686" name="Type=Input + Icon Button, Size=MD, Dark Mode=False" x="592" y="247" width="440" height="45" />
+      <symbol id="15119:59927" name="Type=Input + Icon Button, Size=MD, Dark Mode=True" x="2286" y="247" width="440" height="45" />
+      <symbol id="15119:58739" name="Type=Input + Button, Size=MD, Dark Mode=False" x="592" y="399" width="440" height="45" />
+      <symbol id="15119:59933" name="Type=Input + Button, Size=MD, Dark Mode=True" x="2286" y="399" width="440" height="45" />
+      <symbol id="15119:58856" name="Type=Button Inside, Size=MD, Dark Mode=False" x="592" y="551" width="440" height="68" />
+      <symbol id="15119:59939" name="Type=Button Inside, Size=MD, Dark Mode=True" x="2286" y="551" width="440" height="68" />
+      <symbol id="15119:58687" name="Type=Input + Icon Button, Size=LG, Dark Mode=False" x="1128" y="247" width="500" height="56" />
+      <symbol id="15119:59944" name="Type=Input + Icon Button, Size=LG, Dark Mode=True" x="2822" y="247" width="500" height="56" />
+      <symbol id="15119:58745" name="Type=Input + Button, Size=LG, Dark Mode=False" x="1128" y="399" width="500" height="56" />
+      <symbol id="15119:59950" name="Type=Input + Button, Size=LG, Dark Mode=True" x="2822" y="399" width="500" height="56" />
+      <symbol id="15119:58862" name="Type=Button Inside, Size=LG, Dark Mode=False" x="1128" y="551" width="500" height="88" />
+      <symbol id="15119:59956" name="Type=Button Inside, Size=LG, Dark Mode=True" x="2822" y="551" width="500" height="88" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

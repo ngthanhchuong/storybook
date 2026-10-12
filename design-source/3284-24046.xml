@@ -1,0 +1,24 @@
+<canvas id="3284:24046" name="↳ Spinners" x="0" y="0" width="0" height="0">
+  <frame id="15112:37709" name="Spinners" x="-3084" y="-383" width="1392" height="736">
+    <rounded-rectangle id="15112:38126" name="Background" x="696" y="112" width="584" height="512" />
+    <frame id="15112:38061" name="Spinner" x="112" y="112" width="1168" height="512">
+      <symbol id="15112:38057" name="Type=Default, Size=XL, Dark Mode=False" x="96" y="96" width="112" height="112" />
+      <symbol id="15112:38106" name="Type=Default, Size=XL, Dark Mode=True" x="680" y="96" width="112" height="112" />
+      <symbol id="15112:38074" name="Type=Progress Only, Size=XL, Dark Mode=False" x="96" y="304" width="112" height="112" />
+      <symbol id="15112:38109" name="Type=Progress Only, Size=XL, Dark Mode=True" x="680" y="304" width="112" height="112" />
+      <symbol id="15112:38058" name="Type=Default, Size=LG, Dark Mode=False" x="248" y="96" width="80" height="80" />
+      <symbol id="15112:38111" name="Type=Default, Size=LG, Dark Mode=True" x="832" y="96" width="80" height="80" />
+      <symbol id="15112:38077" name="Type=Progress Only, Size=LG, Dark Mode=False" x="248" y="304" width="80" height="80" />
+      <symbol id="15112:38114" name="Type=Progress Only, Size=LG, Dark Mode=True" x="832" y="304" width="80" height="80" />
+      <symbol id="15112:38059" name="Type=Default, Size=MD, Dark Mode=False" x="368" y="96" width="56" height="56" />
+      <symbol id="15112:38116" name="Type=Default, Size=MD, Dark Mode=True" x="952" y="96" width="56" height="56" />
+      <symbol id="15112:38080" name="Type=Progress Only, Size=MD, Dark Mode=False" x="368" y="304" width="56" height="56" />
+      <symbol id="15112:38119" name="Type=Progress Only, Size=MD, Dark Mode=True" x="952" y="304" width="56" height="56" />
+      <symbol id="15112:38060" name="Type=Default, Size=SM, Dark Mode=False" x="464" y="96" width="24" height="24" />
+      <symbol id="15112:38121" name="Type=Default, Size=SM, Dark Mode=True" x="1048" y="96" width="24" height="24" />
+      <symbol id="15112:38083" name="Type=Progress Only, Size=SM, Dark Mode=False" x="464" y="304" width="24" height="24" />
+      <symbol id="15112:38124" name="Type=Progress Only, Size=SM, Dark Mode=True" x="1048" y="304" width="24" height="24" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

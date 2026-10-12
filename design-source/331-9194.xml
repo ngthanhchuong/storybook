@@ -1,0 +1,138 @@
+<canvas id="331:9194" name="↳ Radio, Checkbox &amp; Toggle" x="0" y="0" width="0" height="0">
+  <frame id="14879:1659" name="Radiobutton" x="-3034" y="-416" width="2868" height="712">
+    <rounded-rectangle id="14879:2740" name="Background" x="1434" y="112" width="1322" height="488" />
+    <frame id="14879:2593" name="Radiobutton" x="112" y="112" width="2644" height="488">
+      <symbol id="14879:2592" name="Type=Default, Size=SM, Checked=False, State=Default, Dark Mode=False" x="96" y="96" width="144" height="34" />
+      <symbol id="14879:2802" name="Type=Default, Size=SM, Checked=False, State=Default, Dark Mode=True" x="1418" y="96" width="144" height="34" />
+      <symbol id="14879:2660" name="Type=Default, Size=LG, Checked=False, State=Default, Dark Mode=False" x="96" y="170" width="163" height="39" />
+      <symbol id="14879:2807" name="Type=Default, Size=LG, Checked=False, State=Default, Dark Mode=True" x="1418" y="170" width="163" height="39" />
+      <symbol id="14879:2594" name="Type=Default, Size=SM, Checked=False, State=Hover, Dark Mode=False" x="291" y="96" width="144" height="34" />
+      <symbol id="14879:2812" name="Type=Default, Size=SM, Checked=False, State=Hover, Dark Mode=True" x="1613" y="96" width="144" height="34" />
+      <symbol id="14879:2665" name="Type=Default, Size=LG, Checked=False, State=Hover, Dark Mode=False" x="291" y="170" width="163" height="39" />
+      <symbol id="14879:2817" name="Type=Default, Size=LG, Checked=False, State=Hover, Dark Mode=True" x="1613" y="170" width="163" height="39" />
+      <symbol id="14879:2606" name="Type=Default, Size=SM, Checked=False, State=Disabled, Dark Mode=False" x="486" y="96" width="144" height="34" />
+      <symbol id="14879:2822" name="Type=Default, Size=SM, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="96" width="144" height="34" />
+      <symbol id="14879:2670" name="Type=Default, Size=LG, Checked=False, State=Disabled, Dark Mode=False" x="486" y="170" width="163" height="39" />
+      <symbol id="14879:2827" name="Type=Default, Size=LG, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="170" width="163" height="39" />
+      <symbol id="14879:2611" name="Type=Default, Size=SM, Checked=True, State=Default, Dark Mode=False" x="681" y="96" width="144" height="34" />
+      <symbol id="14879:2832" name="Type=Default, Size=SM, Checked=True, State=Default, Dark Mode=True" x="2003" y="96" width="144" height="34" />
+      <symbol id="14879:2675" name="Type=Default, Size=LG, Checked=True, State=Default, Dark Mode=False" x="681" y="170" width="163" height="39" />
+      <symbol id="14879:2837" name="Type=Default, Size=LG, Checked=True, State=Default, Dark Mode=True" x="2003" y="170" width="163" height="39" />
+      <symbol id="14879:2616" name="Type=Default, Size=SM, Checked=True, State=Hover, Dark Mode=False" x="876" y="96" width="144" height="34" />
+      <symbol id="14879:2842" name="Type=Default, Size=SM, Checked=True, State=Hover, Dark Mode=True" x="2198" y="96" width="144" height="34" />
+      <symbol id="14879:2680" name="Type=Default, Size=LG, Checked=True, State=Hover, Dark Mode=False" x="876" y="170" width="163" height="39" />
+      <symbol id="14879:2847" name="Type=Default, Size=LG, Checked=True, State=Hover, Dark Mode=True" x="2198" y="170" width="163" height="39" />
+      <symbol id="14879:2621" name="Type=Default, Size=SM, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="96" width="144" height="34" />
+      <symbol id="14879:2852" name="Type=Default, Size=SM, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="96" width="144" height="34" />
+      <symbol id="14879:2685" name="Type=Default, Size=LG, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="170" width="163" height="39" />
+      <symbol id="14879:2857" name="Type=Default, Size=LG, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="170" width="163" height="39" />
+      <symbol id="14879:2865" name="Type=Advanced, Size=SM, Checked=False, State=Default, Dark Mode=False" x="96" y="281" width="142" height="34" />
+      <symbol id="14879:2938" name="Type=Advanced, Size=SM, Checked=False, State=Default, Dark Mode=True" x="1418" y="281" width="142" height="34" />
+      <symbol id="14879:2902" name="Type=Advanced, Size=LG, Checked=False, State=Default, Dark Mode=False" x="96" y="355" width="167" height="37" />
+      <symbol id="14879:2940" name="Type=Advanced, Size=LG, Checked=False, State=Default, Dark Mode=True" x="1418" y="355" width="167" height="37" />
+      <symbol id="14879:2884" name="Type=Advanced, Size=SM, Checked=True, State=Default, Dark Mode=False" x="681" y="281" width="142" height="34" />
+      <symbol id="14879:2942" name="Type=Advanced, Size=SM, Checked=True, State=Default, Dark Mode=True" x="2003" y="281" width="142" height="34" />
+      <symbol id="14879:2904" name="Type=Advanced, Size=LG, Checked=True, State=Default, Dark Mode=False" x="681" y="355" width="167" height="37" />
+      <symbol id="14879:2944" name="Type=Advanced, Size=LG, Checked=True, State=Default, Dark Mode=True" x="2003" y="355" width="167" height="37" />
+      <symbol id="14879:2872" name="Type=Advanced, Size=SM, Checked=False, State=Disabled, Dark Mode=False" x="486" y="281" width="142" height="34" />
+      <symbol id="14879:2946" name="Type=Advanced, Size=SM, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="281" width="142" height="34" />
+      <symbol id="14879:2906" name="Type=Advanced, Size=LG, Checked=False, State=Disabled, Dark Mode=False" x="486" y="355" width="167" height="37" />
+      <symbol id="14879:2948" name="Type=Advanced, Size=LG, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="355" width="167" height="37" />
+      <symbol id="14879:2886" name="Type=Advanced, Size=SM, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="281" width="142" height="34" />
+      <symbol id="14879:2950" name="Type=Advanced, Size=SM, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="281" width="142" height="34" />
+      <symbol id="14879:2908" name="Type=Advanced, Size=LG, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="355" width="167" height="37" />
+      <symbol id="14879:2952" name="Type=Advanced, Size=LG, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="355" width="167" height="37" />
+      <symbol id="14879:2868" name="Type=Advanced, Size=SM, Checked=False, State=Hover, Dark Mode=False" x="291" y="281" width="142" height="34" />
+      <symbol id="14879:2954" name="Type=Advanced, Size=SM, Checked=False, State=Hover, Dark Mode=True" x="1613" y="281" width="142" height="34" />
+      <symbol id="14879:2910" name="Type=Advanced, Size=LG, Checked=False, State=Hover, Dark Mode=False" x="291" y="355" width="167" height="37" />
+      <symbol id="14879:2956" name="Type=Advanced, Size=LG, Checked=False, State=Hover, Dark Mode=True" x="1613" y="355" width="167" height="37" />
+      <symbol id="14879:2888" name="Type=Advanced, Size=SM, Checked=True, State=Hover, Dark Mode=False" x="876" y="281" width="142" height="34" />
+      <symbol id="14879:2958" name="Type=Advanced, Size=SM, Checked=True, State=Hover, Dark Mode=True" x="2198" y="281" width="142" height="34" />
+      <symbol id="14879:2912" name="Type=Advanced, Size=LG, Checked=True, State=Hover, Dark Mode=False" x="876" y="355" width="167" height="37" />
+      <symbol id="14879:2960" name="Type=Advanced, Size=LG, Checked=True, State=Hover, Dark Mode=True" x="2198" y="355" width="167" height="37" />
+    </frame>
+  </frame>
+  <frame id="14879:9987" name="Toggle" x="-3034" y="1408" width="2556" height="529">
+    <rounded-rectangle id="14879:9988" name="Background" x="1278" y="112" width="1166" height="305" />
+    <frame id="14879:9989" name="Toggle" x="112" y="112" width="2332" height="305">
+      <symbol id="14879:9990" name="Size=SM, Checked=False, State=Default, Dark Mode=False" x="96" y="96" width="122" height="34" />
+      <symbol id="14879:9995" name="Size=SM, Checked=False, State=Default, Dark Mode=True" x="1262" y="96" width="122" height="34" />
+      <symbol id="14879:10000" name="Size=LG, Checked=False, State=Default, Dark Mode=False" x="96" y="170" width="137" height="39" />
+      <symbol id="14879:10005" name="Size=LG, Checked=False, State=Default, Dark Mode=True" x="1262" y="170" width="137" height="39" />
+      <symbol id="14879:10010" name="Size=SM, Checked=False, State=Hover, Dark Mode=False" x="265" y="96" width="122" height="34" />
+      <symbol id="14879:10015" name="Size=SM, Checked=False, State=Hover, Dark Mode=True" x="1431" y="96" width="122" height="34" />
+      <symbol id="14879:10020" name="Size=LG, Checked=False, State=Hover, Dark Mode=False" x="265" y="170" width="137" height="39" />
+      <symbol id="14879:10025" name="Size=LG, Checked=False, State=Hover, Dark Mode=True" x="1431" y="170" width="137" height="39" />
+      <symbol id="14879:10030" name="Size=SM, Checked=False, State=Disabled, Dark Mode=False" x="434" y="96" width="122" height="34" />
+      <symbol id="14879:10035" name="Size=SM, Checked=False, State=Disabled, Dark Mode=True" x="1600" y="96" width="122" height="34" />
+      <symbol id="14879:10040" name="Size=LG, Checked=False, State=Disabled, Dark Mode=False" x="434" y="170" width="137" height="39" />
+      <symbol id="14879:10045" name="Size=LG, Checked=False, State=Disabled, Dark Mode=True" x="1600" y="170" width="137" height="39" />
+      <symbol id="14879:10050" name="Size=SM, Checked=True, State=Default, Dark Mode=False" x="603" y="96" width="122" height="34" />
+      <symbol id="14879:10055" name="Size=SM, Checked=True, State=Default, Dark Mode=True" x="1769" y="96" width="122" height="34" />
+      <symbol id="14879:10060" name="Size=LG, Checked=True, State=Default, Dark Mode=False" x="603" y="170" width="137" height="39" />
+      <symbol id="14879:10065" name="Size=LG, Checked=True, State=Default, Dark Mode=True" x="1769" y="170" width="137" height="39" />
+      <symbol id="14879:10070" name="Size=SM, Checked=True, State=Hover, Dark Mode=False" x="772" y="96" width="122" height="34" />
+      <symbol id="14879:10075" name="Size=SM, Checked=True, State=Hover, Dark Mode=True" x="1938" y="96" width="122" height="34" />
+      <symbol id="14879:10080" name="Size=LG, Checked=True, State=Hover, Dark Mode=False" x="772" y="170" width="137" height="39" />
+      <symbol id="14879:10085" name="Size=LG, Checked=True, State=Hover, Dark Mode=True" x="1938" y="170" width="137" height="39" />
+      <symbol id="14879:10090" name="Size=SM, Checked=True, State=Disabled, Dark Mode=False" x="941" y="96" width="122" height="34" />
+      <symbol id="14879:10095" name="Size=SM, Checked=True, State=Disabled, Dark Mode=True" x="2107" y="96" width="122" height="34" />
+      <symbol id="14879:10100" name="Size=LG, Checked=True, State=Disabled, Dark Mode=False" x="941" y="170" width="137" height="39" />
+      <symbol id="14879:10105" name="Size=LG, Checked=True, State=Disabled, Dark Mode=True" x="2107" y="170" width="137" height="39" />
+    </frame>
+  </frame>
+  <frame id="14879:2981" name="Checkbox" x="-3034" y="496" width="2868" height="712">
+    <rounded-rectangle id="14879:2982" name="Background" x="1434" y="112" width="1322" height="488" />
+    <frame id="14879:2983" name="Checkbox" x="112" y="112" width="2644" height="488">
+      <symbol id="14879:2984" name="Type=Default, Size=SM, Checked=False, State=Default, Dark Mode=False" x="96" y="96" width="129" height="34" />
+      <symbol id="14879:2989" name="Type=Default, Size=SM, Checked=False, State=Default, Dark Mode=True" x="1418" y="96" width="129" height="34" />
+      <symbol id="14879:2994" name="Type=Default, Size=LG, Checked=False, State=Default, Dark Mode=False" x="96" y="170" width="146" height="39" />
+      <symbol id="14879:2999" name="Type=Default, Size=LG, Checked=False, State=Default, Dark Mode=True" x="1418" y="170" width="146" height="39" />
+      <symbol id="14879:3004" name="Type=Default, Size=SM, Checked=False, State=Hover, Dark Mode=False" x="291" y="96" width="129" height="34" />
+      <symbol id="14879:3009" name="Type=Default, Size=SM, Checked=False, State=Hover, Dark Mode=True" x="1613" y="96" width="129" height="34" />
+      <symbol id="14879:3014" name="Type=Default, Size=LG, Checked=False, State=Hover, Dark Mode=False" x="291" y="170" width="146" height="39" />
+      <symbol id="14879:3019" name="Type=Default, Size=LG, Checked=False, State=Hover, Dark Mode=True" x="1613" y="170" width="146" height="39" />
+      <symbol id="14879:3024" name="Type=Default, Size=SM, Checked=False, State=Disabled, Dark Mode=False" x="486" y="96" width="129" height="34" />
+      <symbol id="14879:3029" name="Type=Default, Size=SM, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="96" width="129" height="34" />
+      <symbol id="14879:3034" name="Type=Default, Size=LG, Checked=False, State=Disabled, Dark Mode=False" x="486" y="170" width="146" height="39" />
+      <symbol id="14879:3039" name="Type=Default, Size=LG, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="170" width="146" height="39" />
+      <symbol id="14879:3044" name="Type=Default, Size=SM, Checked=True, State=Default, Dark Mode=False" x="681" y="96" width="129" height="34" />
+      <symbol id="14879:3049" name="Type=Default, Size=SM, Checked=True, State=Default, Dark Mode=True" x="2003" y="96" width="129" height="34" />
+      <symbol id="14879:3054" name="Type=Default, Size=LG, Checked=True, State=Default, Dark Mode=False" x="681" y="170" width="146" height="39" />
+      <symbol id="14879:3059" name="Type=Default, Size=LG, Checked=True, State=Default, Dark Mode=True" x="2003" y="170" width="146" height="39" />
+      <symbol id="14879:3064" name="Type=Default, Size=SM, Checked=True, State=Hover, Dark Mode=False" x="876" y="96" width="129" height="34" />
+      <symbol id="14879:3069" name="Type=Default, Size=SM, Checked=True, State=Hover, Dark Mode=True" x="2198" y="96" width="129" height="34" />
+      <symbol id="14879:3074" name="Type=Default, Size=LG, Checked=True, State=Hover, Dark Mode=False" x="876" y="170" width="146" height="39" />
+      <symbol id="14879:3079" name="Type=Default, Size=LG, Checked=True, State=Hover, Dark Mode=True" x="2198" y="170" width="146" height="39" />
+      <symbol id="14879:3084" name="Type=Default, Size=SM, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="96" width="129" height="34" />
+      <symbol id="14879:3089" name="Type=Default, Size=SM, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="96" width="129" height="34" />
+      <symbol id="14879:3094" name="Type=Default, Size=LG, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="170" width="146" height="39" />
+      <symbol id="14879:3099" name="Type=Default, Size=LG, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="170" width="146" height="39" />
+      <symbol id="14879:3104" name="Type=Advanced, Size=SM, Checked=False, State=Default, Dark Mode=False" x="96" y="281" width="127" height="34" />
+      <symbol id="14879:3106" name="Type=Advanced, Size=SM, Checked=False, State=Default, Dark Mode=True" x="1418" y="281" width="127" height="34" />
+      <symbol id="14879:3108" name="Type=Advanced, Size=LG, Checked=False, State=Default, Dark Mode=False" x="96" y="355" width="150" height="37" />
+      <symbol id="14879:3110" name="Type=Advanced, Size=LG, Checked=False, State=Default, Dark Mode=True" x="1418" y="355" width="150" height="37" />
+      <symbol id="14879:3112" name="Type=Advanced, Size=SM, Checked=True, State=Default, Dark Mode=False" x="681" y="281" width="127" height="34" />
+      <symbol id="14879:3114" name="Type=Advanced, Size=SM, Checked=True, State=Default, Dark Mode=True" x="2003" y="281" width="127" height="34" />
+      <symbol id="14879:3116" name="Type=Advanced, Size=LG, Checked=True, State=Default, Dark Mode=False" x="681" y="355" width="150" height="37" />
+      <symbol id="14879:3118" name="Type=Advanced, Size=LG, Checked=True, State=Default, Dark Mode=True" x="2003" y="355" width="150" height="37" />
+      <symbol id="14879:3120" name="Type=Advanced, Size=SM, Checked=False, State=Disabled, Dark Mode=False" x="486" y="281" width="127" height="34" />
+      <symbol id="14879:3122" name="Type=Advanced, Size=SM, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="281" width="127" height="34" />
+      <symbol id="14879:3124" name="Type=Advanced, Size=LG, Checked=False, State=Disabled, Dark Mode=False" x="486" y="355" width="150" height="37" />
+      <symbol id="14879:3126" name="Type=Advanced, Size=LG, Checked=False, State=Disabled, Dark Mode=True" x="1808" y="355" width="150" height="37" />
+      <symbol id="14879:3128" name="Type=Advanced, Size=SM, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="281" width="127" height="34" />
+      <symbol id="14879:3130" name="Type=Advanced, Size=SM, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="281" width="127" height="34" />
+      <symbol id="14879:3132" name="Type=Advanced, Size=LG, Checked=True, State=Disabled, Dark Mode=False" x="1071" y="355" width="150" height="37" />
+      <symbol id="14879:3134" name="Type=Advanced, Size=LG, Checked=True, State=Disabled, Dark Mode=True" x="2393" y="355" width="150" height="37" />
+      <symbol id="14879:3136" name="Type=Advanced, Size=SM, Checked=False, State=Hover, Dark Mode=False" x="291" y="281" width="127" height="34" />
+      <symbol id="14879:3138" name="Type=Advanced, Size=SM, Checked=False, State=Hover, Dark Mode=True" x="1613" y="281" width="127" height="34" />
+      <symbol id="14879:3140" name="Type=Advanced, Size=LG, Checked=False, State=Hover, Dark Mode=False" x="291" y="355" width="150" height="37" />
+      <symbol id="14879:3142" name="Type=Advanced, Size=LG, Checked=False, State=Hover, Dark Mode=True" x="1613" y="355" width="150" height="37" />
+      <symbol id="14879:3144" name="Type=Advanced, Size=SM, Checked=True, State=Hover, Dark Mode=False" x="876" y="281" width="127" height="34" />
+      <symbol id="14879:3146" name="Type=Advanced, Size=SM, Checked=True, State=Hover, Dark Mode=True" x="2198" y="281" width="127" height="34" />
+      <symbol id="14879:3148" name="Type=Advanced, Size=LG, Checked=True, State=Hover, Dark Mode=False" x="876" y="355" width="150" height="37" />
+      <symbol id="14879:3150" name="Type=Advanced, Size=LG, Checked=True, State=Hover, Dark Mode=True" x="2198" y="355" width="150" height="37" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

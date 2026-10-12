@@ -1,0 +1,178 @@
+<canvas id="3279:21067" name="↳ Navbar" x="0" y="0" width="0" height="0">
+  <frame id="15113:38521" name="Navbars" x="-19796" y="-2278" width="6188" height="2055">
+    <rounded-rectangle id="15114:43017" name="Background" x="3094" y="112" width="2982" height="1831" />
+    <frame id="15113:39800" name="Navbar" x="112" y="112" width="5964" height="1831">
+      <symbol id="15113:39729" name="Type=Default, Device=Desktop, Dark Mode=False" x="96" y="96" width="1440" height="77" />
+      <symbol id="15114:43906" name="Type=Default, Device=Desktop, Dark Mode=True" x="3078" y="96" width="1440" height="77" />
+      <symbol id="15114:41343" name="Type=Menu Centered, Device=Desktop, Dark Mode=False" x="96" y="902" width="1440" height="57" />
+      <symbol id="15114:43926" name="Type=Menu Centered, Device=Desktop, Dark Mode=True" x="3078" y="902" width="1440" height="57" />
+      <symbol id="15114:41934" name="Type=Logo Centered, Device=Desktop, Dark Mode=False" x="96" y="1119" width="1440" height="77" />
+      <symbol id="15114:43953" name="Type=Logo Centered, Device=Desktop, Dark Mode=True" x="3078" y="1119" width="1440" height="77" />
+      <symbol id="15114:42823" name="Type=Search, Device=Desktop, Dark Mode=False" x="96" y="1659" width="1440" height="76" />
+      <symbol id="15114:43971" name="Type=Search, Device=Desktop, Dark Mode=True" x="3078" y="1659" width="1440" height="76" />
+      <symbol id="15113:39801" name="Type=Default, Device=Tablet, Dark Mode=False" x="1632" y="96" width="768" height="77" />
+      <symbol id="15114:43991" name="Type=Default, Device=Tablet, Dark Mode=True" x="4614" y="96" width="768" height="77" />
+      <symbol id="15114:41363" name="Type=Menu Centered, Device=Tablet, Dark Mode=False" x="1632" y="902" width="768" height="76" />
+      <symbol id="15114:44008" name="Type=Menu Centered, Device=Tablet, Dark Mode=True" x="4614" y="902" width="768" height="76" />
+      <symbol id="15114:41961" name="Type=Logo Centered, Device=Tablet, Dark Mode=False" x="1632" y="1119" width="768" height="77" />
+      <symbol id="15114:44031" name="Type=Logo Centered, Device=Tablet, Dark Mode=True" x="4614" y="1119" width="768" height="77" />
+      <symbol id="15114:42841" name="Type=Search, Device=Tablet, Dark Mode=False" x="1632" y="1659" width="768" height="76" />
+      <symbol id="15114:44046" name="Type=Search, Device=Tablet, Dark Mode=True" x="4614" y="1659" width="768" height="76" />
+      <symbol id="15114:39918" name="Type=Default, Device=Mobile, Dark Mode=False" x="2496" y="96" width="390" height="68" />
+      <symbol id="15114:44058" name="Type=Default, Device=Mobile, Dark Mode=True" x="5478" y="96" width="390" height="68" />
+      <symbol id="15114:41380" name="Type=Menu Centered, Device=Mobile, Dark Mode=False" x="2496" y="902" width="390" height="68" />
+      <symbol id="15114:44072" name="Type=Menu Centered, Device=Mobile, Dark Mode=True" x="5478" y="902" width="390" height="68" />
+      <symbol id="15114:41984" name="Type=Logo Centered, Device=Mobile, Dark Mode=False" x="2496" y="1119" width="390" height="68" />
+      <symbol id="15114:44088" name="Type=Logo Centered, Device=Mobile, Dark Mode=True" x="5478" y="1119" width="390" height="68" />
+      <symbol id="15114:42856" name="Type=Search, Device=Mobile, Dark Mode=False" x="2496" y="1659" width="390" height="68" />
+      <symbol id="15114:44102" name="Type=Search, Device=Mobile, Dark Mode=True" x="5478" y="1659" width="390" height="68" />
+      <symbol id="15114:40328" name="Type=Bottom Links, Device=Desktop, Dark Mode=False" x="96" y="333" width="1440" height="122" />
+      <symbol id="15114:44109" name="Type=Bottom Links, Device=Desktop, Dark Mode=True" x="3078" y="333" width="1440" height="122" />
+      <symbol id="15114:42499" name="Type=Two Levels, Device=Desktop, Dark Mode=False" x="96" y="1356" width="1440" height="143" />
+      <symbol id="15114:44130" name="Type=Two Levels, Device=Desktop, Dark Mode=True" x="3078" y="1356" width="1440" height="143" />
+      <symbol id="15114:40321" name="Type=Bottom Links, Device=Tablet, Dark Mode=False" x="1632" y="333" width="768" height="122" />
+      <symbol id="15114:44161" name="Type=Bottom Links, Device=Tablet, Dark Mode=True" x="4614" y="333" width="768" height="122" />
+      <symbol id="15114:42520" name="Type=Two Levels, Device=Tablet, Dark Mode=False" x="1632" y="1356" width="768" height="143" />
+      <symbol id="15114:44185" name="Type=Two Levels, Device=Tablet, Dark Mode=True" x="4614" y="1356" width="768" height="143" />
+      <symbol id="15114:40320" name="Type=Bottom Links, Device=Mobile, Dark Mode=False" x="2496" y="333" width="390" height="113" />
+      <symbol id="15114:44209" name="Type=Bottom Links, Device=Mobile, Dark Mode=True" x="5478" y="333" width="390" height="113" />
+      <symbol id="15114:42544" name="Type=Two Levels, Device=Mobile, Dark Mode=False" x="2496" y="1356" width="390" height="127" />
+      <symbol id="15114:44231" name="Type=Two Levels, Device=Mobile, Dark Mode=True" x="5478" y="1356" width="390" height="127" />
+      <symbol id="15114:41001" name="Type=Forex, Device=Desktop, Dark Mode=False" x="96" y="615" width="1440" height="127" />
+      <symbol id="15114:44248" name="Type=Forex, Device=Desktop, Dark Mode=True" x="3078" y="615" width="1440" height="127" />
+      <symbol id="15114:40952" name="Type=Forex, Device=Tablet, Dark Mode=False" x="1632" y="615" width="768" height="127" />
+      <symbol id="15114:44302" name="Type=Forex, Device=Tablet, Dark Mode=True" x="4614" y="615" width="768" height="127" />
+      <symbol id="15114:40915" name="Type=Forex, Device=Mobile, Dark Mode=False" x="2496" y="615" width="390" height="119" />
+      <symbol id="15114:44353" name="Type=Forex, Device=Mobile, Dark Mode=True" x="5478" y="615" width="390" height="119" />
+    </frame>
+  </frame>
+  <frame id="15114:45730" name="Examples" x="-13408" y="-2278" width="6124" height="8360">
+    <frame id="15114:45731" name="Screen" x="2512" y="112" width="390" height="844">
+      <instance id="15114:46322" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:45733" name="Screen" x="5622" y="112" width="390" height="844">
+      <instance id="15114:46477" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:45735" name="Screen" x="2512" y="3640" width="390" height="844">
+      <instance id="15114:48057" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:45737" name="Screen" x="5622" y="3640" width="390" height="844">
+      <instance id="15114:48158" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:45739" name="Screen" x="2512" y="4816" width="390" height="844">
+      <instance id="15114:48505" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:48655" name="Screen" x="2512" y="5992" width="390" height="844">
+      <instance id="15114:48656" name="Navbar" x="0" y="0" width="390" height="127" />
+    </frame>
+    <frame id="15114:48775" name="Screen" x="2512" y="7168" width="390" height="844">
+      <instance id="15114:48776" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:45741" name="Screen" x="5622" y="4816" width="390" height="844">
+      <instance id="15114:48541" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:48657" name="Screen" x="5622" y="5992" width="390" height="844">
+      <instance id="15114:48658" name="Navbar" x="0" y="0" width="390" height="127" />
+    </frame>
+    <frame id="15114:48777" name="Screen" x="5622" y="7168" width="390" height="844">
+      <instance id="15114:48778" name="Navbar" x="0" y="0" width="390" height="68" />
+    </frame>
+    <frame id="15114:45743" name="Screen" x="2512" y="1288" width="390" height="844">
+      <instance id="15114:46766" name="Navbar" x="0" y="0" width="390" height="113" />
+    </frame>
+    <frame id="15114:45745" name="Screen" x="5622" y="1288" width="390" height="844">
+      <instance id="15114:46851" name="Navbar" x="0" y="0" width="390" height="113" />
+    </frame>
+    <frame id="15114:45747" name="Screen" x="2512" y="2464" width="390" height="844">
+      <instance id="15114:47181" name="Navbar" x="0" y="0" width="390" height="119" />
+    </frame>
+    <frame id="15114:45749" name="Screen" x="5622" y="2464" width="390" height="844">
+      <instance id="15114:47348" name="Navbar" x="0" y="0" width="390" height="119" />
+    </frame>
+    <frame id="15114:45751" name="Screen" x="1648" y="112" width="768" height="1024">
+      <instance id="15114:46267" name="Navbar" x="0" y="0" width="768" height="77" />
+    </frame>
+    <frame id="15114:45753" name="Screen" x="4758" y="112" width="768" height="1024">
+      <instance id="15114:46422" name="Navbar" x="0" y="0" width="768" height="77" />
+    </frame>
+    <frame id="15114:45755" name="Screen" x="1648" y="3640" width="768" height="1024">
+      <instance id="15114:47935" name="Navbar" x="0" y="0" width="768" height="76" />
+    </frame>
+    <frame id="15114:45757" name="Screen" x="4758" y="3640" width="768" height="1024">
+      <instance id="15114:48198" name="Navbar" x="0" y="0" width="768" height="76" />
+    </frame>
+    <frame id="15114:45759" name="Screen" x="1648" y="4816" width="768" height="1024">
+      <instance id="15114:48464" name="Navbar" x="0" y="0" width="768" height="77" />
+    </frame>
+    <frame id="15114:48659" name="Screen" x="1648" y="5992" width="768" height="1024">
+      <instance id="15114:48660" name="Navbar" x="0" y="0" width="768" height="143" />
+    </frame>
+    <frame id="15114:48779" name="Screen" x="1648" y="7168" width="768" height="1024">
+      <instance id="15114:48780" name="Navbar" x="0" y="0" width="768" height="76" />
+    </frame>
+    <frame id="15114:45761" name="Screen" x="4758" y="4816" width="768" height="1024">
+      <instance id="15114:48573" name="Navbar" x="0" y="0" width="768" height="77" />
+    </frame>
+    <frame id="15114:48661" name="Screen" x="4758" y="5992" width="768" height="1024">
+      <instance id="15114:48662" name="Navbar" x="0" y="0" width="768" height="143" />
+    </frame>
+    <frame id="15114:48781" name="Screen" x="4758" y="7168" width="768" height="1024">
+      <instance id="15114:48782" name="Navbar" x="0" y="0" width="768" height="76" />
+    </frame>
+    <frame id="15114:45763" name="Screen" x="1648" y="1288" width="768" height="1024">
+      <instance id="15114:46635" name="Navbar" x="0" y="0" width="768" height="122" />
+    </frame>
+    <frame id="15114:45765" name="Screen" x="4758" y="1288" width="768" height="1024">
+      <instance id="15114:46698" name="Navbar" x="0" y="0" width="768" height="122" />
+    </frame>
+    <frame id="15114:45767" name="Screen" x="1648" y="2464" width="768" height="1024">
+      <instance id="15114:46996" name="Navbar" x="0" y="0" width="768" height="127" />
+    </frame>
+    <frame id="15114:45769" name="Screen" x="4758" y="2464" width="768" height="1024">
+      <instance id="15114:47506" name="Navbar" x="0" y="0" width="768" height="127" />
+    </frame>
+    <frame id="15114:45771" name="Screen" x="112" y="112" width="1440" height="1080">
+      <instance id="15114:46238" name="Navbar" x="0" y="0" width="1440" height="77" />
+    </frame>
+    <frame id="15114:45773" name="Screen" x="3222" y="112" width="1440" height="1080">
+      <instance id="15114:46366" name="Navbar" x="0" y="0" width="1440" height="77" />
+    </frame>
+    <frame id="15114:45775" name="Screen" x="112" y="3640" width="1440" height="1080">
+      <instance id="15114:47872" name="Navbar" x="0" y="0" width="1440" height="57" />
+    </frame>
+    <frame id="15114:45777" name="Screen" x="3222" y="3640" width="1440" height="1080">
+      <instance id="15114:48318" name="Navbar" x="0" y="0" width="1440" height="57" />
+    </frame>
+    <frame id="15114:45779" name="Screen" x="112" y="4816" width="1440" height="1080">
+      <instance id="15114:48442" name="Navbar" x="0" y="0" width="1440" height="77" />
+    </frame>
+    <frame id="15114:48663" name="Screen" x="112" y="5992" width="1440" height="1080">
+      <instance id="15114:48664" name="Navbar" x="0" y="0" width="1440" height="143" />
+    </frame>
+    <frame id="15114:48783" name="Screen" x="112" y="7168" width="1440" height="1080">
+      <instance id="15114:48784" name="Navbar" x="0" y="0" width="1440" height="76" />
+    </frame>
+    <frame id="15114:45781" name="Screen" x="3222" y="4816" width="1440" height="1080">
+      <instance id="15114:48613" name="Navbar" x="0" y="0" width="1440" height="77" />
+    </frame>
+    <frame id="15114:48665" name="Screen" x="3222" y="5992" width="1440" height="1080">
+      <instance id="15114:48666" name="Navbar" x="0" y="0" width="1440" height="143" />
+    </frame>
+    <frame id="15114:48785" name="Screen" x="3222" y="7168" width="1440" height="1080">
+      <instance id="15114:48786" name="Navbar" x="0" y="0" width="1440" height="76" />
+    </frame>
+    <frame id="15114:45783" name="Screen" x="112" y="1288" width="1440" height="1080">
+      <instance id="15114:46520" name="Navbar" x="0" y="0" width="1440" height="122" />
+    </frame>
+    <frame id="15114:45785" name="Screen" x="3222" y="1288" width="1440" height="1080">
+      <instance id="15114:46577" name="Navbar" x="0" y="0" width="1440" height="122" />
+    </frame>
+    <frame id="15114:45787" name="Screen" x="112" y="2464" width="1440" height="1080">
+      <instance id="15114:46903" name="Navbar" x="0" y="0" width="1440" height="127" />
+    </frame>
+    <frame id="15114:45789" name="Screen" x="3222" y="2464" width="1440" height="1080">
+      <instance id="15114:47688" name="Navbar" x="0" y="0" width="1440" height="127" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

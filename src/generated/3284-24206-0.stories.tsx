@@ -1,0 +1,11 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Breadcrumbs",args:{"Type":"Default","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["Default","With Background"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14851-742"}},render:(args)=> <CatalogStory pageId="3284:24206" groupId="14851:742" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+4+')',render:()=> <CatalogStory pageId="3284:24206" groupId="14851:742" gallery/>};
+export const Variant001:Story={name:"Type=Default, Dark Mode=False",args:{"Type":"Default","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3284:24206" groupId="14851:742" properties={args}/>};
+export const Variant002:Story={name:"Type=With Background, Dark Mode=False",args:{"Type":"With Background","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3284:24206" groupId="14851:742" properties={args}/>};
+export const Variant003:Story={name:"Type=Default, Dark Mode=True",args:{"Type":"Default","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3284:24206" groupId="14851:742" properties={args}/>};
+export const Variant004:Story={name:"Type=With Background, Dark Mode=True",args:{"Type":"With Background","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3284:24206" groupId="14851:742" properties={args}/>};

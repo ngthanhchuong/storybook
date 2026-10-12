@@ -1,0 +1,72 @@
+<canvas id="331:62479" name="↳ File Upload Inputs" x="0" y="0" width="0" height="0">
+  <frame id="14947:6172" name="Simple File Uploader" x="5193" y="-410" width="2920" height="2988">
+    <rounded-rectangle id="14948:8045" name="Background" x="112" y="1494" width="2696" height="1382" />
+    <frame id="14947:12016" name="Simple File Uploader" x="112" y="112" width="2696" height="2764">
+      <symbol id="14947:12013" name="Size=SM, State=Default, Dark Mode=False" x="96" y="96" width="384" height="86" />
+      <symbol id="14948:8605" name="Size=SM, State=Default, Dark Mode=True" x="96" y="1478" width="384" height="86" />
+      <symbol id="14947:12137" name="Size=SM, State=Uploaded, Dark Mode=False" x="1368" y="96" width="384" height="314" />
+      <symbol id="14948:8613" name="Size=SM, State=Uploaded, Dark Mode=True" x="1368" y="1478" width="384" height="314" />
+      <symbol id="14948:5230" name="Size=SM, State=Disabled, Dark Mode=False" x="1792" y="96" width="384" height="314" />
+      <symbol id="14948:8626" name="Size=SM, State=Disabled, Dark Mode=True" x="1792" y="1478" width="384" height="314" />
+      <symbol id="14948:5340" name="Size=SM, State=Error, Dark Mode=False" x="2216" y="96" width="384" height="314" />
+      <symbol id="14948:8639" name="Size=SM, State=Error, Dark Mode=True" x="2216" y="1478" width="384" height="314" />
+      <symbol id="14947:12041" name="Size=SM, State=Hover, Dark Mode=False" x="520" y="96" width="384" height="86" />
+      <symbol id="14948:8652" name="Size=SM, State=Hover, Dark Mode=True" x="520" y="1478" width="384" height="86" />
+      <symbol id="14947:12089" name="Size=SM, State=Focus, Dark Mode=False" x="944" y="96" width="384" height="86" />
+      <symbol id="14948:8660" name="Size=SM, State=Focus, Dark Mode=True" x="944" y="1478" width="384" height="86" />
+      <symbol id="14947:12014" name="Size=MD, State=Default, Dark Mode=False" x="96" y="510" width="384" height="103" />
+      <symbol id="14948:8668" name="Size=MD, State=Default, Dark Mode=True" x="96" y="1892" width="384" height="103" />
+      <symbol id="14947:12145" name="Size=MD, State=Uploaded, Dark Mode=False" x="1368" y="510" width="384" height="331" />
+      <symbol id="14948:8676" name="Size=MD, State=Uploaded, Dark Mode=True" x="1368" y="1892" width="384" height="331" />
+      <symbol id="14948:5927" name="Size=MD, State=Error, Dark Mode=False" x="2216" y="510" width="384" height="331" />
+      <symbol id="14948:8689" name="Size=MD, State=Error, Dark Mode=True" x="2216" y="1892" width="384" height="331" />
+      <symbol id="14948:5707" name="Size=MD, State=Disabled, Dark Mode=False" x="1792" y="510" width="384" height="331" />
+      <symbol id="14948:8702" name="Size=MD, State=Disabled, Dark Mode=True" x="1792" y="1892" width="384" height="331" />
+      <symbol id="14947:12049" name="Size=MD, State=Hover, Dark Mode=False" x="520" y="510" width="384" height="103" />
+      <symbol id="14948:8715" name="Size=MD, State=Hover, Dark Mode=True" x="520" y="1892" width="384" height="103" />
+      <symbol id="14947:12097" name="Size=MD, State=Focus, Dark Mode=False" x="944" y="510" width="384" height="103" />
+      <symbol id="14948:8723" name="Size=MD, State=Focus, Dark Mode=True" x="944" y="1892" width="384" height="103" />
+      <symbol id="14947:12015" name="Size=LG, State=Default, Dark Mode=False" x="96" y="941" width="384" height="117" />
+      <symbol id="14948:8731" name="Size=LG, State=Default, Dark Mode=True" x="96" y="2323" width="384" height="117" />
+      <symbol id="14947:12153" name="Size=LG, State=Uploaded, Dark Mode=False" x="1368" y="941" width="384" height="345" />
+      <symbol id="14948:8739" name="Size=LG, State=Uploaded, Dark Mode=True" x="1368" y="2323" width="384" height="345" />
+      <symbol id="14948:5940" name="Size=LG, State=Error, Dark Mode=False" x="2216" y="941" width="384" height="345" />
+      <symbol id="14948:8752" name="Size=LG, State=Error, Dark Mode=True" x="2216" y="2323" width="384" height="345" />
+      <symbol id="14948:5720" name="Size=LG, State=Disabled, Dark Mode=False" x="1792" y="941" width="384" height="345" />
+      <symbol id="14948:8765" name="Size=LG, State=Disabled, Dark Mode=True" x="1792" y="2323" width="384" height="345" />
+      <symbol id="14947:12057" name="Size=LG, State=Hover, Dark Mode=False" x="520" y="941" width="384" height="117" />
+      <symbol id="14948:8778" name="Size=LG, State=Hover, Dark Mode=True" x="520" y="2323" width="384" height="117" />
+      <symbol id="14947:12105" name="Size=LG, State=Focus, Dark Mode=False" x="944" y="941" width="384" height="117" />
+      <symbol id="14948:8786" name="Size=LG, State=Focus, Dark Mode=True" x="944" y="2323" width="384" height="117" />
+    </frame>
+  </frame>
+  <frame id="14948:9692" name="Drag &amp; Drop Uploader" x="8313" y="-410" width="3724" height="1630">
+    <rounded-rectangle id="14948:11612" name="Background" x="112" y="815" width="3500" height="703" />
+    <frame id="14948:11316" name="Drag &amp; Drop Uploader" x="112" y="112" width="3500" height="1406">
+      <symbol id="14948:11314" name="State=Default, Dark Mode=False" x="96" y="96" width="508" height="283" />
+      <symbol id="14949:4250" name="State=Default, Dark Mode=True" x="96" y="799" width="508" height="283" />
+      <symbol id="14948:11317" name="State=Hover, Dark Mode=False" x="644" y="96" width="508" height="283" />
+      <symbol id="14949:4257" name="State=Hover, Dark Mode=True" x="644" y="799" width="508" height="283" />
+      <symbol id="14948:11349" name="State=Focus, Dark Mode=False" x="1192" y="96" width="508" height="283" />
+      <symbol id="14949:4264" name="State=Focus, Dark Mode=True" x="1192" y="799" width="508" height="283" />
+      <symbol id="14948:11460" name="State=Uploaded, Dark Mode=False" x="1740" y="96" width="528" height="511" />
+      <symbol id="14949:4271" name="State=Uploaded, Dark Mode=True" x="1740" y="799" width="528" height="511" />
+      <symbol id="14948:11534" name="State=Error, Dark Mode=False" x="2876" y="96" width="528" height="511" />
+      <symbol id="14949:4283" name="State=Error, Dark Mode=True" x="2876" y="799" width="528" height="511" />
+      <symbol id="14948:11463" name="State=Disabled, Dark Mode=False" x="2308" y="96" width="528" height="511" />
+      <symbol id="14949:4295" name="State=Disabled, Dark Mode=True" x="2308" y="799" width="528" height="511" />
+    </frame>
+  </frame>
+  <frame id="14947:12841" name="Files" x="3617" y="-410" width="1376" height="692">
+    <rounded-rectangle id="14947:21864" name="Background" x="688" y="112" width="576" height="468" />
+    <frame id="14947:12214" name="File" x="112" y="112" width="1152" height="468">
+      <symbol id="14947:12211" name="State=Uploading, Dark Mode=False" x="96" y="96" width="384" height="76" />
+      <symbol id="14947:12722" name="State=Uploading, Dark Mode=True" x="672" y="96" width="384" height="76" />
+      <symbol id="14947:12215" name="State=Uploaded, Dark Mode=False" x="96" y="212" width="384" height="60" />
+      <symbol id="14947:12731" name="State=Uploaded, Dark Mode=True" x="672" y="212" width="384" height="60" />
+      <symbol id="14947:12654" name="State=Error, Dark Mode=False" x="96" y="312" width="384" height="60" />
+      <symbol id="14947:12738" name="State=Error, Dark Mode=True" x="672" y="312" width="384" height="60" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

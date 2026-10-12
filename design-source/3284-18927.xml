@@ -1,0 +1,14 @@
+<canvas id="3284:18927" name="↳ Alerts" x="0" y="0" width="0" height="0">
+  <frame id="14847:4133" name="Alerts" x="-2521" y="-949" width="2632" height="982">
+    <rounded-rectangle id="14848:1024" name="Background" x="112" y="491" width="2408" height="379" />
+    <frame id="14848:352" name="Alert Banner" x="112" y="112" width="2408" height="758">
+      <symbol id="14848:325" name="Color=White, Dark Mode=False" x="96" y="96" width="712" height="208" />
+      <symbol id="14848:1089" name="Color=White, Dark Mode=True" x="96" y="475" width="712" height="208" />
+      <symbol id="14848:334" name="Color=Red, Dark Mode=False" x="848" y="96" width="712" height="208" />
+      <symbol id="14848:1100" name="Color=Red, Dark Mode=True" x="848" y="475" width="712" height="208" />
+      <symbol id="14848:343" name="Color=Blue, Dark Mode=False" x="1600" y="96" width="712" height="208" />
+      <symbol id="14848:1111" name="Color=Blue, Dark Mode=True" x="1600" y="475" width="712" height="208" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

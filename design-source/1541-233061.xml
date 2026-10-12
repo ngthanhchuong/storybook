@@ -1,0 +1,127 @@
+<canvas id="1541:233061" name="↳ Brands Logos" x="0" y="0" width="0" height="0">
+  <frame id="14845:72384" name="Logos" x="-1102" y="430" width="1000" height="1504">
+    <symbol id="1005:171819" name="Brand logos/Adobe" x="112" y="112" width="133" height="48" />
+    <symbol id="1005:171832" name="Brand logos/Airbnb" x="285" y="112" width="128" height="48" />
+    <symbol id="1005:171834" name="Brand logos/Airtable" x="453" y="112" width="154" height="48" />
+    <symbol id="1005:171845" name="Brand logos/Amazon" x="647" y="112" width="110" height="48" />
+    <symbol id="1005:171860" name="Brand logos/Asana" x="112" y="200" width="127" height="48" />
+    <symbol id="1005:171863" name="Brand logos/Atlassian" x="279" y="200" width="178" height="48" />
+    <symbol id="1005:171933" name="Brand logos/Coinbase" x="497" y="200" width="135" height="48" />
+    <symbol id="1005:171961" name="Brand logos/Discord" x="672" y="200" width="171" height="48" />
+    <symbol id="1005:171969" name="Brand logos/Dribbble" x="112" y="288" width="112" height="48" />
+    <symbol id="1005:171973" name="Brand logos/Dropbox" x="264" y="288" width="161" height="48" />
+    <symbol id="1005:171976" name="Brand logos/Elastic" x="465" y="288" width="128" height="48" />
+    <symbol id="1005:171985" name="Brand logos/Evernote" x="633" y="288" width="164" height="48" />
+    <symbol id="1005:172025" name="Brand logos/GitHub" x="112" y="376" width="135" height="48" />
+    <symbol id="1005:172039" name="Brand logos/Google" x="287" y="376" width="113" height="48" />
+    <symbol id="1005:172046" name="Brand logos/Gumroad" x="440" y="376" width="148" height="48" />
+    <symbol id="1005:172065" name="Brand logos/Hubspot" x="628" y="376" width="114" height="48" />
+    <symbol id="1005:172068" name="Brand logos/Intercom" x="112" y="464" width="136" height="48" />
+    <symbol id="1005:172070" name="Brand logos/Instagram" x="288" y="464" width="125" height="48" />
+    <symbol id="1005:172072" name="Brand logos/InVision" x="453" y="464" width="123" height="48" />
+    <symbol id="1005:172090" name="Brand logos/Mailchimp" x="616" y="464" width="168" height="48" />
+    <symbol id="1005:172096" name="Brand logos/Microsoft" x="112" y="552" width="164" height="48" />
+    <symbol id="1005:172116" name="Brand logos/Netflix" x="316" y="552" width="107" height="48" />
+    <symbol id="1005:172118" name="Brand logos/Notion" x="463" y="552" width="129" height="48" />
+    <symbol id="1005:172124" name="Brand logos/PayPal" x="632" y="552" width="143" height="48" />
+    <symbol id="1005:172155" name="Brand logos/Shopify" x="112" y="640" width="127" height="48" />
+    <symbol id="1005:172160" name="Brand logos/Slack" x="279" y="640" width="121" height="48" />
+    <symbol id="1005:172177" name="Brand logos/Stripe" x="440" y="640" width="80" height="48" />
+    <symbol id="1005:172179" name="Brand logos/Tesla" x="560" y="640" width="153" height="48" />
+    <symbol id="1005:172186" name="Brand logos/Treehouse" x="112" y="728" width="165" height="48" />
+    <symbol id="1005:172197" name="Brand logos/Trustpilot" x="317" y="728" width="156" height="48" />
+    <symbol id="1005:172201" name="Brand logos/Twitch" x="513" y="728" width="103" height="48" />
+    <symbol id="1005:172215" name="Brand logos/Whatsapp" x="656" y="728" width="156" height="48" />
+    <symbol id="1005:172223" name="Brand logos/YouTube" x="112" y="816" width="132" height="48" />
+    <symbol id="1005:172226" name="Brand logos/Zapier" x="284" y="816" width="96" height="48" />
+    <symbol id="1005:172228" name="Brand logos/Zoom" x="420" y="816" width="98" height="48" />
+    <symbol id="1005:172230" name="Brand logos/Spotify" x="558" y="816" width="140" height="48" />
+    <symbol id="1005:172280" name="Brand logos/Shell" x="738" y="816" width="115" height="48" />
+    <symbol id="1005:172279" name="Brand logos/Visa" x="112" y="904" width="88" height="48" />
+    <symbol id="1005:171493" name="Brand logos/Volkswagen" x="240" y="904" width="225" height="48" />
+    <symbol id="1005:171184" name="Brand logos/Intel" x="505" y="904" width="87" height="48" />
+    <symbol id="1005:171402" name="Brand logos/Coca-Cola" x="632" y="904" width="96" height="48" />
+    <symbol id="1005:171294" name="Brand logos/Honda" x="112" y="992" width="129" height="48" />
+    <symbol id="1005:171437" name="Brand logos/UPS" x="281" y="992" width="39.36000061035156" height="48" />
+    <symbol id="1005:171458" name="Brand logos/McDonald&#39;s" x="360.3599853515625" y="992" width="209" height="48" />
+    <symbol id="1005:171126" name="Brand logos/Ford" x="609.3599853515625" y="992" width="97" height="48" />
+    <symbol id="1005:170972" name="Brand logos/Nestlé" x="746.3599853515625" y="992" width="114.23999786376953" height="48" />
+    <symbol id="1005:171414" name="Brand logos/Bank of America" x="112" y="1080" width="194" height="48" />
+    <symbol id="1005:171432" name="Brand logos/BMW" x="346" y="1080" width="38" height="48" />
+    <symbol id="1005:171442" name="Brand logos/Mitsubishi" x="424" y="1128" width="184" height="48" />
+    <symbol id="1005:171730" name="Brand logos/Toyota" x="648" y="1080" width="146" height="48" />
+    <symbol id="1005:170476" name="Brand logos/Vodafone" x="112" y="1168" width="169" height="48" />
+    <symbol id="1005:171188" name="Brand logos/Fedex" x="321" y="1168" width="112" height="48" />
+    <symbol id="1005:170961" name="Brand logos/Pepsi" x="473" y="1168" width="112" height="48" />
+    <symbol id="1005:170996" name="Brand logos/IBM" x="625" y="1168" width="91" height="48" />
+    <symbol id="1005:171697" name="Brand logos/Mercedes-Benz" x="112" y="1256" width="164" height="48" />
+    <symbol id="1005:171564" name="Brand logos/TikTok" x="316" y="1256" width="147" height="48" />
+    <symbol id="1005:171562" name="Brand logos/Disney" x="503" y="1256" width="106" height="48" />
+    <symbol id="1005:171034" name="Brand logos/Mastercard" x="649" y="1256" width="60" height="48" />
+    <symbol id="1005:171515" name="Brand logos/Allianz" x="749" y="1256" width="138" height="48" />
+    <symbol id="1005:171784" name="Brand logos/Meta" x="112" y="1344" width="114" height="48" />
+    <symbol id="1542:233125" name="Brand logos/Greenpeace" x="266" y="1344" width="155" height="48" />
+    <symbol id="1542:233124" name="Brand logos/WWF" x="461" y="1344" width="33" height="48" />
+    <symbol id="1542:233123" name="Brand logos/United Nations" x="534" y="1344" width="74" height="48" />
+    <symbol id="1542:233122" name="Brand logos/Oxfam" x="648" y="1344" width="45" height="48" />
+  </frame>
+  <frame id="14845:78361" name="Icons" x="98" y="430" width="1000" height="800">
+    <symbol id="1108:170620" name="amazon-web-services" x="112" y="112" width="48" height="48" />
+    <symbol id="1108:170624" name="tailwind-css" x="200" y="112" width="48" height="48" />
+    <symbol id="1108:170626" name="bootstrap" x="288" y="112" width="48" height="48" />
+    <symbol id="1108:170630" name="vs-code" x="376" y="112" width="48" height="48" />
+    <symbol id="1108:170635" name="stackoverflow" x="464" y="112" width="48" height="48" />
+    <symbol id="1108:170639" name="producthunt" x="552" y="112" width="48" height="48" />
+    <symbol id="1108:170643" name="reddit" x="640" y="112" width="48" height="48" />
+    <symbol id="1108:170647" name="invision" x="728" y="112" width="48" height="48" />
+    <symbol id="1108:170651" name="figma" x="816" y="112" width="48" height="48" />
+    <symbol id="1108:170658" name="zeplin" x="112" y="200" width="48" height="48" />
+    <symbol id="1108:170668" name="ember" x="200" y="200" width="48" height="48" />
+    <symbol id="1108:170745" name="mailchimp" x="288" y="200" width="48" height="48" />
+    <symbol id="1108:170747" name="woocommerce" x="376" y="200" width="48" height="48" />
+    <symbol id="1108:170749" name="joomla" x="464" y="200" width="48" height="48" />
+    <symbol id="1108:170755" name="wordpress" x="552" y="200" width="48" height="48" />
+    <symbol id="1108:170759" name="shopify" x="640" y="200" width="48" height="48" />
+    <symbol id="1108:170764" name="drupal" x="728" y="200" width="48" height="48" />
+    <symbol id="1108:170766" name="npm" x="816" y="200" width="48" height="48" />
+    <symbol id="1108:170770" name="typescript" x="112" y="288" width="48" height="48" />
+    <symbol id="1108:170775" name="react" x="200" y="288" width="48" height="48" />
+    <symbol id="1108:170778" name="angular" x="288" y="288" width="48" height="48" />
+    <symbol id="1108:170783" name="svelte" x="376" y="288" width="48" height="48" />
+    <symbol id="1108:170787" name="vue" x="464" y="288" width="48" height="48" />
+    <symbol id="1108:170792" name="gulp" x="552" y="288" width="48" height="48" />
+    <symbol id="1108:170795" name="webpack" x="640" y="288" width="48" height="48" />
+    <symbol id="1108:170800" name="vite-js" x="728" y="288" width="48" height="48" />
+    <symbol id="1108:170804" name="docker" x="816" y="288" width="48" height="48" />
+    <symbol id="1108:170806" name="lightroom" x="112" y="376" width="48" height="48" />
+    <symbol id="1108:170810" name="illustrator" x="200" y="376" width="48" height="48" />
+    <symbol id="1108:170813" name="photoshop" x="288" y="376" width="48" height="48" />
+    <symbol id="1108:170816" name="opera" x="376" y="376" width="48" height="48" />
+    <symbol id="1108:170820" name="brave" x="464" y="376" width="48" height="48" />
+    <symbol id="1108:170825" name="firefox" x="552" y="376" width="48" height="48" />
+    <symbol id="1108:170839" name="chrome" x="640" y="376" width="48" height="48" />
+    <symbol id="1108:170846" name="safari" x="728" y="376" width="48" height="48" />
+    <symbol id="1108:170984" name="internet-explorer" x="816" y="376" width="48" height="48.00001525878906" />
+    <symbol id="1108:170986" name="edge" x="112" y="464" width="48" height="48" />
+    <symbol id="1108:170994" name="evernote" x="200" y="464" width="48" height="48" />
+    <symbol id="1108:170996" name="google-calendar" x="288" y="464" width="48" height="48" />
+    <symbol id="1108:171006" name="gmail" x="376" y="464" width="48" height="48" />
+    <symbol id="1108:171013" name="google-translate" x="464" y="464" width="48" height="48" />
+    <symbol id="1108:171027" name="signal" x="552" y="464" width="48" height="48" />
+    <symbol id="1108:171029" name="slack" x="640" y="464" width="48" height="48" />
+    <symbol id="1108:171035" name="skype" x="728" y="464" width="48" height="48" />
+    <symbol id="1112:167698" name="css-3" x="816" y="464" width="48" height="48" />
+    <symbol id="1112:167709" name="html5" x="112" y="552" width="48" height="48" />
+    <symbol id="1112:167716" name="java" x="200" y="552" width="48" height="48" />
+    <symbol id="1112:167720" name="javascript" x="288" y="552" width="48" height="48" />
+    <symbol id="1138:167043" name="flowbite" x="376" y="552" width="48" height="48" />
+    <symbol id="3077:2212" name="zapier" x="464" y="552" width="48" height="48" />
+    <symbol id="3077:2218" name="asana" x="552" y="552" width="48" height="48" />
+    <symbol id="3077:2223" name="intercom" x="640" y="552" width="48" height="48" />
+    <symbol id="3077:2227" name="dropbox" x="728" y="552" width="48" height="48" />
+    <symbol id="3077:3155" name="google-drive" x="816" y="552" width="48" height="48" />
+    <symbol id="829:21757" name="paypal" x="112" y="640" width="48" height="48" />
+  </frame>
+  <instance id="14848:1865" name="Alert Banner" x="-1102" y="113" width="1000" height="94" />
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

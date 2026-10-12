@@ -1,0 +1,132 @@
+<canvas id="331:61031" name="↳ Select Inputs" x="0" y="0" width="0" height="0">
+  <frame id="14865:40242" name="Regular Select" x="653" y="-724" width="2536" height="1444">
+    <rounded-rectangle id="14865:42208" name="Background" x="112" y="722" width="2312" height="610" />
+    <frame id="14865:41254" name="Regular Select" x="112" y="112" width="2312" height="1220">
+      <symbol id="14865:41251" name="Size=SM, State=Default, Dark Mode=False" x="96" y="96" width="320" height="86" />
+      <symbol id="14865:42010" name="Size=SM, State=Default, Dark Mode=True" x="96" y="706" width="320" height="86" />
+      <symbol id="14865:41779" name="Size=SM, State=Error, Dark Mode=False" x="1896" y="96" width="320" height="86" />
+      <symbol id="14865:42017" name="Size=SM, State=Error, Dark Mode=True" x="1896" y="706" width="320" height="86" />
+      <symbol id="14865:41570" name="Size=SM, State=Disabled, Dark Mode=False" x="1536" y="96" width="320" height="86" />
+      <symbol id="14865:42024" name="Size=SM, State=Disabled, Dark Mode=True" x="1536" y="706" width="320" height="86" />
+      <symbol id="14865:41372" name="Size=SM, State=Hover, Dark Mode=False" x="456" y="96" width="320" height="86" />
+      <symbol id="14865:42031" name="Size=SM, State=Hover, Dark Mode=True" x="456" y="706" width="320" height="86" />
+      <symbol id="14865:41438" name="Size=SM, State=Focused, Dark Mode=False" x="816" y="96" width="320" height="86" />
+      <symbol id="14865:42038" name="Size=SM, State=Focused, Dark Mode=True" x="816" y="706" width="320" height="86" />
+      <symbol id="14865:41504" name="Size=SM, State=Filled, Dark Mode=False" x="1176" y="96" width="320" height="86" />
+      <symbol id="14865:42045" name="Size=SM, State=Filled, Dark Mode=True" x="1176" y="706" width="320" height="86" />
+      <symbol id="14865:41252" name="Size=MD, State=Default, Dark Mode=False" x="96" y="238" width="320" height="103" />
+      <symbol id="14865:42052" name="Size=MD, State=Default, Dark Mode=True" x="96" y="848" width="320" height="103" />
+      <symbol id="14865:41786" name="Size=MD, State=Error, Dark Mode=False" x="1896" y="238" width="320" height="103" />
+      <symbol id="14865:42059" name="Size=MD, State=Error, Dark Mode=True" x="1896" y="848" width="320" height="103" />
+      <symbol id="14865:41577" name="Size=MD, State=Disabled, Dark Mode=False" x="1536" y="238" width="320" height="103" />
+      <symbol id="14865:42066" name="Size=MD, State=Disabled, Dark Mode=True" x="1536" y="848" width="320" height="103" />
+      <symbol id="14865:41379" name="Size=MD, State=Hover, Dark Mode=False" x="456" y="238" width="320" height="103" />
+      <symbol id="14865:42073" name="Size=MD, State=Hover, Dark Mode=True" x="456" y="848" width="320" height="103" />
+      <symbol id="14865:41445" name="Size=MD, State=Focused, Dark Mode=False" x="816" y="238" width="320" height="103" />
+      <symbol id="14865:42080" name="Size=MD, State=Focused, Dark Mode=True" x="816" y="848" width="320" height="103" />
+      <symbol id="14865:41511" name="Size=MD, State=Filled, Dark Mode=False" x="1176" y="238" width="320" height="103" />
+      <symbol id="14865:42087" name="Size=MD, State=Filled, Dark Mode=True" x="1176" y="848" width="320" height="103" />
+      <symbol id="14865:41253" name="Size=LG, State=Default, Dark Mode=False" x="96" y="397" width="320" height="117" />
+      <symbol id="14865:42094" name="Size=LG, State=Default, Dark Mode=True" x="96" y="1007" width="320" height="117" />
+      <symbol id="14865:41793" name="Size=LG, State=Error, Dark Mode=False" x="1896" y="397" width="320" height="117" />
+      <symbol id="14865:42101" name="Size=LG, State=Error, Dark Mode=True" x="1896" y="1007" width="320" height="117" />
+      <symbol id="14865:41584" name="Size=LG, State=Disabled, Dark Mode=False" x="1536" y="397" width="320" height="117" />
+      <symbol id="14865:42108" name="Size=LG, State=Disabled, Dark Mode=True" x="1536" y="1007" width="320" height="117" />
+      <symbol id="14865:41386" name="Size=LG, State=Hover, Dark Mode=False" x="456" y="397" width="320" height="117" />
+      <symbol id="14865:42115" name="Size=LG, State=Hover, Dark Mode=True" x="456" y="1007" width="320" height="117" />
+      <symbol id="14865:41452" name="Size=LG, State=Focused, Dark Mode=False" x="816" y="397" width="320" height="117" />
+      <symbol id="14865:42122" name="Size=LG, State=Focused, Dark Mode=True" x="816" y="1007" width="320" height="117" />
+      <symbol id="14865:41518" name="Size=LG, State=Filled, Dark Mode=False" x="1176" y="397" width="320" height="117" />
+      <symbol id="14865:42129" name="Size=LG, State=Filled, Dark Mode=True" x="1176" y="1007" width="320" height="117" />
+    </frame>
+  </frame>
+  <frame id="14865:45368" name="Double Select" x="653" y="3148" width="3036" height="1444">
+    <rounded-rectangle id="14865:48448" name="Background" x="112" y="722" width="2812" height="610" />
+    <frame id="14865:46136" name="Double Select" x="112" y="112" width="2812" height="1220">
+      <symbol id="14865:46133" name="Size=SM, State=Default, Dark Mode=False" x="96" y="96" width="340" height="86" />
+      <symbol id="14865:49563" name="Size=SM, State=Default, Dark Mode=True" x="96" y="706" width="340" height="86" />
+      <symbol id="14865:47956" name="Size=SM, State=Disabled, Dark Mode=False" x="1996" y="96" width="340" height="86" />
+      <symbol id="14865:49577" name="Size=SM, State=Disabled, Dark Mode=True" x="1996" y="706" width="340" height="86" />
+      <symbol id="14865:47638" name="Size=SM, State=Filled, Dark Mode=False" x="1616" y="96" width="340" height="86" />
+      <symbol id="14865:49591" name="Size=SM, State=Filled, Dark Mode=True" x="1616" y="706" width="340" height="86" />
+      <symbol id="14865:48289" name="Size=SM, State=Error, Dark Mode=False" x="2376" y="96" width="340" height="86" />
+      <symbol id="14865:49605" name="Size=SM, State=Error, Dark Mode=True" x="2376" y="706" width="340" height="86" />
+      <symbol id="14865:46296" name="Size=SM, State=Hover, Dark Mode=False" x="476" y="96" width="340" height="86" />
+      <symbol id="14865:49619" name="Size=SM, State=Hover, Dark Mode=True" x="476" y="706" width="340" height="86" />
+      <symbol id="14865:47320" name="Size=SM, State=2nd Select Focused, Dark Mode=False" x="1236" y="96" width="340" height="86" />
+      <symbol id="14865:49633" name="Size=SM, State=2nd Select Focused, Dark Mode=True" x="1236" y="706" width="340" height="86" />
+      <symbol id="14865:47002" name="Size=SM, State=1st Select Focused, Dark Mode=False" x="856" y="96" width="340" height="86" />
+      <symbol id="14865:49647" name="Size=SM, State=1st Select Focused, Dark Mode=True" x="856" y="706" width="340" height="86" />
+      <symbol id="14865:46134" name="Size=MD, State=Default, Dark Mode=False" x="96" y="238" width="340" height="103" />
+      <symbol id="14865:49661" name="Size=MD, State=Default, Dark Mode=True" x="96" y="848" width="340" height="103" />
+      <symbol id="14865:47970" name="Size=MD, State=Disabled, Dark Mode=False" x="1996" y="238" width="340" height="103" />
+      <symbol id="14865:49675" name="Size=MD, State=Disabled, Dark Mode=True" x="1996" y="848" width="340" height="103" />
+      <symbol id="14865:47652" name="Size=MD, State=Filled, Dark Mode=False" x="1616" y="238" width="340" height="103" />
+      <symbol id="14865:49689" name="Size=MD, State=Filled, Dark Mode=True" x="1616" y="848" width="340" height="103" />
+      <symbol id="14865:48303" name="Size=MD, State=Error, Dark Mode=False" x="2376" y="238" width="340" height="103" />
+      <symbol id="14865:49703" name="Size=MD, State=Error, Dark Mode=True" x="2376" y="848" width="340" height="103" />
+      <symbol id="14865:46310" name="Size=MD, State=Hover, Dark Mode=False" x="476" y="238" width="340" height="103" />
+      <symbol id="14865:49717" name="Size=MD, State=Hover, Dark Mode=True" x="476" y="848" width="340" height="103" />
+      <symbol id="14865:47334" name="Size=MD, State=2nd Select Focused, Dark Mode=False" x="1236" y="238" width="340" height="103" />
+      <symbol id="14865:49731" name="Size=MD, State=2nd Select Focused, Dark Mode=True" x="1236" y="848" width="340" height="103" />
+      <symbol id="14865:47016" name="Size=MD, State=1st Select Focused, Dark Mode=False" x="856" y="238" width="340" height="103" />
+      <symbol id="14865:49745" name="Size=MD, State=1st Select Focused, Dark Mode=True" x="856" y="848" width="340" height="103" />
+      <symbol id="14865:46135" name="Size=LG, State=Default, Dark Mode=False" x="96" y="397" width="340" height="117" />
+      <symbol id="14865:49759" name="Size=LG, State=Default, Dark Mode=True" x="96" y="1007" width="340" height="117" />
+      <symbol id="14865:47984" name="Size=LG, State=Disabled, Dark Mode=False" x="1996" y="397" width="340" height="117" />
+      <symbol id="14865:49773" name="Size=LG, State=Disabled, Dark Mode=True" x="1996" y="1007" width="340" height="117" />
+      <symbol id="14865:47666" name="Size=LG, State=Filled, Dark Mode=False" x="1616" y="397" width="340" height="117" />
+      <symbol id="14865:49787" name="Size=LG, State=Filled, Dark Mode=True" x="1616" y="1007" width="340" height="117" />
+      <symbol id="14865:48317" name="Size=LG, State=Error, Dark Mode=False" x="2376" y="397" width="340" height="117" />
+      <symbol id="14865:49801" name="Size=LG, State=Error, Dark Mode=True" x="2376" y="1007" width="340" height="117" />
+      <symbol id="14865:46324" name="Size=LG, State=Hover, Dark Mode=False" x="476" y="397" width="340" height="117" />
+      <symbol id="14865:49815" name="Size=LG, State=Hover, Dark Mode=True" x="476" y="1007" width="340" height="117" />
+      <symbol id="14865:47348" name="Size=LG, State=2nd Select Focused, Dark Mode=False" x="1236" y="397" width="340" height="117" />
+      <symbol id="14865:49829" name="Size=LG, State=2nd Select Focused, Dark Mode=True" x="1236" y="1007" width="340" height="117" />
+      <symbol id="14865:47030" name="Size=LG, State=1st Select Focused, Dark Mode=False" x="856" y="397" width="340" height="117" />
+      <symbol id="14865:49843" name="Size=LG, State=1st Select Focused, Dark Mode=True" x="856" y="1007" width="340" height="117" />
+    </frame>
+  </frame>
+  <frame id="14865:43633" name="Floating Select" x="653" y="1220" width="2536" height="1428">
+    <rounded-rectangle id="14865:44176" name="Background" x="112" y="706" width="2312" height="610" />
+    <frame id="14865:44177" name="Floating Select" x="112" y="112" width="2312" height="1204">
+      <symbol id="14865:44178" name="Size=SM, State=Default, Dark Mode=False" x="96" y="114" width="320" height="68" />
+      <symbol id="14865:44184" name="Size=SM, State=Default, Dark Mode=True" x="96" y="708" width="320" height="68" />
+      <symbol id="14865:44190" name="Size=MD, State=Default, Dark Mode=False" x="96" y="259" width="320" height="74" />
+      <symbol id="14865:44196" name="Size=MD, State=Default, Dark Mode=True" x="96" y="853" width="320" height="74" />
+      <symbol id="14865:44202" name="Size=LG, State=Default, Dark Mode=False" x="96" y="412" width="320" height="86" />
+      <symbol id="14865:44208" name="Size=LG, State=Default, Dark Mode=True" x="96" y="1006" width="320" height="86" />
+      <symbol id="14865:44214" name="Size=SM, State=Hover, Dark Mode=False" x="456" y="114" width="320" height="68" />
+      <symbol id="14865:44220" name="Size=SM, State=Hover, Dark Mode=True" x="456" y="708" width="320" height="68" />
+      <symbol id="14865:44226" name="Size=MD, State=Hover, Dark Mode=False" x="456" y="259" width="320" height="74" />
+      <symbol id="14865:44232" name="Size=MD, State=Hover, Dark Mode=True" x="456" y="853" width="320" height="74" />
+      <symbol id="14865:44238" name="Size=LG, State=Hover, Dark Mode=False" x="456" y="412" width="320" height="86" />
+      <symbol id="14865:44244" name="Size=LG, State=Hover, Dark Mode=True" x="456" y="1006" width="320" height="86" />
+      <symbol id="14865:44250" name="Size=SM, State=Focused, Dark Mode=False" x="816" y="114" width="320" height="68" />
+      <symbol id="14865:44258" name="Size=SM, State=Focused, Dark Mode=True" x="816" y="708" width="320" height="68" />
+      <symbol id="14865:44266" name="Size=MD, State=Focused, Dark Mode=False" x="816" y="259" width="320" height="74" />
+      <symbol id="14865:44274" name="Size=MD, State=Focused, Dark Mode=True" x="816" y="853" width="320" height="74" />
+      <symbol id="14865:44282" name="Size=LG, State=Focused, Dark Mode=False" x="816" y="412" width="320" height="86" />
+      <symbol id="14865:44290" name="Size=LG, State=Focused, Dark Mode=True" x="816" y="1010" width="320" height="86" />
+      <symbol id="14865:44346" name="Size=SM, State=Filled, Dark Mode=False" x="1176" y="96" width="320" height="86" />
+      <symbol id="14865:44354" name="Size=SM, State=Filled, Dark Mode=True" x="1176" y="690" width="320" height="86" />
+      <symbol id="14865:44362" name="Size=MD, State=Filled, Dark Mode=False" x="1176" y="238" width="320" height="95" />
+      <symbol id="14865:44370" name="Size=MD, State=Filled, Dark Mode=True" x="1176" y="832" width="320" height="95" />
+      <symbol id="14865:44378" name="Size=LG, State=Filled, Dark Mode=False" x="1176" y="389" width="320" height="109" />
+      <symbol id="14865:44386" name="Size=LG, State=Filled, Dark Mode=True" x="1176" y="983" width="320" height="109" />
+      <symbol id="14865:44394" name="Size=SM, State=Disabled, Dark Mode=False" x="1536" y="96" width="320" height="86" />
+      <symbol id="14865:44402" name="Size=SM, State=Disabled, Dark Mode=True" x="1536" y="690" width="320" height="86" />
+      <symbol id="14865:44410" name="Size=MD, State=Disabled, Dark Mode=False" x="1536" y="238" width="320" height="95" />
+      <symbol id="14865:44418" name="Size=MD, State=Disabled, Dark Mode=True" x="1536" y="832" width="320" height="95" />
+      <symbol id="14865:44426" name="Size=LG, State=Disabled, Dark Mode=False" x="1536" y="389" width="320" height="109" />
+      <symbol id="14865:44434" name="Size=LG, State=Disabled, Dark Mode=True" x="1536" y="983" width="320" height="109" />
+      <symbol id="14865:44442" name="Size=SM, State=Error, Dark Mode=False" x="1896" y="96" width="320" height="86" />
+      <symbol id="14865:44450" name="Size=SM, State=Error, Dark Mode=True" x="1896" y="690" width="320" height="86" />
+      <symbol id="14865:44458" name="Size=MD, State=Error, Dark Mode=False" x="1896" y="238" width="320" height="95" />
+      <symbol id="14865:44466" name="Size=MD, State=Error, Dark Mode=True" x="1896" y="832" width="320" height="95" />
+      <symbol id="14865:44474" name="Size=LG, State=Error, Dark Mode=False" x="1896" y="389" width="320" height="109" />
+      <symbol id="14865:44482" name="Size=LG, State=Error, Dark Mode=True" x="1896" y="983" width="320" height="109" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

@@ -1,0 +1,83 @@
+const imgClose = "https://www.figma.com/api/mcp/asset/f1146df3-8292-4e1f-ab05-abc020ed6a1d.svg";
+const imgCheckCircle = "https://www.figma.com/api/mcp/asset/e4d48ae7-ea18-468e-bf1c-6c38961105d0.svg";
+
+function Close({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[24px]"} data-node-id="14845:58965" data-name="close">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgClose} />
+    </div>
+  );
+}
+
+function CheckCircle({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[24px]"} data-node-id="14845:58957" data-name="check_circle">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCheckCircle} />
+    </div>
+  );
+}
+
+type AlertBannerProps = {
+  className?: string;
+  bottomButtons?: boolean;
+  closeIcon?: boolean;
+  color?: "White";
+  darkMode?: "False";
+  description?: boolean;
+  leftIcon?: boolean;
+  primaryButton?: boolean;
+  secondaryButton?: boolean;
+};
+
+function AlertBanner({ className, bottomButtons = true, closeIcon = true, color = "White", darkMode = "False", description = true, leftIcon = true, primaryButton = true, secondaryButton = true }: AlertBannerProps) {
+  return (
+    <div className={className || "bg-[var(--white,white)] border border-[var(--gray\\/200,#e5e5e5)] border-solid content-stretch flex flex-col gap-[var(--4,16px)] items-start p-[var(--6,24px)] relative rounded-[var(--rounded-xl,12px)] w-[712px]"} data-node-id="14848:325">
+      <div className="content-stretch flex flex-col gap-[var(--3,12px)] items-start relative shrink-0 w-full" data-node-id="14847:5083" data-name="Top Content">
+        <div className="content-stretch flex gap-[var(--2,8px)] items-center relative shrink-0 w-full" data-node-id="14847:5005" data-name="Alert Heading">
+          {leftIcon && <CheckCircle className="relative shrink-0 size-[24px]" />}
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter_Tight:Bold'] leading-[1.3] min-w-px not-italic relative text-[18px] text-[color:var(--black,black)]" data-node-id="14847:5004">
+            Heading goes here
+          </p>
+        </div>
+        {description && (
+          <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--gray\/400,#a1a1a1)] w-full" data-node-id="14847:5006">
+            Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris.
+          </p>
+        )}
+      </div>
+      {bottomButtons && (
+        <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14847:5120" data-name="Bottom Buttons">
+          {primaryButton && (
+            <div className="bg-[var(--gray\/800,#262626)] content-stretch flex gap-[var(--2,8px)] items-center justify-center px-[var(--6,24px)] py-[var(--3,12px)] relative rounded-[var(--rounded-xl,12px)] shrink-0" data-node-id="14847:5074" data-name="Button">
+              <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--white,white)] whitespace-nowrap" data-node-id="I14847:5074;14845:85031">
+                View details
+              </p>
+            </div>
+          )}
+          {secondaryButton && (
+            <div className="bg-[var(--white,white)] border border-[var(--gray\/200,#e5e5e5)] border-solid content-stretch flex gap-[var(--2,8px)] items-center justify-center px-[var(--6,24px)] py-[var(--3,12px)] relative rounded-[var(--rounded-xl,12px)] shrink-0" data-node-id="14847:5084" data-name="Button">
+              <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--black,black)] whitespace-nowrap" data-node-id="I14847:5084;14846:2601">
+                View details
+              </p>
+            </div>
+          )}
+        </div>
+      )}
+      {closeIcon && (
+        <div className="absolute content-stretch flex items-center justify-center right-[-1px] size-[44px] top-[-1px]" data-node-id="14848:314" data-name="Tapable Area">
+          <Close className="relative shrink-0 size-[24px]" />
+        </div>
+      )}
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: text-lg/font-bold: Font(family: "Inter Tight", style: Bold, size: 18, weight: 700, lineHeight: 1.2999999523162842, letterSpacing: 0), text-base/font-medium: Font(family: "Inter", style: Medium, size: 16, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0).
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

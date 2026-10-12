@@ -1,0 +1,62 @@
+[
+  {
+    "nodeId": "14848:325",
+    "image_url": "https://www.figma.com/api/mcp/asset/a24cea58-28b9-406f-b1ba-6bcb2326bdc3.png",
+    "width": 712,
+    "height": 208,
+    "format": "png",
+    "original_width": 712,
+    "original_height": 208,
+    "error": false
+  },
+  {
+    "nodeId": "14849:1237",
+    "image_url": "https://www.figma.com/api/mcp/asset/abd05034-35b5-4562-9830-90082e0b46a8.png",
+    "width": 664,
+    "height": 365,
+    "format": "png",
+    "original_width": 664,
+    "original_height": 365,
+    "error": false
+  },
+  {
+    "nodeId": "14857:2897",
+    "image_url": "https://www.figma.com/api/mcp/asset/c98f3f0d-755b-49a3-901c-6c852eaa3025.png",
+    "width": 320,
+    "height": 86,
+    "format": "png",
+    "original_width": 320,
+    "original_height": 86,
+    "error": false
+  },
+  {
+    "nodeId": "14975:27280",
+    "image_url": "https://www.figma.com/api/mcp/asset/47ec3047-fc44-4bd4-87ac-0d68274fcf11.png",
+    "width": 1024,
+    "height": 773,
+    "format": "png",
+    "original_width": 1050,
+    "original_height": 792,
+    "error": false
+  },
+  {
+    "nodeId": "14851:2048",
+    "image_url": "https://www.figma.com/api/mcp/asset/b0bb4b29-25be-437d-8044-f1e3993675d7.png",
+    "width": 135,
+    "height": 26,
+    "format": "png",
+    "original_width": 135,
+    "original_height": 26,
+    "error": false
+  },
+  {
+    "nodeId": "14846:540",
+    "image_url": "https://www.figma.com/api/mcp/asset/588815d7-d9b1-4724-8140-101af9dc4210.png",
+    "width": 141,
+    "height": 32,
+    "format": "png",
+    "original_width": 141,
+    "original_height": 32,
+    "error": false
+  }
+]

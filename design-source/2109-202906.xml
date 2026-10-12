@@ -1,0 +1,58 @@
+<canvas id="2109:202906" name="↳ Bottom navigation" x="0" y="0" width="0" height="0">
+  <frame id="14863:9322" name="Mobile Bottom Navigation" x="-4251" y="-132" width="1388" height="1366">
+    <rounded-rectangle id="14866:5003" name="Background" x="564" y="112" width="452" height="162" />
+    <rounded-rectangle id="14866:5299" name="Background" x="694" y="354" width="582" height="900" />
+    <frame id="14863:10099" name="Navigation Atoms" x="112" y="112" width="904" height="162">
+      <symbol id="14863:10098" name="Type=Icon, Active=False, Dark Mode=False" x="40" y="40" width="78" height="82" />
+      <symbol id="14863:10100" name="Type=Icon, Active=True, Dark Mode=False" x="138" y="40" width="78" height="82" />
+      <symbol id="14863:10205" name="Type=Avatar, Active=False, Dark Mode=False" x="236" y="40" width="78" height="82" />
+      <symbol id="14863:10208" name="Type=Avatar, Active=True, Dark Mode=False" x="334" y="40" width="78" height="82" />
+      <symbol id="14866:4987" name="Type=Icon, Active=False, Dark Mode=True" x="492" y="40" width="78" height="82" />
+      <symbol id="14866:4990" name="Type=Icon, Active=True, Dark Mode=True" x="590" y="40" width="78" height="82" />
+      <symbol id="14866:4993" name="Type=Avatar, Active=False, Dark Mode=True" x="688" y="40" width="78" height="82" />
+      <symbol id="14866:4996" name="Type=Avatar, Active=True, Dark Mode=True" x="786" y="40" width="78" height="82" />
+    </frame>
+    <frame id="14863:10254" name="Mobile Bottom Navigation" x="112" y="354" width="1164" height="900">
+      <symbol id="14863:10221" name="Type=Default, Dark Mode=False" x="96" y="96" width="390" height="98" />
+      <symbol id="14866:5147" name="Type=Default, Dark Mode=True" x="678" y="96" width="390" height="98" />
+      <symbol id="14863:10255" name="Type=Borders, Dark Mode=False" x="96" y="250" width="390" height="82" />
+      <symbol id="14866:5154" name="Type=Borders, Dark Mode=True" x="678" y="250" width="390" height="82" />
+      <symbol id="14863:34937" name="Type=Rounded, Dark Mode=False" x="96" y="388" width="360" height="80" />
+      <symbol id="14866:5164" name="Type=Rounded, Dark Mode=True" x="678" y="388" width="360" height="80" />
+      <symbol id="14863:34969" name="Type=Pagination, Dark Mode=False" x="96" y="524" width="390" height="80" />
+      <symbol id="14866:5171" name="Type=Pagination, Dark Mode=True" x="678" y="524" width="390" height="80" />
+      <symbol id="14863:35088" name="Type=Tabs, Dark Mode=False" x="96" y="660" width="390" height="144" />
+      <symbol id="14866:5181" name="Type=Tabs, Dark Mode=True" x="678" y="660" width="390" height="144" />
+    </frame>
+  </frame>
+  <frame id="14866:26371" name="Desktop Bottom Navigation" x="-4251" y="1734" width="5196" height="1051">
+    <rounded-rectangle id="14866:28072" name="Background" x="2598" y="112" width="2486" height="827" />
+    <frame id="14866:27919" name="Desktop Bottom Navigation" x="112" y="112" width="4972" height="827">
+      <symbol id="14866:27773" name="Type=Call, Device=Desktop, Dark Mode=False" x="96" y="96" width="1024" height="88" />
+      <symbol id="14866:28978" name="Type=Video, Device=Desktop, Dark Mode=False" x="96" y="461" width="1024" height="100" />
+      <symbol id="14867:5510" name="Type=Video, Device=Desktop, Dark Mode=True" x="2582" y="461" width="1024" height="100" />
+      <symbol id="14866:28385" name="Type=Buttons, Device=Desktop, Dark Mode=False" x="96" y="280" width="1024" height="85" />
+      <symbol id="14867:10084" name="Type=Pagination, Device=Desktop, Dark Mode=False" x="96" y="657" width="1024" height="74" />
+      <symbol id="14866:27916" name="Type=Call, Device=Tablet, Dark Mode=False" x="1176" y="96" width="768" height="88" />
+      <symbol id="14866:28992" name="Type=Video, Device=Tablet, Dark Mode=False" x="1176" y="461" width="768" height="100" />
+      <symbol id="14867:5523" name="Type=Video, Device=Tablet, Dark Mode=True" x="3662" y="461" width="768" height="100" />
+      <symbol id="14866:28399" name="Type=Buttons, Device=Tablet, Dark Mode=False" x="1176" y="280" width="768" height="85" />
+      <symbol id="14867:10088" name="Type=Pagination, Device=Tablet, Dark Mode=False" x="1176" y="657" width="768" height="74" />
+      <symbol id="14866:27920" name="Type=Call, Device=Mobile, Dark Mode=False" x="2000" y="96" width="390" height="88" />
+      <symbol id="14866:29004" name="Type=Video, Device=Mobile, Dark Mode=False" x="2000" y="461" width="390" height="84" />
+      <symbol id="14867:5536" name="Type=Video, Device=Mobile, Dark Mode=True" x="4486" y="461" width="390" height="84" />
+      <symbol id="14866:28411" name="Type=Buttons, Device=Mobile, Dark Mode=False" x="2000" y="280" width="390" height="85" />
+      <symbol id="14867:10092" name="Type=Pagination, Device=Mobile, Dark Mode=False" x="2000" y="657" width="390" height="74" />
+      <symbol id="14866:27970" name="Type=Call, Device=Desktop, Dark Mode=True" x="2582" y="96" width="1024" height="88" />
+      <symbol id="14866:28418" name="Type=Buttons, Device=Desktop, Dark Mode=True" x="2582" y="280" width="1024" height="85" />
+      <symbol id="14867:10096" name="Type=Pagination, Device=Desktop, Dark Mode=True" x="2582" y="657" width="1024" height="74" />
+      <symbol id="14866:27984" name="Type=Call, Device=Tablet, Dark Mode=True" x="3662" y="96" width="768" height="88" />
+      <symbol id="14866:28432" name="Type=Buttons, Device=Tablet, Dark Mode=True" x="3662" y="280" width="768" height="85" />
+      <symbol id="14867:10100" name="Type=Pagination, Device=Tablet, Dark Mode=True" x="3662" y="657" width="768" height="74" />
+      <symbol id="14866:27996" name="Type=Call, Device=Mobile, Dark Mode=True" x="4486" y="96" width="390" height="88" />
+      <symbol id="14866:28444" name="Type=Buttons, Device=Mobile, Dark Mode=True" x="4486" y="280" width="390" height="85" />
+      <symbol id="14867:10104" name="Type=Pagination, Device=Mobile, Dark Mode=True" x="4486" y="657" width="390" height="74" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

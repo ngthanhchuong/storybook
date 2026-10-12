@@ -1,0 +1,15 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Avatars/Stacked Avatars",args:{"Type":"Only Photos","Size":"SM"},argTypes:{"Type":{"control":"select","options":["Only Photos","With Counter"]},"Size":{"control":"select","options":["SM","MD","LG","XL"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14845-19582"}},render:(args)=> <CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+8+')',render:()=> <CatalogStory pageId="3197:21106" groupId="14845:19582" gallery/>};
+export const Variant001:Story={name:"Type=Only Photos, Size=SM",args:{"Type":"Only Photos","Size":"SM"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant002:Story={name:"Type=With Counter, Size=SM",args:{"Type":"With Counter","Size":"SM"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant003:Story={name:"Type=Only Photos, Size=MD",args:{"Type":"Only Photos","Size":"MD"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant004:Story={name:"Type=With Counter, Size=MD",args:{"Type":"With Counter","Size":"MD"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant005:Story={name:"Type=Only Photos, Size=LG",args:{"Type":"Only Photos","Size":"LG"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant006:Story={name:"Type=With Counter, Size=LG",args:{"Type":"With Counter","Size":"LG"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant007:Story={name:"Type=Only Photos, Size=XL",args:{"Type":"Only Photos","Size":"XL"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};
+export const Variant008:Story={name:"Type=With Counter, Size=XL",args:{"Type":"With Counter","Size":"XL"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19582" properties={args}/>};

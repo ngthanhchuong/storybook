@@ -1,0 +1,1081 @@
+{
+  "stories": 2163,
+  "groupsChecked": 153,
+  "checks": [
+    {
+      "id": "welcome--overview",
+      "title": "Welcome",
+      "scenes": 0,
+      "missing": []
+    },
+    {
+      "id": "foundations-tokens--variables",
+      "title": "Foundations/Tokens",
+      "scenes": 0,
+      "missing": []
+    },
+    {
+      "id": "foundations-colors--playground",
+      "title": "Foundations/Colors",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-colors--all-variants",
+      "title": "Foundations/Colors",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-icon-shapes--playground",
+      "title": "Foundations/Icon Shapes",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-icon-shapes--all-variants",
+      "title": "Foundations/Icon Shapes",
+      "scenes": 180,
+      "missing": [],
+      "width": 300.546875
+    },
+    {
+      "id": "foundations-brands-logos--catalog",
+      "title": "Foundations/Brands Logos",
+      "scenes": 96,
+      "missing": [],
+      "width": 133
+    },
+    {
+      "id": "foundations-typography-font-weight--playground",
+      "title": "Foundations/Typography/Font Weight",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-typography-font-weight--all-variants",
+      "title": "Foundations/Typography/Font Weight",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-typography-font-size--playground",
+      "title": "Foundations/Typography/Font Size",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-typography-font-size--all-variants",
+      "title": "Foundations/Typography/Font Size",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-shadows-borders-border-radius--playground",
+      "title": "Foundations/Shadows & Borders/Border Radius",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-shadows-borders-border-radius--all-variants",
+      "title": "Foundations/Shadows & Borders/Border Radius",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-shadows-borders-shadows--playground",
+      "title": "Foundations/Shadows & Borders/Shadows",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-shadows-borders-shadows--all-variants",
+      "title": "Foundations/Shadows & Borders/Shadows",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-icons--catalog",
+      "title": "Foundations/Icons",
+      "scenes": 96,
+      "missing": [],
+      "width": 28
+    },
+    {
+      "id": "foundations-layout-grid-pages-container--playground",
+      "title": "Foundations/Layout Grid/Pages Container",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-layout-grid-pages-container--all-variants",
+      "title": "Foundations/Layout Grid/Pages Container",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-layout-grid-grid-examples--playground",
+      "title": "Foundations/Layout Grid/Grid Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-layout-grid-grid-examples--all-variants",
+      "title": "Foundations/Layout Grid/Grid Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "foundations-spacing--playground",
+      "title": "Foundations/Spacing",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "foundations-spacing--all-variants",
+      "title": "Foundations/Spacing",
+      "scenes": 1,
+      "missing": [],
+      "width": 1136
+    },
+    {
+      "id": "components-skeleton--playground",
+      "title": "Components/Skeleton",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-skeleton--all-variants",
+      "title": "Components/Skeleton",
+      "scenes": 10,
+      "missing": [],
+      "width": 600
+    },
+    {
+      "id": "components-drawer-drawer--playground",
+      "title": "Components/Drawer/Drawer",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-drawer-drawer--all-variants",
+      "title": "Components/Drawer/Drawer",
+      "scenes": 8,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-drawer-drawer-tab--playground",
+      "title": "Components/Drawer/Drawer Tab",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-drawer-drawer-tab--all-variants",
+      "title": "Components/Drawer/Drawer Tab",
+      "scenes": 12,
+      "missing": [],
+      "width": 276.234375
+    },
+    {
+      "id": "components-cards--playground",
+      "title": "Components/Cards",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-cards--all-variants",
+      "title": "Components/Cards",
+      "scenes": 44,
+      "missing": [],
+      "width": 480
+    },
+    {
+      "id": "components-keyboard--playground",
+      "title": "Components/Keyboard",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-keyboard--all-variants",
+      "title": "Components/Keyboard",
+      "scenes": 122,
+      "missing": [],
+      "width": 227.296875
+    },
+    {
+      "id": "components-datepicker-day--playground",
+      "title": "Components/Datepicker/Day",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-datepicker-day--all-variants",
+      "title": "Components/Datepicker/Day",
+      "scenes": 42,
+      "missing": [],
+      "width": 249.203125
+    },
+    {
+      "id": "components-datepicker-datepicker--playground",
+      "title": "Components/Datepicker/Datepicker",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-datepicker-datepicker--all-variants",
+      "title": "Components/Datepicker/Datepicker",
+      "scenes": 8,
+      "missing": [],
+      "width": 340
+    },
+    {
+      "id": "components-speed-dial--playground",
+      "title": "Components/Speed Dial",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-speed-dial--all-variants",
+      "title": "Components/Speed Dial",
+      "scenes": 64,
+      "missing": [],
+      "width": 360
+    },
+    {
+      "id": "components-steppers-stepper--playground",
+      "title": "Components/Steppers/Stepper",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-steppers-stepper--all-variants",
+      "title": "Components/Steppers/Stepper",
+      "scenes": 20,
+      "missing": [],
+      "width": 680
+    },
+    {
+      "id": "components-steppers-stepper-position--playground",
+      "title": "Components/Steppers/Stepper Position",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-steppers-stepper-position--all-variants",
+      "title": "Components/Steppers/Stepper Position",
+      "scenes": 20,
+      "missing": [],
+      "width": 680
+    },
+    {
+      "id": "components-timelines--playground",
+      "title": "Components/Timelines",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-timelines--all-variants",
+      "title": "Components/Timelines",
+      "scenes": 24,
+      "missing": [],
+      "width": 768
+    },
+    {
+      "id": "components-gallery--playground",
+      "title": "Components/Gallery",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-gallery--all-variants",
+      "title": "Components/Gallery",
+      "scenes": 30,
+      "missing": [],
+      "width": 390
+    },
+    {
+      "id": "components-banners--playground",
+      "title": "Components/Banners",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-banners--all-variants",
+      "title": "Components/Banners",
+      "scenes": 24,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "components-bottom-navigation-navigation-atoms--playground",
+      "title": "Components/Bottom navigation/Navigation Atoms",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-bottom-navigation-navigation-atoms--all-variants",
+      "title": "Components/Bottom navigation/Navigation Atoms",
+      "scenes": 8,
+      "missing": [],
+      "width": 247.390625
+    },
+    {
+      "id": "components-bottom-navigation-mobile-bottom-navigation--playground",
+      "title": "Components/Bottom navigation/Mobile Bottom Navigation",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-bottom-navigation-mobile-bottom-navigation--all-variants",
+      "title": "Components/Bottom navigation/Mobile Bottom Navigation",
+      "scenes": 10,
+      "missing": [],
+      "width": 390
+    },
+    {
+      "id": "components-bottom-navigation-desktop-bottom-navigation--playground",
+      "title": "Components/Bottom navigation/Desktop Bottom Navigation",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-bottom-navigation-desktop-bottom-navigation--all-variants",
+      "title": "Components/Bottom navigation/Desktop Bottom Navigation",
+      "scenes": 24,
+      "missing": [],
+      "width": 1024
+    },
+    {
+      "id": "components-buttons-button--playground",
+      "title": "Components/Buttons/Button",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-buttons-button--all-variants",
+      "title": "Components/Buttons/Button",
+      "scenes": 144,
+      "missing": [],
+      "width": 360
+    },
+    {
+      "id": "components-buttons-download-app-button--playground",
+      "title": "Components/Buttons/Download App Button",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-buttons-download-app-button--all-variants",
+      "title": "Components/Buttons/Download App Button",
+      "scenes": 4,
+      "missing": [],
+      "width": 176
+    },
+    {
+      "id": "components-buttons-button-group--playground",
+      "title": "Components/Buttons/Button Group",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-buttons-button-group--all-variants",
+      "title": "Components/Buttons/Button Group",
+      "scenes": 8,
+      "missing": [],
+      "width": 203
+    },
+    {
+      "id": "components-chat-bubble--playground",
+      "title": "Components/Chat Bubble",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-chat-bubble--all-variants",
+      "title": "Components/Chat Bubble",
+      "scenes": 36,
+      "missing": [],
+      "width": 352
+    },
+    {
+      "id": "components-avatars-avatar--playground",
+      "title": "Components/Avatars/Avatar",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-avatars-avatar--all-variants",
+      "title": "Components/Avatars/Avatar",
+      "scenes": 40,
+      "missing": [],
+      "width": 306.28125
+    },
+    {
+      "id": "components-avatars-stacked-avatars--playground",
+      "title": "Components/Avatars/Stacked Avatars",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-avatars-stacked-avatars--all-variants",
+      "title": "Components/Avatars/Stacked Avatars",
+      "scenes": 8,
+      "missing": [],
+      "width": 162.03125
+    },
+    {
+      "id": "components-avatars-avatar-text--playground",
+      "title": "Components/Avatars/Avatar + Text",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-avatars-avatar-text--all-variants",
+      "title": "Components/Avatars/Avatar + Text",
+      "scenes": 4,
+      "missing": [],
+      "width": 160
+    },
+    {
+      "id": "components-navbar--playground",
+      "title": "Components/Navbar",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-navbar--all-variants",
+      "title": "Components/Navbar",
+      "scenes": 42,
+      "missing": [],
+      "width": 1358
+    },
+    {
+      "id": "components-input-fields-default-input-field--playground",
+      "title": "Components/Input Fields/Default Input Field",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-input-fields-default-input-field--all-variants",
+      "title": "Components/Input Fields/Default Input Field",
+      "scenes": 42,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-input-fields-floating-input-field--playground",
+      "title": "Components/Input Fields/Floating Input Field",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-input-fields-floating-input-field--all-variants",
+      "title": "Components/Input Fields/Floating Input Field",
+      "scenes": 42,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-input-fields-textarea--playground",
+      "title": "Components/Input Fields/Textarea",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-input-fields-textarea--all-variants",
+      "title": "Components/Input Fields/Textarea",
+      "scenes": 28,
+      "missing": [],
+      "width": 480
+    },
+    {
+      "id": "components-input-fields-chatroom-input--playground",
+      "title": "Components/Input Fields/Chatroom Input",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-input-fields-chatroom-input--all-variants",
+      "title": "Components/Input Fields/Chatroom Input",
+      "scenes": 24,
+      "missing": [],
+      "width": 394
+    },
+    {
+      "id": "components-accordions--playground",
+      "title": "Components/Accordions",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-accordions--all-variants",
+      "title": "Components/Accordions",
+      "scenes": 6,
+      "missing": [],
+      "width": 664
+    },
+    {
+      "id": "components-dropdowns-dropdown-atoms--playground",
+      "title": "Components/Dropdowns/Dropdown Atoms",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-dropdowns-dropdown-atoms--all-variants",
+      "title": "Components/Dropdowns/Dropdown Atoms",
+      "scenes": 42,
+      "missing": [],
+      "width": 266.125
+    },
+    {
+      "id": "components-dropdowns-dropdown--playground",
+      "title": "Components/Dropdowns/Dropdown",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-dropdowns-dropdown--all-variants",
+      "title": "Components/Dropdowns/Dropdown",
+      "scenes": 20,
+      "missing": [],
+      "width": 224
+    },
+    {
+      "id": "components-badges--playground",
+      "title": "Components/Badges",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-badges--all-variants",
+      "title": "Components/Badges",
+      "scenes": 56,
+      "missing": [],
+      "width": 341.609375
+    },
+    {
+      "id": "components-tooltips--playground",
+      "title": "Components/Tooltips",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-tooltips--all-variants",
+      "title": "Components/Tooltips",
+      "scenes": 16,
+      "missing": [],
+      "width": 204.984375
+    },
+    {
+      "id": "components-progress-bars--playground",
+      "title": "Components/Progress Bars",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-progress-bars--all-variants",
+      "title": "Components/Progress Bars",
+      "scenes": 60,
+      "missing": [],
+      "width": 384
+    },
+    {
+      "id": "components-nav-tabs-tab--playground",
+      "title": "Components/Nav Tabs/Tab",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-nav-tabs-tab--all-variants",
+      "title": "Components/Nav Tabs/Tab",
+      "scenes": 32,
+      "missing": [],
+      "width": 477
+    },
+    {
+      "id": "components-nav-tabs-app-tab--playground",
+      "title": "Components/Nav Tabs/App Tab",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-nav-tabs-app-tab--all-variants",
+      "title": "Components/Nav Tabs/App Tab",
+      "scenes": 24,
+      "missing": [],
+      "width": 1024
+    },
+    {
+      "id": "components-nav-tabs-tab-atoms--playground",
+      "title": "Components/Nav Tabs/Tab Atoms",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-nav-tabs-tab-atoms--all-variants",
+      "title": "Components/Nav Tabs/Tab Atoms",
+      "scenes": 24,
+      "missing": [],
+      "width": 360
+    },
+    {
+      "id": "components-alerts--playground",
+      "title": "Components/Alerts",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-alerts--all-variants",
+      "title": "Components/Alerts",
+      "scenes": 6,
+      "missing": [],
+      "width": 712
+    },
+    {
+      "id": "components-pagination-pagination--playground",
+      "title": "Components/Pagination/Pagination",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-pagination-pagination--all-variants",
+      "title": "Components/Pagination/Pagination",
+      "scenes": 48,
+      "missing": [],
+      "width": 405
+    },
+    {
+      "id": "components-pagination-pagination-atoms--playground",
+      "title": "Components/Pagination/Pagination Atoms",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-pagination-pagination-atoms--all-variants",
+      "title": "Components/Pagination/Pagination Atoms",
+      "scenes": 32,
+      "missing": [],
+      "width": 360
+    },
+    {
+      "id": "components-tables-table--playground",
+      "title": "Components/Tables/Table",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-tables-table--all-variants",
+      "title": "Components/Tables/Table",
+      "scenes": 6,
+      "missing": [],
+      "width": 1044
+    },
+    {
+      "id": "components-tables-table-cell--playground",
+      "title": "Components/Tables/Table Cell",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-tables-table-cell--all-variants",
+      "title": "Components/Tables/Table Cell",
+      "scenes": 8,
+      "missing": [],
+      "width": 183.890625
+    },
+    {
+      "id": "components-modals--playground",
+      "title": "Components/Modals",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-modals--all-variants",
+      "title": "Components/Modals",
+      "scenes": 12,
+      "missing": [],
+      "width": 480
+    },
+    {
+      "id": "components-carousel--playground",
+      "title": "Components/Carousel",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-carousel--all-variants",
+      "title": "Components/Carousel",
+      "scenes": 6,
+      "missing": [],
+      "width": 924
+    },
+    {
+      "id": "components-spinners--playground",
+      "title": "Components/Spinners",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-spinners--all-variants",
+      "title": "Components/Spinners",
+      "scenes": 16,
+      "missing": [],
+      "width": 236.953125
+    },
+    {
+      "id": "components-breadcrumbs--playground",
+      "title": "Components/Breadcrumbs",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-breadcrumbs--all-variants",
+      "title": "Components/Breadcrumbs",
+      "scenes": 4,
+      "missing": [],
+      "width": 305
+    },
+    {
+      "id": "components-popovers--playground",
+      "title": "Components/Popovers",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-popovers--all-variants",
+      "title": "Components/Popovers",
+      "scenes": 40,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-search-inputs--playground",
+      "title": "Components/Search Inputs",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-search-inputs--all-variants",
+      "title": "Components/Search Inputs",
+      "scenes": 36,
+      "missing": [],
+      "width": 400
+    },
+    {
+      "id": "components-select-inputs-regular-select--playground",
+      "title": "Components/Select Inputs/Regular Select",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-select-inputs-regular-select--all-variants",
+      "title": "Components/Select Inputs/Regular Select",
+      "scenes": 36,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-select-inputs-double-select--playground",
+      "title": "Components/Select Inputs/Double Select",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-select-inputs-double-select--all-variants",
+      "title": "Components/Select Inputs/Double Select",
+      "scenes": 42,
+      "missing": [],
+      "width": 340
+    },
+    {
+      "id": "components-select-inputs-floating-select--playground",
+      "title": "Components/Select Inputs/Floating Select",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-select-inputs-floating-select--all-variants",
+      "title": "Components/Select Inputs/Floating Select",
+      "scenes": 36,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-file-upload-inputs-simple-file-uploader--playground",
+      "title": "Components/File Upload Inputs/Simple File Uploader",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-file-upload-inputs-simple-file-uploader--all-variants",
+      "title": "Components/File Upload Inputs/Simple File Uploader",
+      "scenes": 36,
+      "missing": [],
+      "width": 384
+    },
+    {
+      "id": "components-file-upload-inputs-drag-drop-uploader--playground",
+      "title": "Components/File Upload Inputs/Drag & Drop Uploader",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-file-upload-inputs-drag-drop-uploader--all-variants",
+      "title": "Components/File Upload Inputs/Drag & Drop Uploader",
+      "scenes": 12,
+      "missing": [],
+      "width": 508
+    },
+    {
+      "id": "components-file-upload-inputs-file--playground",
+      "title": "Components/File Upload Inputs/File",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-file-upload-inputs-file--all-variants",
+      "title": "Components/File Upload Inputs/File",
+      "scenes": 6,
+      "missing": [],
+      "width": 384
+    },
+    {
+      "id": "components-tag-inputs--playground",
+      "title": "Components/Tag Inputs",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-tag-inputs--all-variants",
+      "title": "Components/Tag Inputs",
+      "scenes": 48,
+      "missing": [],
+      "width": 320
+    },
+    {
+      "id": "components-number-inputs--playground",
+      "title": "Components/Number Inputs",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-number-inputs--all-variants",
+      "title": "Components/Number Inputs",
+      "scenes": 72,
+      "missing": [],
+      "width": 323.484375
+    },
+    {
+      "id": "components-range-sliders--playground",
+      "title": "Components/Range Sliders",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-range-sliders--all-variants",
+      "title": "Components/Range Sliders",
+      "scenes": 8,
+      "missing": [],
+      "width": 560
+    },
+    {
+      "id": "components-radio-checkbox-toggle-radiobutton--playground",
+      "title": "Components/Radio, Checkbox & Toggle/Radiobutton",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-radio-checkbox-toggle-radiobutton--all-variants",
+      "title": "Components/Radio, Checkbox & Toggle/Radiobutton",
+      "scenes": 48,
+      "missing": [],
+      "width": 360
+    },
+    {
+      "id": "components-radio-checkbox-toggle-toggle--playground",
+      "title": "Components/Radio, Checkbox & Toggle/Toggle",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-radio-checkbox-toggle-toggle--all-variants",
+      "title": "Components/Radio, Checkbox & Toggle/Toggle",
+      "scenes": 24,
+      "missing": [],
+      "width": 337.171875
+    },
+    {
+      "id": "components-radio-checkbox-toggle-checkbox--playground",
+      "title": "Components/Radio, Checkbox & Toggle/Checkbox",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-radio-checkbox-toggle-checkbox--all-variants",
+      "title": "Components/Radio, Checkbox & Toggle/Checkbox",
+      "scenes": 48,
+      "missing": [],
+      "width": 360
+    },
+    {
+      "id": "components-toasts--playground",
+      "title": "Components/Toasts",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-toasts--all-variants",
+      "title": "Components/Toasts",
+      "scenes": 8,
+      "missing": [],
+      "width": 390
+    },
+    {
+      "id": "components-autocomplete-inputs--playground",
+      "title": "Components/Autocomplete inputs",
+      "scenes": 1,
+      "missing": [],
+      "width": 1368
+    },
+    {
+      "id": "components-autocomplete-inputs--all-variants",
+      "title": "Components/Autocomplete inputs",
+      "scenes": 12,
+      "missing": [],
+      "width": 384
+    },
+    {
+      "id": "components-drawer-examples--screens",
+      "title": "Components/Drawer/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1224.800048828125
+    },
+    {
+      "id": "components-speed-dial-examples--screens",
+      "title": "Components/Speed Dial/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1224.800048828125
+    },
+    {
+      "id": "components-banners-examples--screens",
+      "title": "Components/Banners/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1224.800048828125
+    },
+    {
+      "id": "components-chat-bubble-examples--screens",
+      "title": "Components/Chat Bubble/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 296
+    },
+    {
+      "id": "components-navbar-examples--screens",
+      "title": "Components/Navbar/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1224.800048828125
+    },
+    {
+      "id": "components-modals-examples--screens",
+      "title": "Components/Modals/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1224.800048828125
+    },
+    {
+      "id": "components-toasts-examples--screens",
+      "title": "Components/Toasts/Examples",
+      "scenes": 1,
+      "missing": [],
+      "width": 1224.800048828125
+    }
+  ],
+  "interaction": {
+    "hover": "rgb(64, 64, 64)",
+    "focused": "rgb(229, 229, 229) 0px 0px 0px 3px",
+    "editable": true
+  },
+  "failures": []
+}

@@ -1,0 +1,199 @@
+const imgClose = "https://www.figma.com/api/mcp/asset/af4cbe53-c3f5-4250-a22c-8981c63c9d3e.svg";
+const imgGroup = "https://www.figma.com/api/mcp/asset/1bc6669c-a263-4586-bdae-f4bfe389331e.svg";
+const imgGroup1 = "https://www.figma.com/api/mcp/asset/39f80f4e-0e34-48f6-a702-f039d8f407a1.svg";
+const imgVector = "https://www.figma.com/api/mcp/asset/8fc5b367-a4a8-4362-acd6-e6900ba29a08.svg";
+const imgCalendarMonth = "https://www.figma.com/api/mcp/asset/5e365e64-71ac-4c54-bb9f-28971a5052b7.svg";
+const imgSchedule = "https://www.figma.com/api/mcp/asset/8bad39ca-c954-4915-93b8-a415f7035ab9.svg";
+const imgGroup2 = "https://www.figma.com/api/mcp/asset/06b96241-c509-4d81-84a5-399f6ab59199.svg";
+const imgBorderAll = "https://www.figma.com/api/mcp/asset/6dbd525c-b90b-4ca0-a39e-a188642a2aae.svg";
+const imgKeyboardArrowDown = "https://www.figma.com/api/mcp/asset/3a0f4c9c-7b6b-4e39-bd56-9cdf929a45c9.svg";
+const imgArrowSplit = "https://www.figma.com/api/mcp/asset/f6019a93-06fc-441e-bd04-045120552e2f.svg";
+const imgGraph2 = "https://www.figma.com/api/mcp/asset/f6625b3b-9786-4010-b9f0-0798f60273be.svg";
+const imgFinance = "https://www.figma.com/api/mcp/asset/3dd778a8-a045-4c26-a96a-7aa4c0ac69e1.svg";
+const imgKeyboardArrowUp = "https://www.figma.com/api/mcp/asset/ef4b9d88-9131-40d8-9fe6-aa73cbf21bcb.svg";
+const imgClose1 = "https://www.figma.com/api/mcp/asset/2a869cac-bc5f-4978-b5a9-bee231e2c698.svg";
+const imgAvatar = "https://www.figma.com/api/mcp/asset/90dbf44a-ebd4-4109-8e25-bb28f35166b1.svg";
+const imgSettings = "https://www.figma.com/api/mcp/asset/6665db5c-0722-4410-9f35-3cfa0d14a39c.svg";
+const imgLogout = "https://www.figma.com/api/mcp/asset/60da0f28-75cc-41a8-9228-9ffed1cbcb01.svg";
+
+function Close({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[24px]"} data-node-id="14845:58965" data-name="close">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgClose} />
+    </div>
+  );
+}
+
+type DrawerProps = {
+  className?: string;
+  alert?: boolean;
+  closeButton?: boolean;
+  darkMode?: "False";
+  type?: "Menu";
+};
+
+function Drawer({ className, alert = true, closeButton = true, darkMode = "False", type = "Menu" }: DrawerProps) {
+  return (
+    <div className={className || "bg-[var(--gray\\/50,#fafafa)] border-[var(--gray\\/200,#e5e5e5)] border-r border-solid content-stretch flex flex-col gap-[var(--7,32px)] h-[1080px] items-start overflow-clip px-[var(--4,16px)] py-[var(--7,32px)] relative w-[var(--25,320px)]"} data-node-id="14941:15970">
+      <div className="content-stretch flex flex-col items-start px-[var(--4,16px)] relative shrink-0 w-full" data-node-id="14941:15393" data-name="Logo Wrapper">
+        <div className="h-[24px] overflow-clip relative shrink-0 w-[189px]" data-node-id="14941:9114" data-name="Full_Logo_Dark">
+          <div className="absolute contents inset-[3.7%_88.14%_3.7%_0]" data-node-id="14941:9115" data-name="Clip path group">
+            <div className="absolute inset-[-63.89%_79.48%_-63.89%_-8.66%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[16.368px_16.222px] mask-size-[22.423px_22.222px]" data-node-id="14941:9118" style={{ maskImage: `url("${imgGroup}")` }} data-name="Group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+            </div>
+          </div>
+          <div className="absolute inset-[19.65%_0.29%_2.71%_14.95%]" data-node-id="14941:9123" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-[1_0_0] flex-col gap-[var(--1,4px)] items-start min-h-px relative w-full" data-node-id="14941:15392" data-name="Top Tabs">
+        <div className="bg-[var(--gray\/200,#e5e5e5)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15364" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15364;14941:15095" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalendarMonth} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--black,black)]" data-node-id="I14941:15364;14941:15096">
+            Bookings
+          </p>
+          <div className="bg-[var(--blue\/600,#1c64f2)] relative rounded-[var(--rounded-full,9999px)] shrink-0 size-[8px]" data-node-id="I14941:15364;14941:15097" data-name="Dot" />
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15374" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15374;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSchedule} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15374;14941:9187">
+            Availability
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15383" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15383;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15383;14941:9187">
+            Teams
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15591" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15591;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBorderAll} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15591;14941:9187">
+            Apps
+          </p>
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15591;14941:9201" data-name="keyboard_arrow_down">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgKeyboardArrowDown} />
+          </div>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15602" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15602;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowSplit} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15602;14941:9187">
+            Routing
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15615" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15615;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGraph2} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15615;14941:9187">
+            Workflow
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15624" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15624;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFinance} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15624;14941:9187">
+            Reports
+          </p>
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15624;14941:9201" data-name="keyboard_arrow_down">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgKeyboardArrowUp} />
+          </div>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center pl-[var(--9,48px)] pr-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15633" data-name="Drawer Tab">
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15633;14941:15265">
+            Bookings
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center pl-[var(--9,48px)] pr-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15640" data-name="Drawer Tab">
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15640;14941:15265">
+            Routing
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center pl-[var(--9,48px)] pr-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15647" data-name="Drawer Tab">
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15647;14941:15265">
+            Router Position
+          </p>
+        </div>
+      </div>
+      {alert && (
+        <div className="bg-[var(--blue\/50,#ebf5ff)] border border-[var(--blue\/200,#c3ddfd)] border-solid content-stretch flex flex-col gap-[var(--4,16px)] items-start p-[var(--6,24px)] relative rounded-[var(--rounded-xl,12px)] shrink-0 w-full" data-node-id="14941:15912" data-name="Alert Banner">
+          <div className="content-stretch flex flex-col gap-[var(--3,12px)] items-start relative shrink-0 w-full" data-node-id="I14941:15912;14848:214" data-name="Top Content">
+            <div className="content-stretch flex gap-[var(--2,8px)] items-center relative shrink-0 w-full" data-node-id="I14941:15912;14848:215" data-name="Alert Heading">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Inter_Tight:Bold'] leading-[1.3] min-w-px not-italic relative text-[18px] text-[color:var(--blue\/700,#1a56db)]" data-node-id="I14941:15912;14848:217">
+                Offer header here
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--blue\/500,#3f83f8)] w-full" data-node-id="I14941:15912;14848:218">
+              Lorem ipsum dolor sit amet consectetur adipiscing elit massa.
+            </p>
+          </div>
+          <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="I14941:15912;14848:219" data-name="Bottom Buttons">
+            <div className="bg-[var(--blue\/600,#1c64f2)] content-stretch flex gap-[var(--2,8px)] items-center justify-center px-[var(--6,24px)] py-[var(--3,12px)] relative rounded-[var(--rounded-xl,12px)] shrink-0" data-node-id="I14941:15912;14848:220" data-name="Button">
+              <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--white,white)] whitespace-nowrap" data-node-id="I14941:15912;14848:220;14846:1737">
+                View details
+              </p>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex items-center justify-center right-[-1px] size-[44px] top-[-1px]" data-node-id="I14941:15912;14848:320" data-name="Tapable Area">
+            <div className="relative shrink-0 size-[24px]" data-node-id="I14941:15912;14848:321" data-name="close">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgClose1} />
+            </div>
+          </div>
+        </div>
+      )}
+      <div className="content-stretch flex flex-col gap-[var(--1,4px)] items-start relative shrink-0 w-full" data-node-id="14941:15664" data-name="Top Tabs">
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--2,8px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15669" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[24px]" data-node-id="I14941:15669;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgAvatar} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15669;14941:9187">
+            Profile
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15666" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15666;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSettings} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15666;14941:9187">
+            Settings
+          </p>
+        </div>
+        <div className="bg-[var(--gray\/50,#fafafa)] content-stretch flex gap-[var(--3,12px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded-lg,8px)] shrink-0 w-full" data-node-id="14941:15729" data-name="Drawer Tab">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I14941:15729;14941:9189" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLogout} />
+          </div>
+          <p className="[word-break:break-word] flex-[1_0_0] font-['Inter:Medium'] font-medium leading-[1.3] min-w-px not-italic relative text-[16px] text-[color:var(--gray\/500,#737373)]" data-node-id="I14941:15729;14941:9187">
+            Log out
+          </p>
+        </div>
+      </div>
+      {closeButton && (
+        <div className="absolute content-stretch flex items-center justify-center right-[-1px] size-[44px] top-0" data-node-id="14943:5039" data-name="Tapable Area">
+          <Close className="relative shrink-0 size-[24px]" />
+        </div>
+      )}
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: text-base/font-medium: Font(family: "Inter", style: Medium, size: 16, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-lg/font-bold: Font(family: "Inter Tight", style: Bold, size: 18, weight: 700, lineHeight: 1.2999999523162842, letterSpacing: 0), Avatar/Ethan Rogers: .
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

@@ -1,0 +1,53 @@
+<canvas id="144:144677" name="↳ Steppers" x="0" y="0" width="0" height="0">
+  <frame id="15103:4718" name="Steppers" x="-15158" y="-1657" width="2844" height="1671">
+    <rounded-rectangle id="15104:2310" name="Background" x="1422" y="112" width="1310" height="1447" />
+    <frame id="15104:2162" name="Stepper" x="112" y="112" width="2620" height="1447">
+      <symbol id="15104:1361" name="Type=Progress Bar, Mobile=False, Dark Mode=False" x="96" y="235" width="680" height="92" />
+      <symbol id="15104:3213" name="Type=Progress Bar, Mobile=True, Dark Mode=False" x="872" y="235" width="342" height="92" />
+      <symbol id="15104:2439" name="Type=Progress Bar, Mobile=False, Dark Mode=True" x="1406" y="235" width="680" height="92" />
+      <symbol id="15104:3493" name="Type=Progress Bar, Mobile=True, Dark Mode=True" x="2182" y="235" width="342" height="92" />
+      <symbol id="15104:1607" name="Type=Vertical, Mobile=False, Dark Mode=False" x="96" y="409" width="390" height="360" />
+      <symbol id="15104:3225" name="Type=Vertical, Mobile=True, Dark Mode=False" x="872" y="409" width="342" height="360" />
+      <symbol id="15104:2451" name="Type=Vertical, Mobile=False, Dark Mode=True" x="1406" y="409" width="390" height="360" />
+      <symbol id="15104:3505" name="Type=Vertical, Mobile=True, Dark Mode=True" x="2182" y="409" width="342" height="360" />
+      <symbol id="15104:1789" name="Type=Simple, Mobile=False, Dark Mode=False" x="96" y="96" width="680" height="39" />
+      <symbol id="15104:3252" name="Type=Simple, Mobile=True, Dark Mode=False" x="872" y="96" width="342" height="39" />
+      <symbol id="15104:2478" name="Type=Simple, Mobile=False, Dark Mode=True" x="1406" y="96" width="680" height="39" />
+      <symbol id="15104:3532" name="Type=Simple, Mobile=True, Dark Mode=True" x="2182" y="96" width="342" height="39" />
+      <symbol id="15104:1934" name="Type=Alerts, Mobile=False, Dark Mode=False" x="96" y="869" width="390" height="332" />
+      <symbol id="15104:3270" name="Type=Alerts, Mobile=True, Dark Mode=False" x="872" y="869" width="342" height="332" />
+      <symbol id="15104:2496" name="Type=Alerts, Mobile=False, Dark Mode=True" x="1406" y="869" width="390" height="332" />
+      <symbol id="15104:3550" name="Type=Alerts, Mobile=True, Dark Mode=True" x="2182" y="869" width="342" height="332" />
+      <symbol id="15104:2161" name="Type=Breadcrumbs, Mobile=False, Dark Mode=False" x="96" y="1301" width="659" height="50" />
+      <symbol id="15104:3289" name="Type=Breadcrumbs, Mobile=True, Dark Mode=False" x="872" y="1301" width="342" height="50" />
+      <symbol id="15104:2515" name="Type=Breadcrumbs, Mobile=False, Dark Mode=True" x="1406" y="1301" width="651" height="50" />
+      <symbol id="15104:3569" name="Type=Breadcrumbs, Mobile=True, Dark Mode=True" x="2182" y="1301" width="342" height="50" />
+    </frame>
+  </frame>
+  <frame id="15104:3623" name="Steppers Position" x="-12114" y="-1657" width="2844" height="4183">
+    <rounded-rectangle id="15104:5711" name="Background" x="1422" y="112" width="1310" height="3959" />
+    <frame id="15104:4709" name="Stepper Position" x="112" y="112" width="2620" height="3959">
+      <symbol id="15104:4700" name="Type=Simple, Mobile=False, Dark Mode=False" x="96" y="96" width="680" height="343" />
+      <symbol id="15104:6103" name="Type=Simple, Mobile=False, Dark Mode=True" x="1406" y="96" width="680" height="343" />
+      <symbol id="15104:5354" name="Type=Simple, Mobile=True, Dark Mode=False" x="872" y="96" width="342" height="343" />
+      <symbol id="15104:6112" name="Type=Simple, Mobile=True, Dark Mode=True" x="2182" y="96" width="342" height="343" />
+      <symbol id="15104:4710" name="Type=Progress Bar, Mobile=False, Dark Mode=False" x="96" y="939" width="680" height="396" />
+      <symbol id="15104:6121" name="Type=Progress Bar, Mobile=False, Dark Mode=True" x="1406" y="939" width="680" height="396" />
+      <symbol id="15104:5363" name="Type=Progress Bar, Mobile=True, Dark Mode=False" x="872" y="939" width="342" height="396" />
+      <symbol id="15104:6129" name="Type=Progress Bar, Mobile=True, Dark Mode=True" x="2182" y="939" width="342" height="396" />
+      <symbol id="15104:5097" name="Type=Breadcrumbs, Mobile=False, Dark Mode=False" x="96" y="3509" width="680" height="354" />
+      <symbol id="15104:6137" name="Type=Breadcrumbs, Mobile=False, Dark Mode=True" x="1406" y="3509" width="680" height="354" />
+      <symbol id="15104:5371" name="Type=Breadcrumbs, Mobile=True, Dark Mode=False" x="872" y="3509" width="342" height="354" />
+      <symbol id="15104:6145" name="Type=Breadcrumbs, Mobile=True, Dark Mode=True" x="2182" y="3509" width="342" height="354" />
+      <symbol id="15104:4809" name="Type=Vertical, Mobile=False, Dark Mode=False" x="96" y="1817" width="680" height="360" />
+      <symbol id="15104:6153" name="Type=Vertical, Mobile=False, Dark Mode=True" x="1406" y="1817" width="680" height="360" />
+      <symbol id="15104:5379" name="Type=Vertical, Mobile=True, Dark Mode=False" x="872" y="1817" width="342" height="752" />
+      <symbol id="15104:6162" name="Type=Vertical, Mobile=True, Dark Mode=True" x="2182" y="1817" width="342" height="752" />
+      <symbol id="15104:4945" name="Type=Alerts, Mobile=False, Dark Mode=False" x="96" y="2677" width="680" height="332" />
+      <symbol id="15104:6171" name="Type=Alerts, Mobile=False, Dark Mode=True" x="1406" y="2677" width="680" height="332" />
+      <symbol id="15104:5388" name="Type=Alerts, Mobile=True, Dark Mode=False" x="872" y="2677" width="342" height="696" />
+      <symbol id="15104:6180" name="Type=Alerts, Mobile=True, Dark Mode=True" x="2182" y="2677" width="342" height="696" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

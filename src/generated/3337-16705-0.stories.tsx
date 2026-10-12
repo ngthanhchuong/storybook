@@ -1,0 +1,15 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Toasts",args:{"Type":"Alert","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["Alert","Message","Simple","Notification"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=15094-500"}},render:(args)=> <CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+8+')',render:()=> <CatalogStory pageId="3337:16705" groupId="15094:500" gallery/>};
+export const Variant001:Story={name:"Type=Alert, Dark Mode=False",args:{"Type":"Alert","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant002:Story={name:"Type=Alert, Dark Mode=True",args:{"Type":"Alert","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant003:Story={name:"Type=Simple, Dark Mode=False",args:{"Type":"Simple","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant004:Story={name:"Type=Simple, Dark Mode=True",args:{"Type":"Simple","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant005:Story={name:"Type=Message, Dark Mode=False",args:{"Type":"Message","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant006:Story={name:"Type=Message, Dark Mode=True",args:{"Type":"Message","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant007:Story={name:"Type=Notification, Dark Mode=False",args:{"Type":"Notification","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};
+export const Variant008:Story={name:"Type=Notification, Dark Mode=True",args:{"Type":"Notification","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3337:16705" groupId="15094:500" properties={args}/>};

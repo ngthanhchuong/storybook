@@ -1,0 +1,14 @@
+<canvas id="3282:18777" name="↳ Accordions" x="0" y="0" width="0" height="0">
+  <frame id="14849:631" name="Accordion" x="-3984" y="-1326" width="1936" height="1711">
+    <rounded-rectangle id="14849:2220" name="Background" x="968" y="112" width="856" height="1487" />
+    <frame id="14849:1979" name="Accordion" x="112" y="112" width="1712" height="1487">
+      <symbol id="14849:1237" name="Type=Simple, Dark Mode=False" x="96" y="96" width="664" height="365" />
+      <symbol id="14849:2346" name="Type=Simple, Dark Mode=True" x="952" y="96" width="664" height="365" />
+      <symbol id="14849:1786" name="Type=Combined, Dark Mode=False" x="96" y="517" width="664" height="405" />
+      <symbol id="14849:2386" name="Type=Combined, Dark Mode=True" x="952" y="517" width="664" height="405" />
+      <symbol id="14849:2218" name="Type=Separated, Dark Mode=False" x="96" y="978" width="664" height="413" />
+      <symbol id="14849:2426" name="Type=Separated, Dark Mode=True" x="952" y="978" width="664" height="413" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

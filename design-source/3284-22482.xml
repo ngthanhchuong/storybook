@@ -1,0 +1,93 @@
+<canvas id="3284:22482" name="↳ Pagination" x="0" y="0" width="0" height="0">
+  <frame id="14867:6157" name="Pagination" x="-672" y="935" width="1954" height="2072">
+    <rounded-rectangle id="14867:9230" name="Background" x="112" y="1036" width="1730" height="924" />
+    <frame id="14867:6995" name="Pagination" x="112" y="112" width="1730" height="1848">
+      <symbol id="14867:6994" name="Type=Default, Size=SM, State=Default, Dark Mode=False" x="96" y="96" width="406" height="34" />
+      <symbol id="14867:8786" name="Type=Default, Size=SM, State=Default, Dark Mode=True" x="96" y="1020" width="406" height="34" />
+      <symbol id="14867:8072" name="Type=Text Buttons Only, Size=SM, State=Default, Dark Mode=False" x="96" y="510" width="161" height="34" />
+      <symbol id="14867:8804" name="Type=Text Buttons Only, Size=SM, State=Default, Dark Mode=True" x="96" y="1434" width="161" height="34" />
+      <symbol id="14867:8258" name="Type=Icon Buttons Only, Size=SM, State=Default, Dark Mode=False" x="96" y="717" width="85" height="34" />
+      <symbol id="14867:8808" name="Type=Icon Buttons Only, Size=SM, State=Default, Dark Mode=True" x="96" y="1641" width="85" height="34" />
+      <symbol id="14867:8198" name="Type=Text Buttons Only, Size=LG, State=Default, Dark Mode=False" x="96" y="584" width="193" height="37" />
+      <symbol id="14867:8812" name="Type=Text Buttons Only, Size=LG, State=Default, Dark Mode=True" x="96" y="1508" width="193" height="37" />
+      <symbol id="14867:8262" name="Type=Icon Buttons Only, Size=LG, State=Default, Dark Mode=False" x="96" y="791" width="107" height="37" />
+      <symbol id="14867:8816" name="Type=Icon Buttons Only, Size=LG, State=Default, Dark Mode=True" x="96" y="1715" width="107" height="37" />
+      <symbol id="14867:8159" name="Type=Text Buttons Only, Size=SM, State=Hover, Dark Mode=False" x="622" y="510" width="161" height="34" />
+      <symbol id="14867:8820" name="Type=Text Buttons Only, Size=SM, State=Hover, Dark Mode=True" x="622" y="1434" width="161" height="34" />
+      <symbol id="14867:8266" name="Type=Icon Buttons Only, Size=SM, State=Hover, Dark Mode=False" x="622" y="717" width="85" height="34" />
+      <symbol id="14867:8824" name="Type=Icon Buttons Only, Size=SM, State=Hover, Dark Mode=True" x="622" y="1641" width="85" height="34" />
+      <symbol id="14867:8202" name="Type=Text Buttons Only, Size=LG, State=Hover, Dark Mode=False" x="622" y="584" width="193" height="37" />
+      <symbol id="14867:8828" name="Type=Text Buttons Only, Size=LG, State=Hover, Dark Mode=True" x="622" y="1508" width="193" height="37" />
+      <symbol id="14867:8270" name="Type=Icon Buttons Only, Size=LG, State=Hover, Dark Mode=False" x="622" y="791" width="107" height="37" />
+      <symbol id="14867:8832" name="Type=Icon Buttons Only, Size=LG, State=Hover, Dark Mode=True" x="622" y="1715" width="107" height="37" />
+      <symbol id="14867:8172" name="Type=Text Buttons Only, Size=SM, State=Active, Dark Mode=False" x="1148" y="510" width="161" height="34" />
+      <symbol id="14867:8836" name="Type=Text Buttons Only, Size=SM, State=Active, Dark Mode=True" x="1148" y="1434" width="161" height="34" />
+      <symbol id="14867:8274" name="Type=Icon Buttons Only, Size=SM, State=Active, Dark Mode=False" x="1148" y="717" width="85" height="34" />
+      <symbol id="14867:8840" name="Type=Icon Buttons Only, Size=SM, State=Active, Dark Mode=True" x="1148" y="1641" width="85" height="34" />
+      <symbol id="14867:8206" name="Type=Text Buttons Only, Size=LG, State=Active, Dark Mode=False" x="1148" y="584" width="193" height="37" />
+      <symbol id="14867:8844" name="Type=Text Buttons Only, Size=LG, State=Active, Dark Mode=True" x="1148" y="1508" width="193" height="37" />
+      <symbol id="14867:8278" name="Type=Icon Buttons Only, Size=LG, State=Active, Dark Mode=False" x="1148" y="791" width="107" height="37" />
+      <symbol id="14867:8848" name="Type=Icon Buttons Only, Size=LG, State=Active, Dark Mode=True" x="1148" y="1715" width="107" height="37" />
+      <symbol id="14867:7781" name="Type=Icons, Size=SM, State=Default, Dark Mode=False" x="96" y="303" width="352" height="34" />
+      <symbol id="14867:8852" name="Type=Icons, Size=SM, State=Default, Dark Mode=True" x="96" y="1227" width="352" height="34" />
+      <symbol id="14867:7511" name="Type=Default, Size=LG, State=Default, Dark Mode=False" x="96" y="170" width="501" height="37" />
+      <symbol id="14867:8870" name="Type=Default, Size=LG, State=Default, Dark Mode=True" x="96" y="1094" width="501" height="37" />
+      <symbol id="14867:7799" name="Type=Icons, Size=LG, State=Default, Dark Mode=False" x="96" y="377" width="441" height="37" />
+      <symbol id="14867:8888" name="Type=Icons, Size=LG, State=Default, Dark Mode=True" x="96" y="1301" width="441" height="37" />
+      <symbol id="14867:7331" name="Type=Default, Size=SM, State=Hover, Dark Mode=False" x="620" y="96" width="406" height="34" />
+      <symbol id="14867:8906" name="Type=Default, Size=SM, State=Hover, Dark Mode=True" x="620" y="1020" width="406" height="34" />
+      <symbol id="14867:7817" name="Type=Icons, Size=SM, State=Hover, Dark Mode=False" x="620" y="303" width="352" height="34" />
+      <symbol id="14867:8924" name="Type=Icons, Size=SM, State=Hover, Dark Mode=True" x="620" y="1227" width="352" height="34" />
+      <symbol id="14867:7529" name="Type=Default, Size=LG, State=Hover, Dark Mode=False" x="622" y="170" width="501" height="37" />
+      <symbol id="14867:8942" name="Type=Default, Size=LG, State=Hover, Dark Mode=True" x="622" y="1094" width="501" height="37" />
+      <symbol id="14867:7835" name="Type=Icons, Size=LG, State=Hover, Dark Mode=False" x="622" y="377" width="441" height="37" />
+      <symbol id="14867:8960" name="Type=Icons, Size=LG, State=Hover, Dark Mode=True" x="622" y="1301" width="441" height="37" />
+      <symbol id="14867:7386" name="Type=Default, Size=SM, State=Active, Dark Mode=False" x="1148" y="96" width="406" height="34" />
+      <symbol id="14867:8978" name="Type=Default, Size=SM, State=Active, Dark Mode=True" x="1148" y="1020" width="406" height="34" />
+      <symbol id="14867:7853" name="Type=Icons, Size=SM, State=Active, Dark Mode=False" x="1148" y="303" width="352" height="34" />
+      <symbol id="14867:8996" name="Type=Icons, Size=SM, State=Active, Dark Mode=True" x="1148" y="1227" width="352" height="34" />
+      <symbol id="14867:7547" name="Type=Default, Size=LG, State=Active, Dark Mode=False" x="1148" y="170" width="501" height="37" />
+      <symbol id="14867:9014" name="Type=Default, Size=LG, State=Active, Dark Mode=True" x="1148" y="1094" width="501" height="37" />
+      <symbol id="14867:7871" name="Type=Icons, Size=LG, State=Active, Dark Mode=False" x="1148" y="377" width="441" height="37" />
+      <symbol id="14867:9032" name="Type=Icons, Size=LG, State=Active, Dark Mode=True" x="1148" y="1301" width="441" height="37" />
+    </frame>
+  </frame>
+  <frame id="14867:6233" name="Pagination Atoms" x="-2132" y="935" width="1260" height="694">
+    <rounded-rectangle id="14867:6976" name="Background" x="630" y="112" width="518" height="470" />
+    <frame id="14867:6268" name="Pagination Atoms" x="112" y="112" width="1036" height="470">
+      <symbol id="14867:6267" name="Type=Text, Size=SM, State=Default, Active=False, Dark Mode=False" x="96" y="96" width="42" height="34" />
+      <symbol id="14867:7100" name="Type=Icon, Size=SM, State=Default, Active=False, Dark Mode=False" x="96" y="263" width="42" height="34" />
+      <symbol id="14867:7052" name="Type=Text, Size=LG, State=Default, Active=False, Dark Mode=False" x="96" y="170" width="53" height="37" />
+      <symbol id="14867:7102" name="Type=Icon, Size=LG, State=Default, Active=False, Dark Mode=False" x="96" y="337" width="53" height="37" />
+      <symbol id="14867:6986" name="Type=Text, Size=SM, State=Default, Active=False, Dark Mode=True" x="614" y="96" width="42" height="34" />
+      <symbol id="14867:7104" name="Type=Icon, Size=SM, State=Default, Active=False, Dark Mode=True" x="614" y="263" width="42" height="34" />
+      <symbol id="14867:7054" name="Type=Text, Size=LG, State=Default, Active=False, Dark Mode=True" x="614" y="170" width="53" height="37" />
+      <symbol id="14867:7106" name="Type=Icon, Size=LG, State=Default, Active=False, Dark Mode=True" x="614" y="337" width="53" height="37" />
+      <symbol id="14867:6269" name="Type=Text, Size=SM, State=Hover, Active=False, Dark Mode=False" x="177" y="96" width="42" height="34" />
+      <symbol id="14867:7108" name="Type=Icon, Size=SM, State=Hover, Active=False, Dark Mode=False" x="177" y="263" width="42" height="34" />
+      <symbol id="14867:7056" name="Type=Text, Size=LG, State=Hover, Active=False, Dark Mode=False" x="187" y="170" width="53" height="37" />
+      <symbol id="14867:7110" name="Type=Icon, Size=LG, State=Hover, Active=False, Dark Mode=False" x="187" y="337" width="53" height="37" />
+      <symbol id="14867:6988" name="Type=Text, Size=SM, State=Hover, Active=False, Dark Mode=True" x="695" y="96" width="42" height="34" />
+      <symbol id="14867:7112" name="Type=Icon, Size=SM, State=Hover, Active=False, Dark Mode=True" x="695" y="263" width="42" height="34" />
+      <symbol id="14867:7058" name="Type=Text, Size=LG, State=Hover, Active=False, Dark Mode=True" x="705" y="170" width="53" height="37" />
+      <symbol id="14867:7114" name="Type=Icon, Size=LG, State=Hover, Active=False, Dark Mode=True" x="705" y="337" width="53" height="37" />
+      <symbol id="14867:6292" name="Type=Text, Size=SM, State=Default, Active=True, Dark Mode=False" x="258" y="96" width="42" height="34" />
+      <symbol id="14867:7116" name="Type=Icon, Size=SM, State=Default, Active=True, Dark Mode=False" x="258" y="263" width="42" height="34" />
+      <symbol id="14867:7060" name="Type=Text, Size=LG, State=Default, Active=True, Dark Mode=False" x="278" y="170" width="53" height="37" />
+      <symbol id="14867:7118" name="Type=Icon, Size=LG, State=Default, Active=True, Dark Mode=False" x="278" y="337" width="53" height="37" />
+      <symbol id="14867:6990" name="Type=Text, Size=SM, State=Default, Active=True, Dark Mode=True" x="776" y="96" width="42" height="34" />
+      <symbol id="14867:7120" name="Type=Icon, Size=SM, State=Default, Active=True, Dark Mode=True" x="776" y="263" width="42" height="34" />
+      <symbol id="14867:7062" name="Type=Text, Size=LG, State=Default, Active=True, Dark Mode=True" x="796" y="170" width="53" height="37" />
+      <symbol id="14867:7122" name="Type=Icon, Size=LG, State=Default, Active=True, Dark Mode=True" x="796" y="337" width="53" height="37" />
+      <symbol id="14867:6294" name="Type=Text, Size=SM, State=Hover, Active=True, Dark Mode=False" x="339" y="96" width="42" height="34" />
+      <symbol id="14867:7124" name="Type=Icon, Size=SM, State=Hover, Active=True, Dark Mode=False" x="339" y="263" width="42" height="34" />
+      <symbol id="14867:7064" name="Type=Text, Size=LG, State=Hover, Active=True, Dark Mode=False" x="369" y="170" width="53" height="37" />
+      <symbol id="14867:7126" name="Type=Icon, Size=LG, State=Hover, Active=True, Dark Mode=False" x="369" y="337" width="53" height="37" />
+      <symbol id="14867:6992" name="Type=Text, Size=SM, State=Hover, Active=True, Dark Mode=True" x="857" y="96" width="42" height="34" />
+      <symbol id="14867:7128" name="Type=Icon, Size=SM, State=Hover, Active=True, Dark Mode=True" x="857" y="263" width="42" height="34" />
+      <symbol id="14867:7066" name="Type=Text, Size=LG, State=Hover, Active=True, Dark Mode=True" x="887" y="170" width="53" height="37" />
+      <symbol id="14867:7130" name="Type=Icon, Size=LG, State=Hover, Active=True, Dark Mode=True" x="887" y="337" width="53" height="37" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

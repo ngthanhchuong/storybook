@@ -1,0 +1,98 @@
+<canvas id="3283:24214" name="↳ Nav Tabs" x="0" y="0" width="0" height="0">
+  <frame id="14863:35287" name="Tabs" x="-3943" y="1468" width="1734" height="1784">
+    <rounded-rectangle id="14863:36771" name="Background" x="867" y="112" width="755" height="1560" />
+    <frame id="14863:35716" name="Tab" x="112" y="112" width="1510" height="1560">
+      <symbol id="14863:35715" name="Type=Switch, Size=SM, Icons=True, Dark Mode=False" x="96" y="96" width="477" height="34" />
+      <symbol id="14863:37073" name="Type=Switch, Size=SM, Icons=True, Dark Mode=True" x="851" y="96" width="477" height="34" />
+      <symbol id="14863:35717" name="Type=Switch, Size=LG, Icons=True, Dark Mode=False" x="96" y="170" width="587" height="45" />
+      <symbol id="14863:37078" name="Type=Switch, Size=LG, Icons=True, Dark Mode=True" x="851" y="170" width="587" height="45" />
+      <symbol id="14863:35754" name="Type=Switch, Size=SM, Icons=False, Dark Mode=False" x="96" y="255" width="389" height="34" />
+      <symbol id="14863:37083" name="Type=Switch, Size=SM, Icons=False, Dark Mode=True" x="851" y="255" width="389" height="34" />
+      <symbol id="14863:35759" name="Type=Switch, Size=LG, Icons=False, Dark Mode=False" x="96" y="329" width="491" height="45" />
+      <symbol id="14863:37088" name="Type=Switch, Size=LG, Icons=False, Dark Mode=True" x="851" y="329" width="491" height="45" />
+      <symbol id="14863:35812" name="Type=Pills, Size=SM, Icons=True, Dark Mode=False" x="96" y="470" width="453" height="26" />
+      <symbol id="14863:37093" name="Type=Pills, Size=SM, Icons=True, Dark Mode=True" x="851" y="470" width="453" height="26" />
+      <symbol id="14863:36304" name="Type=With Borders, Size=SM, Icons=True, Dark Mode=False" x="96" y="1170" width="456" height="42" />
+      <symbol id="14863:37098" name="Type=With Borders, Size=SM, Icons=True, Dark Mode=True" x="851" y="1170" width="456" height="42" />
+      <symbol id="14863:36588" name="Type=With Borders, Size=SM, Icons=False, Dark Mode=False" x="96" y="1337" width="400" height="42" />
+      <symbol id="14863:37110" name="Type=With Borders, Size=SM, Icons=False, Dark Mode=True" x="851" y="1337" width="400" height="42" />
+      <symbol id="14863:36488" name="Type=With Borders, Size=LG, Icons=True, Dark Mode=False" x="96" y="1252" width="534" height="45" />
+      <symbol id="14863:37122" name="Type=With Borders, Size=LG, Icons=True, Dark Mode=True" x="851" y="1252" width="534" height="45" />
+      <symbol id="14863:36600" name="Type=With Borders, Size=LG, Icons=False, Dark Mode=False" x="96" y="1419" width="438" height="45" />
+      <symbol id="14863:37134" name="Type=With Borders, Size=LG, Icons=False, Dark Mode=True" x="851" y="1419" width="438" height="45" />
+      <symbol id="14863:35817" name="Type=Pills, Size=LG, Icons=True, Dark Mode=False" x="96" y="536" width="563" height="37" />
+      <symbol id="14863:37146" name="Type=Pills, Size=LG, Icons=True, Dark Mode=True" x="851" y="536" width="563" height="37" />
+      <symbol id="14863:35822" name="Type=Pills, Size=SM, Icons=False, Dark Mode=False" x="96" y="613" width="365" height="26" />
+      <symbol id="14863:37151" name="Type=Pills, Size=SM, Icons=False, Dark Mode=True" x="851" y="613" width="365" height="26" />
+      <symbol id="14863:35827" name="Type=Pills, Size=LG, Icons=False, Dark Mode=False" x="96" y="679" width="467" height="37" />
+      <symbol id="14863:37156" name="Type=Pills, Size=LG, Icons=False, Dark Mode=True" x="851" y="679" width="467" height="37" />
+      <symbol id="14863:36047" name="Type=Underline, Size=SM, Icons=True, Dark Mode=False" x="96" y="812" width="405" height="34" />
+      <symbol id="14863:37161" name="Type=Underline, Size=SM, Icons=True, Dark Mode=True" x="851" y="812" width="405" height="34" />
+      <symbol id="14863:36052" name="Type=Underline, Size=LG, Icons=True, Dark Mode=False" x="96" y="886" width="463" height="37" />
+      <symbol id="14863:37166" name="Type=Underline, Size=LG, Icons=True, Dark Mode=True" x="851" y="886" width="463" height="37" />
+      <symbol id="14863:36057" name="Type=Underline, Size=SM, Icons=False, Dark Mode=False" x="96" y="963" width="317" height="34" />
+      <symbol id="14863:37171" name="Type=Underline, Size=SM, Icons=False, Dark Mode=True" x="851" y="963" width="317" height="34" />
+      <symbol id="14863:36062" name="Type=Underline, Size=LG, Icons=False, Dark Mode=False" x="96" y="1037" width="367" height="37" />
+      <symbol id="14863:37176" name="Type=Underline, Size=LG, Icons=False, Dark Mode=True" x="851" y="1037" width="367" height="37" />
+    </frame>
+  </frame>
+  <frame id="14863:38547" name="App Tabs" x="-2009" y="1468" width="2790" height="1388">
+    <rounded-rectangle id="14866:3376" name="Background" x="112" y="694" width="2566" height="582" />
+    <frame id="14863:39393" name="App Tab" x="112" y="112" width="2566" height="1164">
+      <symbol id="14863:39392" name="Size=SM, Device=Desktop, Icons=True, Dark Mode=False" x="96" y="96" width="1024" height="42" />
+      <symbol id="14866:1150" name="Size=SM, Device=Desktop, Icons=True, Dark Mode=True" x="96" y="678" width="1024" height="42" />
+      <symbol id="14863:39478" name="Size=SM, Device=Tablet, Icons=True, Dark Mode=False" x="1216" y="96" width="768" height="42" />
+      <symbol id="14866:1152" name="Size=SM, Device=Tablet, Icons=True, Dark Mode=True" x="1216" y="678" width="768" height="42" />
+      <symbol id="14865:50897" name="Size=SM, Device=Mobile, Icons=True, Dark Mode=False" x="2080" y="96" width="390" height="58" />
+      <symbol id="14866:1154" name="Size=SM, Device=Mobile, Icons=True, Dark Mode=True" x="2080" y="678" width="390" height="58" />
+      <symbol id="14863:39391" name="Size=LG, Device=Desktop, Icons=True, Dark Mode=False" x="96" y="194" width="1024" height="53" />
+      <symbol id="14866:1156" name="Size=LG, Device=Desktop, Icons=True, Dark Mode=True" x="96" y="776" width="1024" height="53" />
+      <symbol id="14863:39480" name="Size=LG, Device=Tablet, Icons=True, Dark Mode=False" x="1216" y="194" width="768" height="53" />
+      <symbol id="14866:1158" name="Size=LG, Device=Tablet, Icons=True, Dark Mode=True" x="1216" y="776" width="768" height="53" />
+      <symbol id="14865:50899" name="Size=LG, Device=Mobile, Icons=True, Dark Mode=False" x="2080" y="194" width="390" height="77" />
+      <symbol id="14866:1160" name="Size=LG, Device=Mobile, Icons=True, Dark Mode=True" x="2080" y="776" width="390" height="77" />
+      <symbol id="14863:39394" name="Size=SM, Device=Desktop, Icons=False, Dark Mode=False" x="96" y="311" width="1024" height="42" />
+      <symbol id="14866:1162" name="Size=SM, Device=Desktop, Icons=False, Dark Mode=True" x="96" y="893" width="1024" height="42" />
+      <symbol id="14863:39482" name="Size=SM, Device=Tablet, Icons=False, Dark Mode=False" x="1216" y="311" width="768" height="42" />
+      <symbol id="14866:1164" name="Size=SM, Device=Tablet, Icons=False, Dark Mode=True" x="1216" y="893" width="768" height="42" />
+      <symbol id="14865:50901" name="Size=SM, Device=Mobile, Icons=False, Dark Mode=False" x="2080" y="311" width="390" height="58" />
+      <symbol id="14866:1166" name="Size=SM, Device=Mobile, Icons=False, Dark Mode=True" x="2080" y="893" width="390" height="58" />
+      <symbol id="14863:39396" name="Size=LG, Device=Desktop, Icons=False, Dark Mode=False" x="96" y="409" width="1024" height="53" />
+      <symbol id="14866:1168" name="Size=LG, Device=Desktop, Icons=False, Dark Mode=True" x="96" y="991" width="1024" height="53" />
+      <symbol id="14863:39484" name="Size=LG, Device=Tablet, Icons=False, Dark Mode=False" x="1216" y="409" width="768" height="53" />
+      <symbol id="14866:1170" name="Size=LG, Device=Tablet, Icons=False, Dark Mode=True" x="1216" y="991" width="768" height="53" />
+      <symbol id="14865:50903" name="Size=LG, Device=Mobile, Icons=False, Dark Mode=False" x="2080" y="409" width="390" height="77" />
+      <symbol id="14866:1172" name="Size=LG, Device=Mobile, Icons=False, Dark Mode=True" x="2080" y="991" width="390" height="77" />
+    </frame>
+  </frame>
+  <frame id="14863:38546" name="Tab Atoms" x="-5953" y="1468" width="1810" height="682">
+    <rounded-rectangle id="14863:36644" name="Background" x="112" y="341" width="1586" height="229" />
+    <frame id="14863:35588" name="Tab Atoms" x="112" y="112" width="1586" height="458">
+      <symbol id="14863:35587" name="Type=With Background, Size=SM, Active=False, Dark Mode=False" x="96" y="101" width="83" height="26" />
+      <symbol id="14863:36711" name="Type=With Background, Size=SM, Active=False, Dark Mode=True" x="96" y="330" width="83" height="26" />
+      <symbol id="14863:35589" name="Type=With Background, Size=SM, Active=True, Dark Mode=False" x="216" y="101" width="83" height="26" />
+      <symbol id="14863:36714" name="Type=With Background, Size=SM, Active=True, Dark Mode=True" x="216" y="330" width="83" height="26" />
+      <symbol id="14863:35593" name="Type=With Background, Size=LG, Active=False, Dark Mode=False" x="336" y="96" width="106" height="37" />
+      <symbol id="14863:36717" name="Type=With Background, Size=LG, Active=False, Dark Mode=True" x="336" y="325" width="106" height="37" />
+      <symbol id="14863:35591" name="Type=With Background, Size=LG, Active=True, Dark Mode=False" x="479" y="96" width="106" height="37" />
+      <symbol id="14863:36720" name="Type=With Background, Size=LG, Active=True, Dark Mode=True" x="479" y="325" width="106" height="37" />
+      <symbol id="14863:35655" name="Type=No Background, Size=SM, Active=False, Dark Mode=False" x="678" y="104" width="59" height="18" />
+      <symbol id="14863:36723" name="Type=No Background, Size=SM, Active=False, Dark Mode=True" x="678" y="333" width="59" height="18" />
+      <symbol id="14863:36021" name="Type=Underline, Size=SM, Active=False, Dark Mode=False" x="1132" y="98" width="59" height="34" />
+      <symbol id="14863:36726" name="Type=Underline, Size=SM, Active=False, Dark Mode=True" x="1132" y="327" width="59" height="34" />
+      <symbol id="14863:35658" name="Type=No Background, Size=SM, Active=True, Dark Mode=False" x="774" y="104" width="59" height="18" />
+      <symbol id="14863:36729" name="Type=No Background, Size=SM, Active=True, Dark Mode=True" x="774" y="333" width="59" height="18" />
+      <symbol id="14863:36024" name="Type=Underline, Size=SM, Active=True, Dark Mode=False" x="1228" y="98" width="59" height="34" />
+      <symbol id="14863:36732" name="Type=Underline, Size=SM, Active=True, Dark Mode=True" x="1228" y="327" width="59" height="34" />
+      <symbol id="14863:35680" name="Type=No Background, Size=LG, Active=False, Dark Mode=False" x="870" y="104" width="66" height="21" />
+      <symbol id="14863:36735" name="Type=No Background, Size=LG, Active=False, Dark Mode=True" x="870" y="333" width="66" height="21" />
+      <symbol id="14863:36027" name="Type=Underline, Size=LG, Active=False, Dark Mode=False" x="1324" y="96" width="66" height="37" />
+      <symbol id="14863:36738" name="Type=Underline, Size=LG, Active=False, Dark Mode=True" x="1324" y="325" width="66" height="37" />
+      <symbol id="14863:35683" name="Type=No Background, Size=LG, Active=True, Dark Mode=False" x="973" y="104" width="66" height="21" />
+      <symbol id="14863:36741" name="Type=No Background, Size=LG, Active=True, Dark Mode=True" x="973" y="333" width="66" height="21" />
+      <symbol id="14863:36030" name="Type=Underline, Size=LG, Active=True, Dark Mode=False" x="1427" y="96" width="66" height="37" />
+      <symbol id="14863:36744" name="Type=Underline, Size=LG, Active=True, Dark Mode=True" x="1427" y="325" width="66" height="37" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

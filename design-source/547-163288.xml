@@ -1,0 +1,20 @@
+<canvas id="547:163288" name="↳ Autocomplete inputs" x="0" y="0" width="0" height="0">
+  <frame id="15116:50933" name="Autocomplete Dropdowns" x="-10983" y="-2403" width="2224" height="1597">
+    <rounded-rectangle id="15116:53209" name="Background" x="1112" y="112" width="1000" height="1373" />
+    <frame id="15116:52366" name="Autocomplete Dropdown" x="112" y="112" width="2000" height="1373">
+      <symbol id="15116:52319" name="Type=Simple, Default=Focused, Dark Mode=False" x="96" y="96" width="384" height="283" />
+      <symbol id="15116:53470" name="Type=Simple, Default=Focused, Dark Mode=True" x="1096" y="96" width="384" height="283" />
+      <symbol id="15116:52529" name="Type=Avatar, Default=Focused, Dark Mode=False" x="96" y="475" width="384" height="347" />
+      <symbol id="15116:53491" name="Type=Avatar, Default=Focused, Dark Mode=True" x="1096" y="475" width="384" height="347" />
+      <symbol id="15116:52941" name="Type=Search Dropdown, Default=Focused, Dark Mode=False" x="96" y="918" width="384" height="359" />
+      <symbol id="15116:53535" name="Type=Search Dropdown, Default=Focused, Dark Mode=True" x="1096" y="918" width="384" height="359" />
+      <symbol id="15116:52367" name="Type=Simple, Default=Typing, Dark Mode=False" x="520" y="96" width="384" height="283" />
+      <symbol id="15116:53558" name="Type=Simple, Default=Typing, Dark Mode=True" x="1520" y="96" width="384" height="283" />
+      <symbol id="15116:52550" name="Type=Avatar, Default=Typing, Dark Mode=False" x="520" y="475" width="384" height="227" />
+      <symbol id="15116:53579" name="Type=Avatar, Default=Typing, Dark Mode=True" x="1520" y="475" width="384" height="227" />
+      <symbol id="15116:52985" name="Type=Search Dropdown, Default=Typing, Dark Mode=False" x="520" y="918" width="384" height="243" />
+      <symbol id="15116:53602" name="Type=Search Dropdown, Default=Typing, Dark Mode=True" x="1520" y="918" width="384" height="243" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

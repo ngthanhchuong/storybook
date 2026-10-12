@@ -1,0 +1,13 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/File Upload Inputs/File",args:{"State":"Uploading","Dark Mode":"False"},argTypes:{"State":{"control":"select","options":["Uploading","Uploaded","Error"]},"Dark Mode":{"control":"select","options":["True","False"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14947-12214"}},render:(args)=> <CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+6+')',render:()=> <CatalogStory pageId="331:62479" groupId="14947:12214" gallery/>};
+export const Variant001:Story={name:"State=Uploading, Dark Mode=False",args:{"State":"Uploading","Dark Mode":"False"},render:(args)=><CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};
+export const Variant002:Story={name:"State=Uploading, Dark Mode=True",args:{"State":"Uploading","Dark Mode":"True"},render:(args)=><CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};
+export const Variant003:Story={name:"State=Uploaded, Dark Mode=False",args:{"State":"Uploaded","Dark Mode":"False"},render:(args)=><CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};
+export const Variant004:Story={name:"State=Uploaded, Dark Mode=True",args:{"State":"Uploaded","Dark Mode":"True"},render:(args)=><CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};
+export const Variant005:Story={name:"State=Error, Dark Mode=False",args:{"State":"Error","Dark Mode":"False"},render:(args)=><CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};
+export const Variant006:Story={name:"State=Error, Dark Mode=True",args:{"State":"Error","Dark Mode":"True"},render:(args)=><CatalogStory pageId="331:62479" groupId="14947:12214" properties={args}/>};

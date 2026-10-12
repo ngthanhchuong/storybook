@@ -1,0 +1,15 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Datepicker/Datepicker",args:{"Type":"Default","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["Default","Range","Month","Year"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14919-43477"}},render:(args)=> <CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+8+')',render:()=> <CatalogStory pageId="14188:66955" groupId="14919:43477" gallery/>};
+export const Variant001:Story={name:"Type=Default, Dark Mode=False",args:{"Type":"Default","Dark Mode":"False"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant002:Story={name:"Type=Default, Dark Mode=True",args:{"Type":"Default","Dark Mode":"True"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant003:Story={name:"Type=Range, Dark Mode=False",args:{"Type":"Range","Dark Mode":"False"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant004:Story={name:"Type=Range, Dark Mode=True",args:{"Type":"Range","Dark Mode":"True"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant005:Story={name:"Type=Month, Dark Mode=False",args:{"Type":"Month","Dark Mode":"False"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant006:Story={name:"Type=Month, Dark Mode=True",args:{"Type":"Month","Dark Mode":"True"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant007:Story={name:"Type=Year, Dark Mode=False",args:{"Type":"Year","Dark Mode":"False"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};
+export const Variant008:Story={name:"Type=Year, Dark Mode=True",args:{"Type":"Year","Dark Mode":"True"},render:(args)=><CatalogStory pageId="14188:66955" groupId="14919:43477" properties={args}/>};

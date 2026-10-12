@@ -1,0 +1,32 @@
+<canvas id="14762:93458" name="↳ Timelines" x="0" y="0" width="0" height="0">
+  <frame id="15110:1731" name="Timelines" x="-8748" y="-1514" width="3148" height="4301">
+    <rounded-rectangle id="15112:36771" name="Background" x="1574" y="112" width="1462" height="4077" />
+    <frame id="15112:34749" name="Timeline" x="112" y="112" width="2924" height="4077">
+      <symbol id="15112:34670" name="Type=Simple, Mobile=False, Dark Mode=False" x="96" y="96" width="768" height="587" />
+      <symbol id="15112:37147" name="Type=Simple, Mobile=False, Dark Mode=True" x="1558" y="96" width="768" height="587" />
+      <symbol id="15112:35104" name="Type=Icon Shapes, Mobile=False, Dark Mode=False" x="96" y="767" width="768" height="473" />
+      <symbol id="15112:37169" name="Type=Icon Shapes, Mobile=False, Dark Mode=True" x="1558" y="767" width="768" height="473" />
+      <symbol id="15112:35350" name="Type=Horizontal Simple, Mobile=False, Dark Mode=False" x="96" y="1324" width="768" height="132" />
+      <symbol id="15112:37189" name="Type=Horizontal Simple, Mobile=False, Dark Mode=True" x="1558" y="1324" width="768" height="132" />
+      <symbol id="15112:34750" name="Type=Simple, Mobile=True, Dark Mode=False" x="1024" y="96" width="342" height="571" />
+      <symbol id="15112:37205" name="Type=Simple, Mobile=True, Dark Mode=True" x="2486" y="96" width="342" height="571" />
+      <symbol id="15112:35126" name="Type=Icon Shapes, Mobile=True, Dark Mode=False" x="1024" y="767" width="342" height="457" />
+      <symbol id="15112:37227" name="Type=Icon Shapes, Mobile=True, Dark Mode=True" x="2486" y="767" width="342" height="457" />
+      <symbol id="15112:35458" name="Type=Horizontal Simple, Mobile=True, Dark Mode=False" x="1024" y="1324" width="342" height="480" />
+      <symbol id="15112:37247" name="Type=Horizontal Simple, Mobile=True, Dark Mode=True" x="2486" y="1324" width="342" height="480" />
+      <symbol id="15112:35666" name="Type=Horizontal With Bg, Mobile=False, Dark Mode=False" x="96" y="1904" width="832" height="175" />
+      <symbol id="15112:37266" name="Type=Horizontal With Bg, Mobile=False, Dark Mode=True" x="1558" y="1904" width="832" height="175" />
+      <symbol id="15112:35745" name="Type=Horizontal With Bg, Mobile=True, Dark Mode=False" x="1024" y="1904" width="342" height="465" />
+      <symbol id="15112:37268" name="Type=Horizontal With Bg, Mobile=True, Dark Mode=True" x="2486" y="1904" width="342" height="465" />
+      <symbol id="15112:35999" name="Type=Activity, Mobile=False, Dark Mode=False" x="96" y="2469" width="768" height="316" />
+      <symbol id="15112:37270" name="Type=Activity, Mobile=False, Dark Mode=True" x="1558" y="2469" width="768" height="316" />
+      <symbol id="15112:36021" name="Type=Activity, Mobile=True, Dark Mode=False" x="1024" y="2469" width="342" height="579" />
+      <symbol id="15112:37288" name="Type=Activity, Mobile=True, Dark Mode=True" x="2486" y="2469" width="342" height="579" />
+      <symbol id="15112:36607" name="Type=Notification, Mobile=False, Dark Mode=False" x="96" y="3109" width="768" height="872" />
+      <symbol id="15112:37306" name="Type=Notification, Mobile=False, Dark Mode=True" x="1558" y="3109" width="768" height="872" />
+      <symbol id="15112:36649" name="Type=Notification, Mobile=True, Dark Mode=False" x="1024" y="3109" width="342" height="872" />
+      <symbol id="15112:37347" name="Type=Notification, Mobile=True, Dark Mode=True" x="2486" y="3109" width="342" height="872" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

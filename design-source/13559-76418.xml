@@ -1,0 +1,52 @@
+<canvas id="13559:76418" name="↳ Cards" x="0" y="0" width="0" height="0">
+  <frame id="14870:8797" name="Cards" x="-6469" y="-1339" width="3012" height="6845">
+    <rounded-rectangle id="14878:3572" name="Background" x="1506" y="112" width="1394" height="6621" />
+    <frame id="14870:9753" name="Card" x="112" y="112" width="2788" height="6621">
+      <symbol id="14870:9744" name="Type=Default, Dark Mode=False, Mobile=False" x="96" y="96" width="480" height="296" />
+      <symbol id="14878:4182" name="Type=Default, Dark Mode=True, Mobile=False" x="1594" y="96" width="480" height="296" />
+      <symbol id="14877:3138" name="Type=Multiple Buttons, Dark Mode=False, Mobile=False" x="96" y="5336" width="480" height="550" />
+      <symbol id="14878:4190" name="Type=Multiple Buttons, Dark Mode=True, Mobile=False" x="1594" y="5336" width="480" height="550" />
+      <symbol id="14875:2715" name="Type=Pricing, Dark Mode=False, Mobile=False" x="96" y="4645" width="480" height="491" />
+      <symbol id="14878:4217" name="Type=Pricing, Dark Mode=True, Mobile=False" x="1594" y="4645" width="480" height="491" />
+      <symbol id="14875:2150" name="Type=CTA, Dark Mode=False, Mobile=False" x="96" y="4213" width="700" height="232" />
+      <symbol id="14878:4247" name="Type=CTA, Dark Mode=True, Mobile=False" x="1594" y="4213" width="700" height="232" />
+      <symbol id="14871:917" name="Type=Form, Dark Mode=False, Mobile=False" x="96" y="2171" width="384" height="430" />
+      <symbol id="14878:4254" name="Type=Form, Dark Mode=True, Mobile=False" x="1594" y="2171" width="384" height="430" />
+      <symbol id="14871:2569" name="Type=Form, Dark Mode=False, Mobile=True" x="852" y="2171" width="342" height="398" />
+      <symbol id="14878:4263" name="Type=Form, Dark Mode=True, Mobile=True" x="2350" y="2171" width="342" height="398" />
+      <symbol id="14870:9754" name="Type=Default, Dark Mode=False, Mobile=True" x="852" y="96" width="342" height="243" />
+      <symbol id="14878:4272" name="Type=Default, Dark Mode=True, Mobile=True" x="2350" y="96" width="342" height="243" />
+      <symbol id="14877:3146" name="Type=Multiple Buttons, Dark Mode=False, Mobile=True" x="852" y="5336" width="342" height="547" />
+      <symbol id="14878:4280" name="Type=Multiple Buttons, Dark Mode=True, Mobile=True" x="2350" y="5336" width="342" height="547" />
+      <symbol id="14875:2723" name="Type=Pricing, Dark Mode=False, Mobile=True" x="852" y="4645" width="342" height="459" />
+      <symbol id="14878:4307" name="Type=Pricing, Dark Mode=True, Mobile=True" x="2350" y="4645" width="342" height="459" />
+      <symbol id="14875:2158" name="Type=CTA, Dark Mode=False, Mobile=True" x="852" y="4213" width="342" height="296" />
+      <symbol id="14878:4337" name="Type=CTA, Dark Mode=True, Mobile=True" x="2350" y="4213" width="342" height="296" />
+      <symbol id="14870:9965" name="Type=Top Image, Dark Mode=False, Mobile=False" x="96" y="571" width="480" height="488" />
+      <symbol id="14878:4344" name="Type=Top Image, Dark Mode=True, Mobile=False" x="1594" y="571" width="480" height="488" />
+      <symbol id="14874:897" name="Type=Nav Tabs, Dark Mode=False, Mobile=False" x="96" y="3762" width="700" height="251" />
+      <symbol id="14878:4353" name="Type=Nav Tabs, Dark Mode=True, Mobile=False" x="1594" y="3762" width="700" height="251" />
+      <symbol id="14871:2682" name="Type=E-commerce, Dark Mode=False, Mobile=False" x="96" y="2801" width="480" height="761" />
+      <symbol id="14878:4362" name="Type=E-commerce, Dark Mode=True, Mobile=False" x="1594" y="2801" width="480" height="761" />
+      <symbol id="14870:10013" name="Type=Left Image, Dark Mode=False, Mobile=False" x="96" y="1238" width="600" height="256" />
+      <symbol id="14878:4380" name="Type=Left Image, Dark Mode=True, Mobile=False" x="1594" y="1238" width="600" height="256" />
+      <symbol id="14870:9974" name="Type=Top Image, Dark Mode=False, Mobile=True" x="852" y="571" width="342" height="395" />
+      <symbol id="14878:4386" name="Type=Top Image, Dark Mode=True, Mobile=True" x="2350" y="571" width="342" height="395" />
+      <symbol id="14874:906" name="Type=Nav Tabs, Dark Mode=False, Mobile=True" x="852" y="3762" width="342" height="268" />
+      <symbol id="14878:4395" name="Type=Nav Tabs, Dark Mode=True, Mobile=True" x="2350" y="3762" width="342" height="268" />
+      <symbol id="14871:2691" name="Type=E-commerce, Dark Mode=False, Mobile=True" x="852" y="2801" width="342" height="599" />
+      <symbol id="14878:4404" name="Type=E-commerce, Dark Mode=True, Mobile=True" x="2350" y="2801" width="342" height="599" />
+      <symbol id="14870:10022" name="Type=Left Image, Dark Mode=False, Mobile=True" x="852" y="1238" width="342" height="338" />
+      <symbol id="14878:4422" name="Type=Left Image, Dark Mode=True, Mobile=True" x="2350" y="1238" width="342" height="338" />
+      <symbol id="14870:10296" name="Type=Profile Small, Dark Mode=False, Mobile=False" x="96" y="1694" width="384" height="277" />
+      <symbol id="14913:36203" name="Type=Profile Big, Dark Mode=False, Mobile=False" x="96" y="6086" width="384" height="439" />
+      <symbol id="14878:4428" name="Type=Profile Small, Dark Mode=True, Mobile=False" x="1594" y="1694" width="384" height="277" />
+      <symbol id="14913:36213" name="Type=Profile Big, Dark Mode=True, Mobile=False" x="1594" y="6086" width="384" height="438.9999694824219" />
+      <symbol id="14870:10330" name="Type=Profile Small, Dark Mode=False, Mobile=True" x="852" y="1694" width="342" height="237" />
+      <symbol id="14913:36223" name="Type=Profile Big, Dark Mode=False, Mobile=True" x="852" y="6086" width="342" height="401.25579833984375" />
+      <symbol id="14878:4438" name="Type=Profile Small, Dark Mode=True, Mobile=True" x="2350" y="1694" width="342" height="237" />
+      <symbol id="14913:36233" name="Type=Profile Big, Dark Mode=True, Mobile=True" x="2350" y="6086" width="342" height="401.25579833984375" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

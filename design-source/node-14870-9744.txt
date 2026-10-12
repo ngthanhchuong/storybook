@@ -1,0 +1,65 @@
+const imgFolderCopy = "https://www.figma.com/api/mcp/asset/fd59abac-1370-419e-bf23-7494cde4749d.svg";
+
+type CardProps = {
+  className?: string;
+  buttons?: boolean;
+  darkMode?: "False";
+  header?: boolean;
+  icon?: boolean;
+  iconType?: React.ReactNode | null;
+  mobile?: "False";
+  primaryButton?: boolean;
+  secondaryButton?: boolean;
+  type?: "Default";
+};
+
+function Card({ className, buttons = true, darkMode = "False", header = true, icon = true, iconType = null, mobile = "False", primaryButton = true, secondaryButton = true, type = "Default" }: CardProps) {
+  return (
+    <div className={className || "bg-[var(--white,white)] border border-[var(--gray\\/200,#e5e5e5)] border-solid content-stretch drop-shadow-[0px_4px_3px_rgba(0,0,0,0.1),0px_2px_2px_rgba(0,0,0,0.05)] flex flex-col gap-[var(--4,16px)] items-start p-[var(--7,32px)] relative rounded-[var(--rounded-xl,12px)] w-[480px]"} data-node-id="14870:9744">
+      {icon &&
+        (iconType || (
+          <div className="relative shrink-0 size-[32px]" data-node-id="14870:9800" data-name="folder_copy">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFolderCopy} />
+          </div>
+        ))}
+      <div className="[word-break:break-word] content-stretch flex flex-col gap-[var(--2,8px)] items-start leading-[1.3] not-italic relative shrink-0 w-full" data-node-id="14870:9302" data-name="Text">
+        {header && (
+          <p className="font-['Inter_Tight:SemiBold'] relative shrink-0 text-[24px] text-[color:var(--black,black)] w-full" data-node-id="14870:9300">
+            Card header goes here
+          </p>
+        )}
+        <p className="font-['Inter:Medium'] font-medium relative shrink-0 text-[16px] text-[color:var(--gray\/500,#737373)] w-full" data-node-id="14870:9301">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla consectetur, ultrices mauris.
+        </p>
+      </div>
+      {buttons && (
+        <div className="content-stretch flex gap-[var(--3,12px)] items-start relative shrink-0" data-node-id="14870:9705" data-name="Buttons">
+          {primaryButton && (
+            <div className="bg-[var(--blue\/600,#1c64f2)] content-stretch flex gap-[var(--2,8px)] items-center justify-center px-[var(--6,24px)] py-[var(--3,12px)] relative rounded-[var(--rounded-xl,12px)] shrink-0" data-node-id="14870:9660" data-name="Button">
+              <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--white,white)] whitespace-nowrap" data-node-id="I14870:9660;14846:1737">
+                Continue
+              </p>
+            </div>
+          )}
+          {secondaryButton && (
+            <div className="bg-[var(--white,white)] border border-[var(--gray\/200,#e5e5e5)] border-solid content-stretch flex gap-[var(--2,8px)] items-center justify-center px-[var(--6,24px)] py-[var(--3,12px)] relative rounded-[var(--rounded-xl,12px)] shrink-0" data-node-id="14870:9669" data-name="Button">
+              <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--black,black)] whitespace-nowrap" data-node-id="I14870:9669;14846:2601">
+                Cancel
+              </p>
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: text-2xl/font-semibold: Font(family: "Inter Tight", style: SemiBold, size: 24, weight: 600, lineHeight: 1.2999999523162842, letterSpacing: 0), text-base/font-medium: Font(family: "Inter", style: Medium, size: 16, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), shadow-MD: Effect(type: DROP_SHADOW, color: #0000000D, offset: (0, 2), radius: 4, spread: -2); Effect(type: DROP_SHADOW, color: #0000001A, offset: (0, 4), radius: 6, spread: -1).
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

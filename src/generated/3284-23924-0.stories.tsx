@@ -1,0 +1,13 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Carousel",args:{"Type":"Image","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["Image","Cards","Slider"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14913-36590"}},render:(args)=> <CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+6+')',render:()=> <CatalogStory pageId="3284:23924" groupId="14913:36590" gallery/>};
+export const Variant001:Story={name:"Type=Image, Dark Mode=False",args:{"Type":"Image","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};
+export const Variant002:Story={name:"Type=Image, Dark Mode=True",args:{"Type":"Image","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};
+export const Variant003:Story={name:"Type=Cards, Dark Mode=False",args:{"Type":"Cards","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};
+export const Variant004:Story={name:"Type=Cards, Dark Mode=True",args:{"Type":"Cards","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};
+export const Variant005:Story={name:"Type=Slider, Dark Mode=False",args:{"Type":"Slider","Dark Mode":"False"},render:(args)=><CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};
+export const Variant006:Story={name:"Type=Slider, Dark Mode=True",args:{"Type":"Slider","Dark Mode":"True"},render:(args)=><CatalogStory pageId="3284:23924" groupId="14913:36590" properties={args}/>};

@@ -1,0 +1,124 @@
+<canvas id="2109:199030" name="↳ Banners" x="0" y="0" width="0" height="0">
+  <frame id="14851:3604" name="Banner" x="-8194" y="-2197" width="3094" height="2306">
+    <rounded-rectangle id="14860:8206" name="Background" x="112" y="1153" width="2870" height="1041" />
+    <frame id="14857:1262" name="Banner" x="112" y="112" width="2870" height="2082">
+      <symbol id="14855:565" name="Type=Simple, Device=Desktop, Dark Mode=False" x="96" y="96" width="1440" height="56" />
+      <symbol id="14860:8864" name="Type=Simple, Device=Desktop, Dark Mode=True" x="96" y="1153" width="1440" height="56" />
+      <symbol id="14857:1293" name="Type=Form, Device=Desktop, Dark Mode=False" x="96" y="536" width="1440" height="77" />
+      <symbol id="14860:8869" name="Type=Form, Device=Desktop, Dark Mode=True" x="96" y="1593" width="1440" height="77" />
+      <symbol id="14860:8087" name="Type=2 CTAs, Device=Desktop, Dark Mode=False" x="96" y="773" width="1440" height="78" />
+      <symbol id="14860:8875" name="Type=2 CTAs, Device=Desktop, Dark Mode=True" x="96" y="1830" width="1440" height="78" />
+      <symbol id="14857:1163" name="Type=Simple, Device=Tablet, Dark Mode=False" x="1576" y="96" width="768" height="56" />
+      <symbol id="14860:8884" name="Type=Simple, Device=Tablet, Dark Mode=True" x="1576" y="1153" width="768" height="56" />
+      <symbol id="14857:1298" name="Type=Form, Device=Tablet, Dark Mode=False" x="1576" y="536" width="768" height="106" />
+      <symbol id="14860:8889" name="Type=Form, Device=Tablet, Dark Mode=True" x="1576" y="1593" width="768" height="106" />
+      <symbol id="14860:8093" name="Type=2 CTAs, Device=Tablet, Dark Mode=False" x="1576" y="773" width="768" height="135" />
+      <symbol id="14860:8896" name="Type=2 CTAs, Device=Tablet, Dark Mode=True" x="1576" y="1830" width="768" height="135" />
+      <symbol id="14857:1231" name="Type=Simple, Device=Mobile, Dark Mode=False" x="2384" y="96" width="390" height="95" />
+      <symbol id="14860:8905" name="Type=Simple, Device=Mobile, Dark Mode=True" x="2384" y="1153" width="390" height="95" />
+      <symbol id="14857:1303" name="Type=Form, Device=Mobile, Dark Mode=False" x="2384" y="536" width="390" height="159" />
+      <symbol id="14860:8910" name="Type=Form, Device=Mobile, Dark Mode=True" x="2384" y="1593" width="390" height="159" />
+      <symbol id="14860:8099" name="Type=2 CTAs, Device=Mobile, Dark Mode=False" x="2384" y="773" width="390" height="156" />
+      <symbol id="14860:8916" name="Type=2 CTAs, Device=Mobile, Dark Mode=True" x="2384" y="1830" width="390" height="156" />
+      <symbol id="14855:1084" name="Type=Container Size, Device=Desktop, Dark Mode=False" x="96" y="312" width="1440" height="64" />
+      <symbol id="14860:8925" name="Type=Container Size, Device=Desktop, Dark Mode=True" x="96" y="1369" width="1440" height="64" />
+      <symbol id="14857:1180" name="Type=Container Size, Device=Tablet, Dark Mode=False" x="1576" y="312" width="768" height="79" />
+      <symbol id="14860:8932" name="Type=Container Size, Device=Tablet, Dark Mode=True" x="1576" y="1369" width="768" height="79" />
+      <symbol id="14857:1257" name="Type=Container Size, Device=Mobile, Dark Mode=False" x="2384" y="314" width="390" height="140" />
+      <symbol id="14860:8939" name="Type=Container Size, Device=Mobile, Dark Mode=True" x="2384" y="1371" width="390" height="140" />
+    </frame>
+  </frame>
+  <frame id="14860:9700" name="Examples" x="-4600" y="-2197" width="6124" height="6008">
+    <frame id="14860:10186" name="Screen" x="2512" y="112" width="390" height="844">
+      <instance id="14860:10243" name="Banner" x="0" y="0" width="390" height="95" />
+    </frame>
+    <frame id="14860:10593" name="Screen" x="5622" y="112" width="390" height="844">
+      <instance id="14860:10594" name="Banner" x="0" y="0" width="390" height="95" />
+    </frame>
+    <frame id="14860:10390" name="Screen" x="2512" y="3640" width="390" height="844">
+      <instance id="14860:10391" name="Banner" x="0" y="0" width="390" height="159" />
+    </frame>
+    <frame id="14860:10595" name="Screen" x="5622" y="3640" width="390" height="844">
+      <instance id="14860:10596" name="Banner" x="0" y="0" width="390" height="159" />
+    </frame>
+    <frame id="14860:10478" name="Screen" x="2512" y="4816" width="390" height="844">
+      <instance id="14860:10479" name="Banner" x="0" y="0" width="390" height="156" />
+    </frame>
+    <frame id="14860:10597" name="Screen" x="5622" y="4816" width="390" height="844">
+      <instance id="14860:10598" name="Banner" x="0" y="0" width="390" height="156" />
+    </frame>
+    <frame id="14860:10263" name="Screen" x="2512" y="1288" width="390" height="844">
+      <instance id="14860:10264" name="Banner" x="0" y="749" width="390" height="95" />
+    </frame>
+    <frame id="14860:10599" name="Screen" x="5622" y="1288" width="390" height="844">
+      <instance id="14860:10600" name="Banner" x="0" y="749" width="390" height="95" />
+    </frame>
+    <frame id="14860:10296" name="Screen" x="2512" y="2464" width="390" height="844">
+      <instance id="14860:10366" name="Banner" x="24" y="16" width="342" height="161" />
+    </frame>
+    <frame id="14860:10601" name="Screen" x="5622" y="2464" width="390" height="844">
+      <instance id="14860:10602" name="Banner" x="24" y="16" width="342" height="161" />
+    </frame>
+    <frame id="14860:10191" name="Screen" x="1648" y="112" width="768" height="1024">
+      <instance id="14860:10223" name="Banner" x="0" y="0" width="768" height="56" />
+    </frame>
+    <frame id="14860:10603" name="Screen" x="4758" y="112" width="768" height="1024">
+      <instance id="14860:10604" name="Banner" x="0" y="0" width="768" height="56" />
+    </frame>
+    <frame id="14860:10392" name="Screen" x="1648" y="3640" width="768" height="1024">
+      <instance id="14860:10393" name="Banner" x="0" y="0" width="768" height="106" />
+    </frame>
+    <frame id="14860:10605" name="Screen" x="4758" y="3640" width="768" height="1024">
+      <instance id="14860:10606" name="Banner" x="0" y="0" width="768" height="106" />
+    </frame>
+    <frame id="14860:10480" name="Screen" x="1648" y="4816" width="768" height="1024">
+      <instance id="14860:10481" name="Banner" x="0" y="0" width="768" height="135" />
+    </frame>
+    <frame id="14860:10607" name="Screen" x="4758" y="4816" width="768" height="1024">
+      <instance id="14860:10608" name="Banner" x="0" y="0" width="768" height="135" />
+    </frame>
+    <frame id="14860:10265" name="Screen" x="1648" y="1288" width="768" height="1024">
+      <instance id="14860:10266" name="Banner" x="0" y="968" width="768" height="56" />
+    </frame>
+    <frame id="14860:10609" name="Screen" x="4758" y="1288" width="768" height="1024">
+      <instance id="14860:10610" name="Banner" x="0" y="968" width="768" height="56" />
+    </frame>
+    <frame id="14860:10298" name="Screen" x="1648" y="2464" width="768" height="1024">
+      <instance id="14860:10342" name="Banner" x="32" y="16" width="704" height="79" />
+    </frame>
+    <frame id="14860:10611" name="Screen" x="4758" y="2464" width="768" height="1024">
+      <instance id="14860:10612" name="Banner" x="32" y="16" width="704" height="79" />
+    </frame>
+    <frame id="14860:10198" name="Screen" x="112" y="112" width="1440" height="1080">
+      <instance id="14860:10212" name="Banner" x="0" y="0" width="1440" height="56" />
+    </frame>
+    <frame id="14860:10613" name="Screen" x="3222" y="112" width="1440" height="1080">
+      <instance id="14860:10614" name="Banner" x="0" y="0" width="1440" height="56" />
+    </frame>
+    <frame id="14860:10394" name="Screen" x="112" y="3640" width="1440" height="1080">
+      <instance id="14860:10395" name="Banner" x="0" y="0" width="1440" height="77" />
+    </frame>
+    <frame id="14860:10615" name="Screen" x="3222" y="3640" width="1440" height="1080">
+      <instance id="14860:10616" name="Banner" x="0" y="0" width="1440" height="77" />
+    </frame>
+    <frame id="14860:10482" name="Screen" x="112" y="4816" width="1440" height="1080">
+      <instance id="14860:10483" name="Banner" x="0" y="0" width="1440" height="78" />
+    </frame>
+    <frame id="14860:10617" name="Screen" x="3222" y="4816" width="1440" height="1080">
+      <instance id="14860:10618" name="Banner" x="0" y="0" width="1440" height="78" />
+    </frame>
+    <frame id="14860:10267" name="Screen" x="112" y="1288" width="1440" height="1080">
+      <instance id="14860:10268" name="Banner" x="0" y="1024" width="1440" height="56" />
+    </frame>
+    <frame id="14860:10619" name="Screen" x="3222" y="1288" width="1440" height="1080">
+      <instance id="14860:10620" name="Banner" x="0" y="1024" width="1440" height="56" />
+    </frame>
+    <frame id="14860:10300" name="Screen" x="112" y="2464" width="1440" height="1080">
+      <instance id="14860:10329" name="Banner" x="96" y="16" width="1248" height="64" />
+    </frame>
+    <frame id="14860:10621" name="Screen" x="3222" y="2464" width="1440" height="1080">
+      <instance id="14860:10622" name="Banner" x="96" y="16" width="1248" height="64" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

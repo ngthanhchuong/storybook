@@ -1,0 +1,63 @@
+<canvas id="14188:66955" name="↳ Datepicker" x="0" y="0" width="0" height="0">
+  <frame id="14917:42316" name="Datepicker Atoms" x="-5503" y="-932" width="2544" height="628">
+    <rounded-rectangle id="14917:43051" name="Background" x="1272" y="112" width="1160" height="404" />
+    <frame id="14917:42918" name="Day" x="112" y="112" width="2320" height="404">
+      <symbol id="14917:42917" name="Type=Day, State=Default, Dark Mode=False" x="240" y="96" width="44" height="44" />
+      <symbol id="14918:43241" name="Type=Day, State=Disabled, Dark Mode=False" x="96" y="96" width="44" height="44" />
+      <symbol id="14917:43015" name="Type=Day, State=Default, Dark Mode=True" x="1400" y="96" width="44" height="44" />
+      <symbol id="14918:43253" name="Type=Day, State=Disabled, Dark Mode=True" x="1256" y="96" width="44" height="44" />
+      <symbol id="14917:42943" name="Type=Year, State=Default, Dark Mode=False" x="240" y="180" width="64" height="45" />
+      <symbol id="14918:43243" name="Type=Year, State=Disabled, Dark Mode=False" x="96" y="180" width="64" height="45" />
+      <symbol id="14917:43017" name="Type=Year, State=Default, Dark Mode=True" x="1400" y="180" width="64" height="45" />
+      <symbol id="14918:43255" name="Type=Year, State=Disabled, Dark Mode=True" x="1256" y="180" width="64" height="45" />
+      <symbol id="14917:42967" name="Type=Month, State=Default, Dark Mode=False" x="240" y="264" width="104" height="66" />
+      <symbol id="14918:43245" name="Type=Month, State=Disabled, Dark Mode=False" x="96" y="264" width="104" height="66" />
+      <symbol id="14917:43019" name="Type=Month, State=Default, Dark Mode=True" x="1400" y="264" width="104" height="66" />
+      <symbol id="14918:43257" name="Type=Month, State=Disabled, Dark Mode=True" x="1256" y="264" width="104" height="66" />
+      <symbol id="14917:42927" name="Type=Day, State=Current, Dark Mode=False" x="384" y="96" width="44" height="44" />
+      <symbol id="14917:43021" name="Type=Day, State=Current, Dark Mode=True" x="1544" y="96" width="44" height="44" />
+      <symbol id="14917:42945" name="Type=Year, State=Current, Dark Mode=False" x="384" y="180" width="64" height="44" />
+      <symbol id="14917:43023" name="Type=Year, State=Current, Dark Mode=True" x="1544" y="180" width="64" height="44" />
+      <symbol id="14917:42969" name="Type=Month, State=Current, Dark Mode=False" x="384" y="264" width="104" height="44" />
+      <symbol id="14917:43025" name="Type=Month, State=Current, Dark Mode=True" x="1544" y="264" width="104" height="44" />
+      <symbol id="14917:42919" name="Type=Day, State=Picked, Dark Mode=False" x="528" y="96" width="44" height="44" />
+      <symbol id="14917:43027" name="Type=Day, State=Picked, Dark Mode=True" x="1688" y="96" width="44" height="44" />
+      <symbol id="14917:42947" name="Type=Year, State=Picked, Dark Mode=False" x="528" y="180" width="64" height="44" />
+      <symbol id="14917:43029" name="Type=Year, State=Picked, Dark Mode=True" x="1688" y="180" width="64" height="44" />
+      <symbol id="14917:42971" name="Type=Month, State=Picked, Dark Mode=False" x="528" y="264" width="104" height="44" />
+      <symbol id="14917:43031" name="Type=Month, State=Picked, Dark Mode=True" x="1688" y="264" width="104" height="44" />
+      <symbol id="14917:42921" name="Type=Day, State=Starting, Dark Mode=False" x="672" y="96" width="44" height="44" />
+      <symbol id="14917:43033" name="Type=Day, State=Starting, Dark Mode=True" x="1832" y="96" width="44" height="44" />
+      <symbol id="14917:42949" name="Type=Year, State=Starting, Dark Mode=False" x="672" y="180" width="64" height="44" />
+      <symbol id="14917:43035" name="Type=Year, State=Starting, Dark Mode=True" x="1832" y="180" width="64" height="44" />
+      <symbol id="14917:42973" name="Type=Month, State=Starting, Dark Mode=False" x="672" y="264" width="104" height="44" />
+      <symbol id="14917:43037" name="Type=Month, State=Starting, Dark Mode=True" x="1832" y="264" width="104" height="44" />
+      <symbol id="14917:42923" name="Type=Day, State=During, Dark Mode=False" x="816" y="96" width="44" height="44" />
+      <symbol id="14917:43039" name="Type=Day, State=During, Dark Mode=True" x="1976" y="96" width="44" height="44" />
+      <symbol id="14917:42951" name="Type=Year, State=During, Dark Mode=False" x="816" y="180" width="64" height="44" />
+      <symbol id="14917:43041" name="Type=Year, State=During, Dark Mode=True" x="1976" y="180" width="64" height="44" />
+      <symbol id="14917:42975" name="Type=Month, State=During, Dark Mode=False" x="816" y="264" width="104" height="44" />
+      <symbol id="14917:43043" name="Type=Month, State=During, Dark Mode=True" x="1976" y="264" width="104" height="44" />
+      <symbol id="14917:42925" name="Type=Day, State=Ending, Dark Mode=False" x="960" y="96" width="44" height="44" />
+      <symbol id="14917:43045" name="Type=Day, State=Ending, Dark Mode=True" x="2120" y="96" width="44" height="44" />
+      <symbol id="14917:42953" name="Type=Year, State=Ending, Dark Mode=False" x="960" y="180" width="64" height="44" />
+      <symbol id="14917:43047" name="Type=Year, State=Ending, Dark Mode=True" x="2120" y="180" width="64" height="44" />
+      <symbol id="14917:42977" name="Type=Month, State=Ending, Dark Mode=False" x="960" y="264" width="104" height="44" />
+      <symbol id="14917:43049" name="Type=Month, State=Ending, Dark Mode=True" x="2120" y="264" width="104" height="44" />
+    </frame>
+  </frame>
+  <frame id="14918:43053" name="Datepickers" x="-2759" y="-932" width="1968" height="2108">
+    <rounded-rectangle id="14921:45497" name="Background" x="976" y="112" width="880" height="1884" />
+    <frame id="14919:43477" name="Datepicker" x="112" y="112" width="1744" height="1884">
+      <symbol id="14919:43457" name="Type=Default, Dark Mode=False" x="96" y="96" width="340" height="433" />
+      <symbol id="14921:45018" name="Type=Default, Dark Mode=True" x="960" y="96" width="340" height="433" />
+      <symbol id="14919:43478" name="Type=Range, Dark Mode=False" x="96" y="569" width="672" height="433" />
+      <symbol id="14921:45078" name="Type=Range, Dark Mode=True" x="960" y="569" width="672" height="433" />
+      <symbol id="14921:44015" name="Type=Month, Dark Mode=False" x="96" y="1042" width="344" height="374" />
+      <symbol id="14921:45189" name="Type=Month, Dark Mode=True" x="960" y="1042" width="344" height="374" />
+      <symbol id="14921:44222" name="Type=Year, Dark Mode=False" x="96" y="1435" width="224" height="353" />
+      <symbol id="14921:45216" name="Type=Year, Dark Mode=True" x="960" y="1435" width="224" height="353" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

@@ -1,0 +1,36 @@
+const imgMail = "https://www.figma.com/api/mcp/asset/5a34bd49-cbdc-4b94-923d-9c3cf2981fbb.svg";
+
+type DropdownAtomsProps = {
+  className?: string;
+  darkMode?: "False";
+  icon?: boolean;
+  iconType?: React.ReactNode | null;
+  state?: "Default";
+  type?: "Simple";
+};
+
+function DropdownAtoms({ className, darkMode = "False", icon = true, iconType = null, state = "Default", type = "Simple" }: DropdownAtomsProps) {
+  return (
+    <div className={className || "bg-[var(--white,white)] content-stretch flex gap-[var(--1,4px)] items-center px-[var(--4,16px)] py-[var(--2,8px)] relative rounded-[var(--rounded,4px)]"} data-node-id="14913:38007">
+      {icon &&
+        (iconType || (
+          <div className="relative shrink-0 size-[20px]" data-node-id="14913:37999" data-name="mail">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMail} />
+          </div>
+        ))}
+      <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[16px] text-[color:var(--black,black)] whitespace-nowrap" data-node-id="14913:38000">
+        Dropdown label
+      </p>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: text-base/font-medium: Font(family: "Inter", style: Medium, size: 16, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0).
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

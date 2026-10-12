@@ -1,0 +1,48 @@
+<canvas id="3303:16685" name="↳ Popovers" x="0" y="0" width="0" height="0">
+  <frame id="15096:18114" name="Popovers" x="-3207" y="-310" width="1248" height="5198">
+    <rounded-rectangle id="15099:1232" name="Background" x="624" y="112" width="512" height="4974" />
+    <frame id="15096:18503" name="Popover" x="112" y="112" width="1024" height="4974">
+      <symbol id="15096:18502" name="Type=Tooltip, Position=Top, Dark Mode=False" x="96" y="96" width="320" height="119" />
+      <symbol id="15099:1734" name="Type=Tooltip, Position=Top, Dark Mode=True" x="608" y="96" width="320" height="119" />
+      <symbol id="15096:18504" name="Type=Tooltip, Position=Bottom, Dark Mode=False" x="96" y="255" width="320" height="119" />
+      <symbol id="15099:1743" name="Type=Tooltip, Position=Bottom, Dark Mode=True" x="608" y="255" width="320" height="119" />
+      <symbol id="15096:18513" name="Type=Tooltip, Position=Left, Dark Mode=False" x="96" y="414" width="320" height="111" />
+      <symbol id="15099:1752" name="Type=Tooltip, Position=Left, Dark Mode=True" x="608" y="414" width="320" height="111" />
+      <symbol id="15096:18522" name="Type=Tooltip, Position=Right, Dark Mode=False" x="96" y="565" width="320" height="111" />
+      <symbol id="15099:1761" name="Type=Tooltip, Position=Right, Dark Mode=True" x="608" y="565" width="320" height="111" />
+      <symbol id="15098:814" name="Type=Connect, Position=Top, Dark Mode=False" x="96" y="776" width="320" height="204" />
+      <symbol id="15099:1770" name="Type=Connect, Position=Top, Dark Mode=True" x="608" y="776" width="320" height="204" />
+      <symbol id="15098:811" name="Type=Connect, Position=Bottom, Dark Mode=False" x="96" y="1020" width="320" height="204" />
+      <symbol id="15099:1786" name="Type=Connect, Position=Bottom, Dark Mode=True" x="608" y="1020" width="320" height="204" />
+      <symbol id="15098:808" name="Type=Connect, Position=Left, Dark Mode=False" x="96" y="1264" width="320" height="196" />
+      <symbol id="15099:1802" name="Type=Connect, Position=Left, Dark Mode=True" x="608" y="1264" width="320" height="196" />
+      <symbol id="15098:805" name="Type=Connect, Position=Right, Dark Mode=False" x="96" y="1500" width="320" height="196" />
+      <symbol id="15099:1818" name="Type=Connect, Position=Right, Dark Mode=True" x="608" y="1500" width="320" height="196" />
+      <symbol id="15098:3464" name="Type=Page, Position=Top, Dark Mode=False" x="96" y="1796" width="320" height="299" />
+      <symbol id="15099:1834" name="Type=Page, Position=Top, Dark Mode=True" x="608" y="1796" width="320" height="299" />
+      <symbol id="15098:3459" name="Type=Page, Position=Bottom, Dark Mode=False" x="96" y="2135" width="320" height="299" />
+      <symbol id="15099:1865" name="Type=Page, Position=Bottom, Dark Mode=True" x="608" y="2135" width="320" height="299" />
+      <symbol id="15098:3454" name="Type=Page, Position=Left, Dark Mode=False" x="96" y="2474" width="320" height="312" />
+      <symbol id="15099:1896" name="Type=Page, Position=Left, Dark Mode=True" x="608" y="2474" width="320" height="312" />
+      <symbol id="15098:3449" name="Type=Page, Position=Right, Dark Mode=False" x="96" y="2826" width="320" height="312" />
+      <symbol id="15099:1927" name="Type=Page, Position=Right, Dark Mode=True" x="608" y="2826" width="320" height="312" />
+      <symbol id="15098:4367" name="Type=Password Strength, Position=Top, Dark Mode=False" x="96" y="3238" width="320" height="179" />
+      <symbol id="15099:1958" name="Type=Password Strength, Position=Top, Dark Mode=True" x="608" y="3238" width="320" height="179" />
+      <symbol id="15098:4366" name="Type=Password Strength, Position=Bottom, Dark Mode=False" x="96" y="3457" width="320" height="179" />
+      <symbol id="15099:1983" name="Type=Password Strength, Position=Bottom, Dark Mode=True" x="608" y="3457" width="320" height="179" />
+      <symbol id="15098:4365" name="Type=Password Strength, Position=Left, Dark Mode=False" x="96" y="3676" width="320" height="171" />
+      <symbol id="15099:2008" name="Type=Password Strength, Position=Left, Dark Mode=True" x="608" y="3676" width="320" height="171" />
+      <symbol id="15098:4364" name="Type=Password Strength, Position=Right, Dark Mode=False" x="96" y="3887" width="320" height="171" />
+      <symbol id="15099:2033" name="Type=Password Strength, Position=Right, Dark Mode=True" x="608" y="3887" width="320" height="171" />
+      <symbol id="15099:1225" name="Type=Storage, Position=Top, Dark Mode=False" x="96" y="4158" width="320" height="154" />
+      <symbol id="15099:2058" name="Type=Storage, Position=Top, Dark Mode=True" x="608" y="4158" width="320" height="154" />
+      <symbol id="15099:1218" name="Type=Storage, Position=Bottom, Dark Mode=False" x="96" y="4352" width="320" height="154" />
+      <symbol id="15099:2068" name="Type=Storage, Position=Bottom, Dark Mode=True" x="608" y="4352" width="320" height="154" />
+      <symbol id="15099:1211" name="Type=Storage, Position=Left, Dark Mode=False" x="96" y="4546" width="320" height="146" />
+      <symbol id="15099:2078" name="Type=Storage, Position=Left, Dark Mode=True" x="608" y="4546" width="320" height="146" />
+      <symbol id="15099:1204" name="Type=Storage, Position=Right, Dark Mode=False" x="96" y="4732" width="320" height="146" />
+      <symbol id="15099:2088" name="Type=Storage, Position=Right, Dark Mode=True" x="608" y="4732" width="320" height="146" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

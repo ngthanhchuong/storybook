@@ -1,0 +1,120 @@
+export default function FontSize() {
+  return (
+    <div className="[word-break:break-word] bg-[var(--white,white)] border border-[var(--gray\/200,#e5e5e5)] border-solid content-stretch flex flex-col font-['Inter:Medium'] font-medium gap-[var(--8,40px)] items-start leading-[1.3] not-italic p-[var(--14,112px)] relative size-full" data-node-id="14841:18917" data-name="Font Size">
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18930" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18931">
+          Text-XS
+        </p>
+        <p className="relative shrink-0 text-[12px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18932">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18945" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18946">
+          Text-SM
+        </p>
+        <p className="relative shrink-0 text-[14px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18947">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18948" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18949">
+          Text-Base
+        </p>
+        <p className="relative shrink-0 text-[16px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18950">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18951" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18952">
+          Text-LG
+        </p>
+        <p className="relative shrink-0 text-[18px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18953">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18954" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18955">
+          Text-XL
+        </p>
+        <p className="relative shrink-0 text-[20px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18956">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0 text-[24px]" data-node-id="14841:18957" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18958">
+          Text-2XL
+        </p>
+        <p className="relative shrink-0 text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18959">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18960" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18961">
+          Text-3XL
+        </p>
+        <p className="relative shrink-0 text-[30px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18962">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18963" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18964">
+          Text-4XL
+        </p>
+        <p className="relative shrink-0 text-[36px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18965">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18966" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18967">
+          Text-5XL
+        </p>
+        <p className="relative shrink-0 text-[48px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18968">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18969" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18970">
+          Text-6XL
+        </p>
+        <p className="relative shrink-0 text-[60px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18971">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18972" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18973">
+          Text-7XL
+        </p>
+        <p className="relative shrink-0 text-[72px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18974">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18975" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18976">
+          Text-8XL
+        </p>
+        <p className="relative shrink-0 text-[96px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18977">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+      <div className="content-stretch flex flex-col gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:18978" data-name="Container">
+        <p className="min-w-full relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[min-content]" data-node-id="14841:18979">
+          Text-9XL
+        </p>
+        <p className="relative shrink-0 text-[128px] text-[color:var(--gray\/900,#0a0a0a)] whitespace-nowrap" data-node-id="14841:18980">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        </p>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: text-2xl/font-medium: Font(family: "Inter", style: Medium, size: 24, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-xs/font-medium: Font(family: "Inter", style: Medium, size: 12, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-sm/font-medium: Font(family: "Inter", style: Medium, size: 14, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-base/font-medium: Font(family: "Inter", style: Medium, size: 16, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-lg/font-medium: Font(family: "Inter", style: Medium, size: 18, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-xl/font-medium: Font(family: "Inter", style: Medium, size: 20, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-3xl/font-medium: Font(family: "Inter", style: Medium, size: 30, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-4xl/font-medium: Font(family: "Inter", style: Medium, size: 36, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-5xl/font-medium: Font(family: "Inter", style: Medium, size: 48, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-6xl/font-medium: Font(family: "Inter", style: Medium, size: 60, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-7xl/font-medium: Font(family: "Inter", style: Medium, size: 72, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-8xl/font-medium: Font(family: "Inter", style: Medium, size: 96, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0), text-9xl/font-medium: Font(family: "Inter", style: Medium, size: 128, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0).
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

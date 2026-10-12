@@ -1,0 +1,14 @@
+<canvas id="3284:23924" name="↳ Carousel" x="0" y="0" width="0" height="0">
+  <frame id="14913:9349" name="Carousels " x="-7325" y="-1154" width="3776" height="2342">
+    <rounded-rectangle id="14913:37100" name="Background" x="1888" y="112" width="1776" height="2118" />
+    <frame id="14913:36590" name="Carousel" x="112" y="112" width="3552" height="2118">
+      <symbol id="14913:36543" name="Type=Image, Dark Mode=False" x="96" y="96" width="924" height="559" />
+      <symbol id="14913:36847" name="Type=Image, Dark Mode=True" x="1872" y="96" width="924" height="559" />
+      <symbol id="14913:36589" name="Type=Cards, Dark Mode=False" x="96" y="751" width="1584" height="515" />
+      <symbol id="14913:36854" name="Type=Cards, Dark Mode=True" x="1872" y="751" width="1584" height="515" />
+      <symbol id="14913:36591" name="Type=Slider, Dark Mode=False" x="96" y="1362" width="1280" height="660" />
+      <symbol id="14913:36870" name="Type=Slider, Dark Mode=True" x="1872" y="1362" width="1280" height="660" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

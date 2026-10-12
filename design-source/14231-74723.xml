@@ -1,0 +1,92 @@
+<canvas id="14231:74723" name="↳ Speed Dial" x="0" y="0" width="0" height="0">
+  <frame id="14962:6949" name="Speed Dial" x="-9544" y="-2016" width="5324" height="2104">
+    <rounded-rectangle id="14975:12859" name="Background" x="112" y="1052" width="5100" height="940" />
+    <frame id="14975:5576" name="Speed Dial" x="112" y="112" width="5100" height="1880">
+      <symbol id="14975:5554" name="Type=Icon Only, Position=Top, Rounded=False, Dark Mode=False" x="96" y="96" width="144" height="324" />
+      <symbol id="14975:10063" name="Type=Icon Only, Position=Top, Rounded=False, Dark Mode=True" x="96" y="1036" width="144" height="324" />
+      <symbol id="14975:7524" name="Type=Icon Only, Position=Bottom, Rounded=False, Dark Mode=False" x="1005" y="96" width="144" height="324" />
+      <symbol id="14975:10076" name="Type=Icon Only, Position=Bottom, Rounded=False, Dark Mode=True" x="1005" y="1036" width="144" height="324" />
+      <symbol id="14975:8125" name="Type=Icon Only, Position=Left, Rounded=False, Dark Mode=False" x="1914" y="292" width="324" height="128" />
+      <symbol id="14975:10089" name="Type=Icon Only, Position=Left, Rounded=False, Dark Mode=True" x="1914" y="1232" width="324" height="128" />
+      <symbol id="14975:8807" name="Type=Icon Only, Position=Right, Rounded=False, Dark Mode=False" x="3559" y="292" width="324" height="128" />
+      <symbol id="14975:10102" name="Type=Icon Only, Position=Right, Rounded=False, Dark Mode=True" x="3559" y="1232" width="324" height="128" />
+      <symbol id="14975:8411" name="Type=Icon Only, Position=Left, Rounded=True, Dark Mode=False" x="1914" y="718" width="324" height="128" />
+      <symbol id="14975:10115" name="Type=Icon Only, Position=Left, Rounded=True, Dark Mode=True" x="1914" y="1658" width="324" height="128" />
+      <symbol id="14975:8820" name="Type=Icon Only, Position=Right, Rounded=True, Dark Mode=False" x="3559" y="718" width="324" height="128" />
+      <symbol id="14975:10128" name="Type=Icon Only, Position=Right, Rounded=True, Dark Mode=True" x="3559" y="1658" width="324" height="128" />
+      <symbol id="14975:7128" name="Type=Icon Only, Position=Top, Rounded=True, Dark Mode=False" x="96" y="520" width="144" height="324" />
+      <symbol id="14975:10141" name="Type=Icon Only, Position=Top, Rounded=True, Dark Mode=True" x="96" y="1460" width="144" height="324" />
+      <symbol id="14975:7537" name="Type=Icon Only, Position=Bottom, Rounded=True, Dark Mode=False" x="1005" y="520" width="144" height="324" />
+      <symbol id="14975:10154" name="Type=Icon Only, Position=Bottom, Rounded=True, Dark Mode=True" x="1005" y="1460" width="144" height="324" />
+      <symbol id="14975:5691" name="Type=Text Outside, Position=Top, Rounded=False, Dark Mode=False" x="496" y="96" width="112" height="324" />
+      <symbol id="14975:10167" name="Type=Text Outside, Position=Top, Rounded=False, Dark Mode=True" x="496" y="1036" width="112" height="324" />
+      <symbol id="14975:7550" name="Type=Text Outside, Position=Bottom, Rounded=False, Dark Mode=False" x="1405" y="96" width="112" height="324" />
+      <symbol id="14975:10183" name="Type=Text Outside, Position=Bottom, Rounded=False, Dark Mode=True" x="1405" y="1036" width="112" height="324" />
+      <symbol id="14975:8138" name="Type=Text Outside, Position=Left, Rounded=False, Dark Mode=False" x="2762" y="324" width="324" height="96" />
+      <symbol id="14975:10199" name="Type=Text Outside, Position=Left, Rounded=False, Dark Mode=True" x="2762" y="1264" width="324" height="96" />
+      <symbol id="14975:8833" name="Type=Text Outside, Position=Right, Rounded=False, Dark Mode=False" x="4407" y="324" width="324" height="96" />
+      <symbol id="14975:10215" name="Type=Text Outside, Position=Right, Rounded=False, Dark Mode=True" x="4407" y="1264" width="324" height="96" />
+      <symbol id="14975:8424" name="Type=Text Outside, Position=Left, Rounded=True, Dark Mode=False" x="2762" y="750" width="324" height="96" />
+      <symbol id="14975:10231" name="Type=Text Outside, Position=Left, Rounded=True, Dark Mode=True" x="2762" y="1690" width="324" height="96" />
+      <symbol id="14975:8849" name="Type=Text Outside, Position=Right, Rounded=True, Dark Mode=False" x="4407" y="750" width="324" height="96" />
+      <symbol id="14975:10247" name="Type=Text Outside, Position=Right, Rounded=True, Dark Mode=True" x="4407" y="1690" width="324" height="96" />
+      <symbol id="14975:7141" name="Type=Text Outside, Position=Top, Rounded=True, Dark Mode=False" x="496" y="520" width="112" height="324" />
+      <symbol id="14975:10263" name="Type=Text Outside, Position=Top, Rounded=True, Dark Mode=True" x="496" y="1460" width="112" height="324" />
+      <symbol id="14975:7566" name="Type=Text Outside, Position=Bottom, Rounded=True, Dark Mode=False" x="1405" y="520" width="112" height="324" />
+      <symbol id="14975:10279" name="Type=Text Outside, Position=Bottom, Rounded=True, Dark Mode=True" x="1405" y="1460" width="112" height="324" />
+      <symbol id="14975:5748" name="Type=Dropdown, Position=Top, Rounded=False, Dark Mode=False" x="708" y="188" width="101" height="232" />
+      <symbol id="14975:10295" name="Type=Dropdown, Position=Top, Rounded=False, Dark Mode=True" x="708" y="1128" width="101" height="232" />
+      <symbol id="14975:7582" name="Type=Dropdown, Position=Bottom, Rounded=False, Dark Mode=False" x="1617" y="188" width="101" height="232" />
+      <symbol id="14975:10299" name="Type=Dropdown, Position=Bottom, Rounded=False, Dark Mode=True" x="1617" y="1128" width="101" height="232" />
+      <symbol id="14975:8154" name="Type=Dropdown, Position=Left, Rounded=False, Dark Mode=False" x="3186" y="264" width="177" height="156" />
+      <symbol id="14975:10303" name="Type=Dropdown, Position=Left, Rounded=False, Dark Mode=True" x="3186" y="1204" width="177" height="156" />
+      <symbol id="14975:8865" name="Type=Dropdown, Position=Right, Rounded=False, Dark Mode=False" x="4831" y="264" width="177" height="156" />
+      <symbol id="14975:10307" name="Type=Dropdown, Position=Right, Rounded=False, Dark Mode=True" x="4831" y="1204" width="177" height="156" />
+      <symbol id="14975:8440" name="Type=Dropdown, Position=Left, Rounded=True, Dark Mode=False" x="3186" y="690" width="177" height="156" />
+      <symbol id="14975:10311" name="Type=Dropdown, Position=Left, Rounded=True, Dark Mode=True" x="3186" y="1630" width="177" height="156" />
+      <symbol id="14975:8869" name="Type=Dropdown, Position=Right, Rounded=True, Dark Mode=False" x="4831" y="690" width="177" height="156" />
+      <symbol id="14975:10315" name="Type=Dropdown, Position=Right, Rounded=True, Dark Mode=True" x="4831" y="1630" width="177" height="156" />
+      <symbol id="14975:7157" name="Type=Dropdown, Position=Top, Rounded=True, Dark Mode=False" x="708" y="612" width="101" height="232" />
+      <symbol id="14975:10319" name="Type=Dropdown, Position=Top, Rounded=True, Dark Mode=True" x="708" y="1552" width="101" height="232" />
+      <symbol id="14975:7586" name="Type=Dropdown, Position=Bottom, Rounded=True, Dark Mode=False" x="1617" y="612" width="101" height="232" />
+      <symbol id="14975:10323" name="Type=Dropdown, Position=Bottom, Rounded=True, Dark Mode=True" x="1617" y="1552" width="101" height="232" />
+      <symbol id="14975:5577" name="Type=Icon + Text, Position=Top, Rounded=False, Dark Mode=False" x="340" y="96" width="56" height="324" />
+      <symbol id="14975:10327" name="Type=Icon + Text, Position=Top, Rounded=False, Dark Mode=True" x="340" y="1036" width="56" height="324" />
+      <symbol id="14975:7590" name="Type=Icon + Text, Position=Bottom, Rounded=False, Dark Mode=False" x="1249" y="96" width="56" height="324" />
+      <symbol id="14975:10343" name="Type=Icon + Text, Position=Bottom, Rounded=False, Dark Mode=True" x="1249" y="1036" width="56" height="324" />
+      <symbol id="14975:8158" name="Type=Icon + Text, Position=Left, Rounded=False, Dark Mode=False" x="2338" y="364" width="324" height="56" />
+      <symbol id="14975:10359" name="Type=Icon + Text, Position=Left, Rounded=False, Dark Mode=True" x="2338" y="1304" width="324" height="56" />
+      <symbol id="14975:8873" name="Type=Icon + Text, Position=Right, Rounded=False, Dark Mode=False" x="3983" y="364" width="324" height="56" />
+      <symbol id="14975:10375" name="Type=Icon + Text, Position=Right, Rounded=False, Dark Mode=True" x="3983" y="1304" width="324" height="56" />
+      <symbol id="14975:8444" name="Type=Icon + Text, Position=Left, Rounded=True, Dark Mode=False" x="2338" y="790" width="324" height="56" />
+      <symbol id="14975:10391" name="Type=Icon + Text, Position=Left, Rounded=True, Dark Mode=True" x="2338" y="1730" width="324" height="56" />
+      <symbol id="14975:8889" name="Type=Icon + Text, Position=Right, Rounded=True, Dark Mode=False" x="3983" y="790" width="324" height="56" />
+      <symbol id="14975:10407" name="Type=Icon + Text, Position=Right, Rounded=True, Dark Mode=True" x="3983" y="1730" width="324" height="56" />
+      <symbol id="14975:7161" name="Type=Icon + Text, Position=Top, Rounded=True, Dark Mode=False" x="340" y="520" width="56" height="324" />
+      <symbol id="14975:10423" name="Type=Icon + Text, Position=Top, Rounded=True, Dark Mode=True" x="340" y="1460" width="56" height="324" />
+      <symbol id="14975:7606" name="Type=Icon + Text, Position=Bottom, Rounded=True, Dark Mode=False" x="1249" y="520" width="56" height="324" />
+      <symbol id="14975:10439" name="Type=Icon + Text, Position=Bottom, Rounded=True, Dark Mode=True" x="1249" y="1460" width="56" height="324" />
+    </frame>
+  </frame>
+  <frame id="14975:13591" name="Examples" x="-4020" y="-2016" width="6124" height="1304">
+    <frame id="14975:13592" name="Screen" x="2512" y="112" width="390" height="844">
+      <instance id="14975:14243" name="Speed Dial" x="230" y="504" width="144" height="324" />
+    </frame>
+    <frame id="14975:13598" name="Screen" x="5622" y="112" width="390" height="844">
+      <instance id="14975:14918" name="Speed Dial" x="230" y="504" width="144" height="324" />
+    </frame>
+    <frame id="14975:13604" name="Screen" x="1648" y="112" width="768" height="1024">
+      <instance id="14975:14215" name="Speed Dial" x="604" y="680" width="144" height="324" />
+    </frame>
+    <frame id="14975:13610" name="Screen" x="4758" y="112" width="768" height="1024">
+      <instance id="14975:14864" name="Speed Dial" x="604" y="680" width="144" height="324" />
+    </frame>
+    <frame id="14975:13616" name="Screen" x="112" y="112" width="1440" height="1080">
+      <instance id="14975:14187" name="Speed Dial" x="1272" y="732" width="144" height="324" />
+    </frame>
+    <frame id="14975:13622" name="Screen" x="3222" y="112" width="1440" height="1080">
+      <instance id="14975:14810" name="Speed Dial" x="1272" y="732" width="144" height="324" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

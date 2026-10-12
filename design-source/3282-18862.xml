@@ -1,0 +1,75 @@
+<canvas id="3282:18862" name="↳ Dropdowns" x="0" y="0" width="0" height="0">
+  <frame id="14913:37234" name="Dropdown Atoms" x="-19061" y="2891" width="3072" height="1037">
+    <rounded-rectangle id="14915:42314" name="Background" x="1536" y="112" width="1424" height="813" />
+    <frame id="14913:38013" name="Dropdown Atoms" x="112" y="112" width="2848" height="813">
+      <symbol id="14913:38007" name="Type=Simple, State=Default, Dark Mode=False" x="96" y="96" width="176" height="37" />
+      <symbol id="14914:38615" name="Type=Simple, State=Default, Dark Mode=True" x="1520" y="96" width="176" height="37" />
+      <symbol id="14913:38164" name="Type=Checkbox, State=Default, Dark Mode=False" x="96" y="173" width="155" height="52" />
+      <symbol id="14914:38618" name="Type=Checkbox, State=Default, Dark Mode=True" x="1520" y="173" width="155" height="52" />
+      <symbol id="14913:38223" name="Type=Radiobutton, State=Default, Dark Mode=False" x="96" y="247" width="155" height="52" />
+      <symbol id="14914:38620" name="Type=Radiobutton, State=Default, Dark Mode=True" x="1520" y="247" width="155" height="52" />
+      <symbol id="14913:38271" name="Type=Toggle, State=Default, Dark Mode=False" x="96" y="321" width="169" height="52" />
+      <symbol id="14914:38622" name="Type=Toggle, State=Default, Dark Mode=True" x="1520" y="321" width="169" height="52" />
+      <symbol id="14913:38325" name="Type=Avatar, State=Default, Dark Mode=False" x="96" y="395" width="192" height="40" />
+      <symbol id="14914:38624" name="Type=Avatar, State=Default, Dark Mode=True" x="1520" y="395" width="192" height="40" />
+      <symbol id="14914:38378" name="Type=Notification Unread, State=Default, Dark Mode=False" x="96" y="475" width="384" height="101" />
+      <symbol id="14914:38626" name="Type=Notification Unread, State=Default, Dark Mode=True" x="1520" y="475" width="384" height="101" />
+      <symbol id="14914:38480" name="Type=Notification Read, State=Default, Dark Mode=False" x="96" y="616" width="384" height="101" />
+      <symbol id="14914:38631" name="Type=Notification Read, State=Default, Dark Mode=True" x="1520" y="616" width="384" height="101" />
+      <symbol id="14913:38014" name="Type=Simple, State=Hover, Dark Mode=False" x="520" y="96" width="176" height="37" />
+      <symbol id="14914:38636" name="Type=Simple, State=Hover, Dark Mode=True" x="1944" y="96" width="176" height="37" />
+      <symbol id="14913:38167" name="Type=Checkbox, State=Hover, Dark Mode=False" x="520" y="173" width="155" height="52" />
+      <symbol id="14914:38639" name="Type=Checkbox, State=Hover, Dark Mode=True" x="1944" y="173" width="155" height="52" />
+      <symbol id="14913:38225" name="Type=Radiobutton, State=Hover, Dark Mode=False" x="520" y="247" width="155" height="52" />
+      <symbol id="14914:38641" name="Type=Radiobutton, State=Hover, Dark Mode=True" x="1944" y="247" width="155" height="52" />
+      <symbol id="14913:38273" name="Type=Toggle, State=Hover, Dark Mode=False" x="520" y="321" width="169" height="52" />
+      <symbol id="14914:38643" name="Type=Toggle, State=Hover, Dark Mode=True" x="1944" y="321" width="169" height="52" />
+      <symbol id="14913:38327" name="Type=Avatar, State=Hover, Dark Mode=False" x="520" y="395" width="192" height="40" />
+      <symbol id="14914:38645" name="Type=Avatar, State=Hover, Dark Mode=True" x="1944" y="395" width="192" height="40" />
+      <symbol id="14914:38380" name="Type=Notification Unread, State=Hover, Dark Mode=False" x="520" y="475" width="384" height="101" />
+      <symbol id="14914:38647" name="Type=Notification Unread, State=Hover, Dark Mode=True" x="1944" y="475" width="384" height="101" />
+      <symbol id="14914:38485" name="Type=Notification Read, State=Hover, Dark Mode=False" x="520" y="616" width="384" height="101" />
+      <symbol id="14914:38652" name="Type=Notification Read, State=Hover, Dark Mode=True" x="1944" y="616" width="384" height="101" />
+      <symbol id="14913:38136" name="Type=Simple, State=Disabled, Dark Mode=False" x="944" y="96" width="176" height="37" />
+      <symbol id="14914:38657" name="Type=Simple, State=Disabled, Dark Mode=True" x="2368" y="96" width="176" height="37" />
+      <symbol id="14913:38170" name="Type=Checkbox, State=Disabled, Dark Mode=False" x="944" y="173" width="155" height="52" />
+      <symbol id="14914:38660" name="Type=Checkbox, State=Disabled, Dark Mode=True" x="2368" y="173" width="155" height="52" />
+      <symbol id="14913:38227" name="Type=Radiobutton, State=Disabled, Dark Mode=False" x="944" y="247" width="155" height="52" />
+      <symbol id="14914:38662" name="Type=Radiobutton, State=Disabled, Dark Mode=True" x="2368" y="247" width="155" height="52" />
+      <symbol id="14913:38275" name="Type=Toggle, State=Disabled, Dark Mode=False" x="944" y="321" width="169" height="52" />
+      <symbol id="14914:38664" name="Type=Toggle, State=Disabled, Dark Mode=True" x="2368" y="321" width="169" height="52" />
+      <symbol id="14913:38329" name="Type=Avatar, State=Disabled, Dark Mode=False" x="944" y="395" width="192" height="40" />
+      <symbol id="14914:38666" name="Type=Avatar, State=Disabled, Dark Mode=True" x="2368" y="395" width="192" height="40" />
+      <symbol id="14914:38382" name="Type=Notification Unread, State=Disabled, Dark Mode=False" x="944" y="475" width="384" height="101" />
+      <symbol id="14914:38668" name="Type=Notification Unread, State=Disabled, Dark Mode=True" x="2368" y="475" width="384" height="101" />
+      <symbol id="14914:38490" name="Type=Notification Read, State=Disabled, Dark Mode=False" x="944" y="616" width="384" height="101" />
+      <symbol id="14914:38673" name="Type=Notification Read, State=Disabled, Dark Mode=True" x="2368" y="616" width="384" height="101" />
+    </frame>
+  </frame>
+  <frame id="14914:38776" name="Dropdowns" x="-15789" y="2891" width="1392" height="2969">
+    <rounded-rectangle id="14915:41864" name="Background" x="688" y="112" width="592" height="2745" />
+    <frame id="14914:39094" name="Dropdown" x="112" y="112" width="1168" height="2745">
+      <symbol id="14914:39095" name="Type=Default, Dark Mode=False" x="96" y="96" width="224" height="206" />
+      <symbol id="14915:41263" name="Type=Default, Dark Mode=True" x="672" y="96" width="224" height="206" />
+      <symbol id="14914:39093" name="Type=Icons, Dark Mode=False" x="96" y="342" width="224" height="206" />
+      <symbol id="14915:41283" name="Type=Icons, Dark Mode=True" x="672" y="342" width="224" height="206" />
+      <symbol id="14915:39741" name="Type=Checkbox, Dark Mode=False" x="96" y="588" width="224" height="144" />
+      <symbol id="14915:41303" name="Type=Checkbox, Dark Mode=True" x="672" y="588" width="224" height="144" />
+      <symbol id="14915:39886" name="Type=Checkbox with helper, Dark Mode=False" x="96" y="772" width="224" height="208" />
+      <symbol id="14915:41313" name="Type=Checkbox with helper, Dark Mode=True" x="672" y="772" width="224" height="208" />
+      <symbol id="14915:39939" name="Type=Radio, Dark Mode=False" x="96" y="1020" width="224" height="144" />
+      <symbol id="14915:41323" name="Type=Radio, Dark Mode=True" x="672" y="1020" width="224" height="144" />
+      <symbol id="14915:39949" name="Type=Radio with helper, Dark Mode=False" x="96" y="1204" width="224" height="208" />
+      <symbol id="14915:41333" name="Type=Radio with helper, Dark Mode=True" x="672" y="1204" width="224" height="208" />
+      <symbol id="14915:40143" name="Type=Toggle, Dark Mode=False" x="96" y="1452" width="224" height="144" />
+      <symbol id="14915:41343" name="Type=Toggle, Dark Mode=True" x="672" y="1452" width="224" height="144" />
+      <symbol id="14915:40133" name="Type=Toggle with helper, Dark Mode=False" x="96" y="1636" width="224" height="208" />
+      <symbol id="14915:41353" name="Type=Toggle with helper, Dark Mode=True" x="672" y="1636" width="224" height="208" />
+      <symbol id="14915:40359" name="Type=Avatars, Dark Mode=False" x="96" y="1884" width="224" height="216" />
+      <symbol id="14915:41363" name="Type=Avatars, Dark Mode=True" x="672" y="1884" width="224" height="216" />
+      <symbol id="14915:40528" name="Type=Notification, Dark Mode=False" x="96" y="2140" width="384" height="509" />
+      <symbol id="14915:41376" name="Type=Notification, Dark Mode=True" x="672" y="2140" width="384" height="509" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

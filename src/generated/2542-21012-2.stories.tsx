@@ -1,0 +1,15 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Buttons/Button Group",args:{"Type":"3 Options","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["3 Options","Icons","Labeled","Action"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14847-2910"}},render:(args)=> <CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+8+')',render:()=> <CatalogStory pageId="2542:21012" groupId="14847:2910" gallery/>};
+export const Variant001:Story={name:"Type=3 Options, Dark Mode=False",args:{"Type":"3 Options","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant002:Story={name:"Type=3 Options, Dark Mode=True",args:{"Type":"3 Options","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant003:Story={name:"Type=Icons, Dark Mode=False",args:{"Type":"Icons","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant004:Story={name:"Type=Icons, Dark Mode=True",args:{"Type":"Icons","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant005:Story={name:"Type=Labeled, Dark Mode=False",args:{"Type":"Labeled","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant006:Story={name:"Type=Labeled, Dark Mode=True",args:{"Type":"Labeled","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant007:Story={name:"Type=Action, Dark Mode=False",args:{"Type":"Action","Dark Mode":"False"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};
+export const Variant008:Story={name:"Type=Action, Dark Mode=True",args:{"Type":"Action","Dark Mode":"True"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2910" properties={args}/>};

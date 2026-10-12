@@ -1,0 +1,23 @@
+<canvas id="3283:24170" name="↳ Tooltips" x="0" y="0" width="0" height="0">
+  <frame id="14866:31633" name="Tooltips" x="-948" y="202" width="2728" height="710">
+    <frame id="14866:32561" name="Tooltip" x="112" y="112" width="2504" height="486">
+      <symbol id="14866:32560" name="Type=Top, Color=Bright, Title=False" x="96" y="96" width="199" height="53" />
+      <symbol id="14867:2014" name="Type=Top, Color=Dark, Title=False" x="96" y="291" width="199" height="53" />
+      <symbol id="14866:32562" name="Type=Top, Color=Bright, Title=True" x="320" y="96" width="320" height="120" />
+      <symbol id="14867:2018" name="Type=Top, Color=Dark, Title=True" x="320" y="291" width="320" height="120" />
+      <symbol id="14867:1948" name="Type=Bottom, Color=Bright, Title=False" x="680" y="96" width="199" height="53.000003814697266" />
+      <symbol id="14867:2023" name="Type=Bottom, Color=Dark, Title=False" x="680" y="291" width="199" height="53.000003814697266" />
+      <symbol id="14867:1943" name="Type=Bottom, Color=Bright, Title=True" x="904" y="96" width="320" height="120" />
+      <symbol id="14867:2027" name="Type=Bottom, Color=Dark, Title=True" x="904" y="291" width="320" height="120" />
+      <symbol id="14867:1952" name="Type=Left, Color=Bright, Title=False" x="1264" y="96" width="207" height="45" />
+      <symbol id="14867:2032" name="Type=Left, Color=Dark, Title=False" x="1264" y="291" width="207" height="45" />
+      <symbol id="14867:1956" name="Type=Left, Color=Bright, Title=True" x="1496" y="96" width="320" height="112" />
+      <symbol id="14867:2036" name="Type=Left, Color=Dark, Title=True" x="1496" y="291" width="320" height="112" />
+      <symbol id="14867:1966" name="Type=Right, Color=Bright, Title=False" x="1856" y="96" width="207" height="45" />
+      <symbol id="14867:2041" name="Type=Right, Color=Dark, Title=False" x="1856" y="291" width="207" height="45" />
+      <symbol id="14867:1961" name="Type=Right, Color=Bright, Title=True" x="2088" y="96" width="320" height="112" />
+      <symbol id="14867:2045" name="Type=Right, Color=Dark, Title=True" x="2088" y="291" width="320" height="112" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

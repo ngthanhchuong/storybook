@@ -1,0 +1,350 @@
+export default function Spacing() {
+  return (
+    <div className="bg-[var(--white,white)] border border-[var(--gray\/200,#e5e5e5)] border-solid content-stretch flex flex-col gap-[var(--8,40px)] items-start p-[var(--14,112px)] relative size-full" data-node-id="14841:19017" data-name="Spacing">
+      <div className="[word-break:break-word] content-stretch flex font-['Inter_Tight:Bold'] gap-[var(--4,16px)] items-start leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] tracking-[-0.24px]" data-node-id="14841:19018" data-name="Row">
+        <p className="relative shrink-0 w-[160px]" data-node-id="14841:19019">
+          Name
+        </p>
+        <p className="relative shrink-0 w-[160px]" data-node-id="14841:19058">
+          Rems
+        </p>
+        <p className="relative shrink-0 w-[160px]" data-node-id="14841:19059">
+          Pixels
+        </p>
+      </div>
+      <div className="[word-break:break-word] content-stretch flex font-['Inter:Medium'] font-medium gap-[var(--4,16px)] items-start leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)]" data-node-id="14841:19060" data-name="Row">
+        <p className="relative shrink-0 w-[160px]" data-node-id="14841:19061">
+          0
+        </p>
+        <p className="relative shrink-0 w-[160px]" data-node-id="14841:19062">
+          0rem
+        </p>
+        <p className="relative shrink-0 w-[160px]" data-node-id="14841:19063">
+          0px
+        </p>
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19067" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19068">
+          1
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19069">
+          0.25rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19070">
+          4px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[4px]" data-node-id="14841:19071" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19072" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19073">
+          2
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19074">
+          0.5rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19075">
+          8px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[8px]" data-node-id="14841:19076" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19077" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19078">
+          3
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19079">
+          0.75rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19080">
+          12px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[12px]" data-node-id="14841:19081" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19082" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19083">
+          4
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19084">
+          1rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19085">
+          16px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[16px]" data-node-id="14841:19086" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19087" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19088">
+          5
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19089">
+          1.25rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19090">
+          20px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[20px]" data-node-id="14841:19091" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19092" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19093">
+          6
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19094">
+          1.5rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19095">
+          24px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[24px]" data-node-id="14841:19096" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14842:19339" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14842:19340">
+          7
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14842:19341">
+          2rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14842:19342">
+          32px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[32px]" data-node-id="14842:19343" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19098" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19099">
+          8
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19100">
+          2.5rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19101">
+          40px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[40px]" data-node-id="14841:19102" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19104" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19105">
+          9
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19106">
+          3rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19107">
+          48px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[48px]" data-node-id="14841:19108" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19109" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19110">
+          10
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19111">
+          3.5rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19112">
+          56px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[56px]" data-node-id="14841:19113" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19115" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19116">
+          11
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19117">
+          4rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19118">
+          64px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[64px]" data-node-id="14841:19119" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19120" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19121">
+          12
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19122">
+          5rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19123">
+          80px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[80px]" data-node-id="14841:19124" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19125" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19126">
+          13
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19127">
+          6rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19128">
+          96px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[96px]" data-node-id="14841:19129" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19131" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19132">
+          14
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19133">
+          7rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19134">
+          112px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[112px]" data-node-id="14841:19135" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19136" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19137">
+          15
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19138">
+          8rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19139">
+          128px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[128px]" data-node-id="14841:19140" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19142" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19143">
+          16
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19144">
+          9rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19145">
+          144px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[144px]" data-node-id="14841:19146" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19148" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19149">
+          17
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19150">
+          10rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19151">
+          160px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[160px]" data-node-id="14841:19152" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19154" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19155">
+          18
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19156">
+          11rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19157">
+          176px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[176px]" data-node-id="14841:19158" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14842:19345" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14842:19346">
+          19
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14842:19347">
+          12rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14842:19348">
+          192px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[192px]" data-node-id="14842:19349" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19159" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19160">
+          20
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19161">
+          13rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19162">
+          208px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[208px]" data-node-id="14841:19163" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19165" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19166">
+          21
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19167">
+          14rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19168">
+          224px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[224px]" data-node-id="14841:19169" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19170" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19171">
+          22
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19172">
+          15rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19173">
+          240px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[240px]" data-node-id="14841:19174" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19176" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19177">
+          23
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19178">
+          16rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19179">
+          256px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[256px]" data-node-id="14841:19180" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19181" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19182">
+          24
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19183">
+          18rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19184">
+          288px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[288px]" data-node-id="14841:19185" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19186" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19187">
+          25
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19188">
+          20rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19189">
+          320px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[320px]" data-node-id="14841:19190" data-name="View" />
+      </div>
+      <div className="content-stretch flex gap-[var(--4,16px)] items-start relative shrink-0" data-node-id="14841:19191" data-name="Row">
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19192">
+          26
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19193">
+          24rem
+        </p>
+        <p className="[word-break:break-word] font-['Inter:Medium'] font-medium leading-[1.3] not-italic relative shrink-0 text-[24px] text-[color:var(--black,black)] w-[160px]" data-node-id="14841:19194">
+          384px
+        </p>
+        <div className="bg-[var(--black,black)] h-[31px] relative shrink-0 w-[384px]" data-node-id="14841:19195" data-name="View" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: text-2xl/font-bold: Font(family: "Inter Tight", style: Bold, size: 24, weight: 700, lineHeight: 1.2999999523162842, letterSpacing: -1), text-2xl/font-medium: Font(family: "Inter", style: Medium, size: 24, weight: 500, lineHeight: 1.2999999523162842, letterSpacing: 0).
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

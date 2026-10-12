@@ -1,0 +1,11 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Avatars/Avatar + Text",args:{"Size":"SM"},argTypes:{"Size":{"control":"select","options":["SM","MD","LG","XL"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14845-19781"}},render:(args)=> <CatalogStory pageId="3197:21106" groupId="14845:19781" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+4+')',render:()=> <CatalogStory pageId="3197:21106" groupId="14845:19781" gallery/>};
+export const Variant001:Story={name:"Size=SM",args:{"Size":"SM"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19781" properties={args}/>};
+export const Variant002:Story={name:"Size=MD",args:{"Size":"MD"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19781" properties={args}/>};
+export const Variant003:Story={name:"Size=LG",args:{"Size":"LG"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19781" properties={args}/>};
+export const Variant004:Story={name:"Size=XL",args:{"Size":"XL"},render:(args)=><CatalogStory pageId="3197:21106" groupId="14845:19781" properties={args}/>};

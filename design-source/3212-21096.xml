@@ -1,0 +1,171 @@
+<canvas id="3212:21096" name="↳ Spacing" x="0" y="0" width="0" height="0">
+  <frame id="14841:19017" name="Spacing" x="467" y="-758" width="1136" height="2172">
+    <frame id="14841:19018" name="Row" x="112" y="112" width="512" height="31">
+      <text id="14841:19019" name="Name" x="0" y="0" width="160" height="31" />
+      <text id="14841:19058" name="Rems" x="176" y="0" width="160" height="31" />
+      <text id="14841:19059" name="Pixels" x="352" y="0" width="160" height="31" />
+    </frame>
+    <frame id="14841:19060" name="Row" x="112" y="183" width="512" height="31">
+      <text id="14841:19061" name="0" x="0" y="0" width="160" height="31" />
+      <text id="14841:19062" name="0rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19063" name="0px" x="352" y="0" width="160" height="31" />
+    </frame>
+    <frame id="14841:19067" name="Row" x="112" y="254" width="532" height="31">
+      <text id="14841:19068" name="1" x="0" y="0" width="160" height="31" />
+      <text id="14841:19069" name="0.25rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19070" name="4px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19071" name="View" x="528" y="0" width="4" height="31" />
+    </frame>
+    <frame id="14841:19072" name="Row" x="112" y="325" width="536" height="31">
+      <text id="14841:19073" name="2" x="0" y="0" width="160" height="31" />
+      <text id="14841:19074" name="0.5rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19075" name="8px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19076" name="View" x="528" y="0" width="8" height="31" />
+    </frame>
+    <frame id="14841:19077" name="Row" x="112" y="396" width="540" height="31">
+      <text id="14841:19078" name="3" x="0" y="0" width="160" height="31" />
+      <text id="14841:19079" name="0.75rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19080" name="12px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19081" name="View" x="528" y="0" width="12" height="31" />
+    </frame>
+    <frame id="14841:19082" name="Row" x="112" y="467" width="544" height="31">
+      <text id="14841:19083" name="4" x="0" y="0" width="160" height="31" />
+      <text id="14841:19084" name="1rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19085" name="16px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19086" name="View" x="528" y="0" width="16" height="31" />
+    </frame>
+    <frame id="14841:19087" name="Row" x="112" y="538" width="548" height="31">
+      <text id="14841:19088" name="5" x="0" y="0" width="160" height="31" />
+      <text id="14841:19089" name="1.25rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19090" name="20px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19091" name="View" x="528" y="0" width="20" height="31" />
+    </frame>
+    <frame id="14841:19092" name="Row" x="112" y="609" width="552" height="31">
+      <text id="14841:19093" name="6" x="0" y="0" width="160" height="31" />
+      <text id="14841:19094" name="1.5rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19095" name="24px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19096" name="View" x="528" y="0" width="24" height="31" />
+    </frame>
+    <frame id="14842:19339" name="Row" x="112" y="680" width="560" height="31">
+      <text id="14842:19340" name="7" x="0" y="0" width="160" height="31" />
+      <text id="14842:19341" name="2rem" x="176" y="0" width="160" height="31" />
+      <text id="14842:19342" name="32px" x="352" y="0" width="160" height="31" />
+      <frame id="14842:19343" name="View" x="528" y="0" width="32" height="31" />
+    </frame>
+    <frame id="14841:19098" name="Row" x="112" y="751" width="568" height="31">
+      <text id="14841:19099" name="8" x="0" y="0" width="160" height="31" />
+      <text id="14841:19100" name="2.5rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19101" name="40px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19102" name="View" x="528" y="0" width="40" height="31" />
+    </frame>
+    <frame id="14841:19104" name="Row" x="112" y="822" width="576" height="31">
+      <text id="14841:19105" name="9" x="0" y="0" width="160" height="31" />
+      <text id="14841:19106" name="3rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19107" name="48px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19108" name="View" x="528" y="0" width="48" height="31" />
+    </frame>
+    <frame id="14841:19109" name="Row" x="112" y="893" width="584" height="31">
+      <text id="14841:19110" name="10" x="0" y="0" width="160" height="31" />
+      <text id="14841:19111" name="3.5rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19112" name="56px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19113" name="View" x="528" y="0" width="56" height="31" />
+    </frame>
+    <frame id="14841:19115" name="Row" x="112" y="964" width="592" height="31">
+      <text id="14841:19116" name="11" x="0" y="0" width="160" height="31" />
+      <text id="14841:19117" name="4rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19118" name="64px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19119" name="View" x="528" y="0" width="64" height="31" />
+    </frame>
+    <frame id="14841:19120" name="Row" x="112" y="1035" width="608" height="31">
+      <text id="14841:19121" name="12" x="0" y="0" width="160" height="31" />
+      <text id="14841:19122" name="5rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19123" name="80px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19124" name="View" x="528" y="0" width="80" height="31" />
+    </frame>
+    <frame id="14841:19125" name="Row" x="112" y="1106" width="624" height="31">
+      <text id="14841:19126" name="13" x="0" y="0" width="160" height="31" />
+      <text id="14841:19127" name="6rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19128" name="96px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19129" name="View" x="528" y="0" width="96" height="31" />
+    </frame>
+    <frame id="14841:19131" name="Row" x="112" y="1177" width="640" height="31">
+      <text id="14841:19132" name="14" x="0" y="0" width="160" height="31" />
+      <text id="14841:19133" name="7rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19134" name="112px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19135" name="View" x="528" y="0" width="112" height="31" />
+    </frame>
+    <frame id="14841:19136" name="Row" x="112" y="1248" width="656" height="31">
+      <text id="14841:19137" name="15" x="0" y="0" width="160" height="31" />
+      <text id="14841:19138" name="8rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19139" name="128px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19140" name="View" x="528" y="0" width="128" height="31" />
+    </frame>
+    <frame id="14841:19142" name="Row" x="112" y="1319" width="672" height="31">
+      <text id="14841:19143" name="16" x="0" y="0" width="160" height="31" />
+      <text id="14841:19144" name="9rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19145" name="144px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19146" name="View" x="528" y="0" width="144" height="31" />
+    </frame>
+    <frame id="14841:19148" name="Row" x="112" y="1390" width="688" height="31">
+      <text id="14841:19149" name="17" x="0" y="0" width="160" height="31" />
+      <text id="14841:19150" name="10rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19151" name="160px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19152" name="View" x="528" y="0" width="160" height="31" />
+    </frame>
+    <frame id="14841:19154" name="Row" x="112" y="1461" width="704" height="31">
+      <text id="14841:19155" name="18" x="0" y="0" width="160" height="31" />
+      <text id="14841:19156" name="11rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19157" name="176px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19158" name="View" x="528" y="0" width="176" height="31" />
+    </frame>
+    <frame id="14842:19345" name="Row" x="112" y="1532" width="720" height="31">
+      <text id="14842:19346" name="19" x="0" y="0" width="160" height="31" />
+      <text id="14842:19347" name="12rem" x="176" y="0" width="160" height="31" />
+      <text id="14842:19348" name="192px" x="352" y="0" width="160" height="31" />
+      <frame id="14842:19349" name="View" x="528" y="0" width="192" height="31" />
+    </frame>
+    <frame id="14841:19159" name="Row" x="112" y="1603" width="736" height="31">
+      <text id="14841:19160" name="20" x="0" y="0" width="160" height="31" />
+      <text id="14841:19161" name="13rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19162" name="208px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19163" name="View" x="528" y="0" width="208" height="31" />
+    </frame>
+    <frame id="14841:19165" name="Row" x="112" y="1674" width="752" height="31">
+      <text id="14841:19166" name="21" x="0" y="0" width="160" height="31" />
+      <text id="14841:19167" name="14rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19168" name="224px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19169" name="View" x="528" y="0" width="224" height="31" />
+    </frame>
+    <frame id="14841:19170" name="Row" x="112" y="1745" width="768" height="31">
+      <text id="14841:19171" name="22" x="0" y="0" width="160" height="31" />
+      <text id="14841:19172" name="15rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19173" name="240px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19174" name="View" x="528" y="0" width="240" height="31" />
+    </frame>
+    <frame id="14841:19176" name="Row" x="112" y="1816" width="784" height="31">
+      <text id="14841:19177" name="23" x="0" y="0" width="160" height="31" />
+      <text id="14841:19178" name="16rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19179" name="256px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19180" name="View" x="528" y="0" width="256" height="31" />
+    </frame>
+    <frame id="14841:19181" name="Row" x="112" y="1887" width="816" height="31">
+      <text id="14841:19182" name="24" x="0" y="0" width="160" height="31" />
+      <text id="14841:19183" name="18rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19184" name="288px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19185" name="View" x="528" y="0" width="288" height="31" />
+    </frame>
+    <frame id="14841:19186" name="Row" x="112" y="1958" width="848" height="31">
+      <text id="14841:19187" name="25" x="0" y="0" width="160" height="31" />
+      <text id="14841:19188" name="20rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19189" name="320px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19190" name="View" x="528" y="0" width="320" height="31" />
+    </frame>
+    <frame id="14841:19191" name="Row" x="112" y="2029" width="912" height="31">
+      <text id="14841:19192" name="26" x="0" y="0" width="160" height="31" />
+      <text id="14841:19193" name="24rem" x="176" y="0" width="160" height="31" />
+      <text id="14841:19194" name="384px" x="352" y="0" width="160" height="31" />
+      <frame id="14841:19195" name="View" x="528" y="0" width="384" height="31" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

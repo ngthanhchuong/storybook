@@ -1,0 +1,74 @@
+<canvas id="3197:21106" name="↳ Avatars" x="0" y="0" width="0" height="0">
+  <frame id="14841:19196" name="Avatar" x="1097" y="962" width="1488" height="1280">
+    <frame id="14842:19359" name="Avatar" x="112" y="112" width="1264" height="1056">
+      <symbol id="14842:19354" name="Type=Square, Size=XS, Placeholder=False, Dot=False" x="96" y="96" width="24" height="24" />
+      <symbol id="14842:19460" name="Type=Square, Size=XS, Placeholder=True, Dot=False" x="96" y="576" width="24" height="24" />
+      <symbol id="14842:19397" name="Type=Circle, Size=XS, Placeholder=False, Dot=False" x="96" y="336" width="24" height="24" />
+      <symbol id="14842:19461" name="Type=Circle, Size=XS, Placeholder=True, Dot=False" x="96" y="816" width="24" height="24" />
+      <symbol id="14842:19365" name="Type=Square, Size=XS, Placeholder=False, Dot=True" x="680" y="96" width="24" height="24" />
+      <symbol id="14842:19462" name="Type=Square, Size=XS, Placeholder=True, Dot=True" x="680" y="576" width="24" height="24" />
+      <symbol id="14842:19398" name="Type=Circle, Size=XS, Placeholder=False, Dot=True" x="680" y="336" width="24" height="24" />
+      <symbol id="14842:19464" name="Type=Circle, Size=XS, Placeholder=True, Dot=True" x="680" y="816" width="24" height="24" />
+      <symbol id="14842:19355" name="Type=Square, Size=SM, Placeholder=False, Dot=False" x="160" y="96" width="32" height="32" />
+      <symbol id="14842:19466" name="Type=Square, Size=SM, Placeholder=True, Dot=False" x="160" y="576" width="32" height="32" />
+      <symbol id="14842:19400" name="Type=Circle, Size=SM, Placeholder=False, Dot=False" x="160" y="336" width="32" height="32" />
+      <symbol id="14842:19467" name="Type=Circle, Size=SM, Placeholder=True, Dot=False" x="160" y="816" width="32" height="32" />
+      <symbol id="14842:19366" name="Type=Square, Size=SM, Placeholder=False, Dot=True" x="744" y="96" width="32" height="32" />
+      <symbol id="14842:19468" name="Type=Square, Size=SM, Placeholder=True, Dot=True" x="744" y="576" width="32" height="32" />
+      <symbol id="14842:19401" name="Type=Circle, Size=SM, Placeholder=False, Dot=True" x="744" y="336" width="32" height="32" />
+      <symbol id="14842:19470" name="Type=Circle, Size=SM, Placeholder=True, Dot=True" x="744" y="816" width="32" height="32" />
+      <symbol id="14842:19356" name="Type=Square, Size=MD, Placeholder=False, Dot=False" x="232" y="96" width="48" height="48" />
+      <symbol id="14842:19472" name="Type=Square, Size=MD, Placeholder=True, Dot=False" x="232" y="576" width="48" height="48" />
+      <symbol id="14842:19403" name="Type=Circle, Size=MD, Placeholder=False, Dot=False" x="232" y="336" width="48" height="48" />
+      <symbol id="14842:19473" name="Type=Circle, Size=MD, Placeholder=True, Dot=False" x="232" y="816" width="48" height="48" />
+      <symbol id="14842:19367" name="Type=Square, Size=MD, Placeholder=False, Dot=True" x="816" y="96" width="48" height="48" />
+      <symbol id="14842:19474" name="Type=Square, Size=MD, Placeholder=True, Dot=True" x="816" y="576" width="48" height="48" />
+      <symbol id="14842:19404" name="Type=Circle, Size=MD, Placeholder=False, Dot=True" x="816" y="336" width="48" height="48" />
+      <symbol id="14842:19476" name="Type=Circle, Size=MD, Placeholder=True, Dot=True" x="816" y="816" width="48" height="48" />
+      <symbol id="14842:19357" name="Type=Square, Size=LG, Placeholder=False, Dot=False" x="320" y="96" width="80" height="80" />
+      <symbol id="14842:19478" name="Type=Square, Size=LG, Placeholder=True, Dot=False" x="320" y="576" width="80" height="80" />
+      <symbol id="14842:19406" name="Type=Circle, Size=LG, Placeholder=False, Dot=False" x="320" y="336" width="80" height="80" />
+      <symbol id="14842:19479" name="Type=Circle, Size=LG, Placeholder=True, Dot=False" x="320" y="816" width="80" height="80" />
+      <symbol id="14842:19368" name="Type=Square, Size=LG, Placeholder=False, Dot=True" x="904" y="96" width="80" height="80" />
+      <symbol id="14842:19480" name="Type=Square, Size=LG, Placeholder=True, Dot=True" x="904" y="576" width="80" height="80" />
+      <symbol id="14842:19407" name="Type=Circle, Size=LG, Placeholder=False, Dot=True" x="904" y="336" width="80" height="80" />
+      <symbol id="14842:19482" name="Type=Circle, Size=LG, Placeholder=True, Dot=True" x="904" y="816" width="80" height="80" />
+      <symbol id="14842:19358" name="Type=Square, Size=XL, Placeholder=False, Dot=False" x="440" y="96" width="144" height="144" />
+      <symbol id="14842:19484" name="Type=Square, Size=XL, Placeholder=True, Dot=False" x="440" y="576" width="144" height="144" />
+      <symbol id="14842:19409" name="Type=Circle, Size=XL, Placeholder=False, Dot=False" x="440" y="336" width="144" height="144" />
+      <symbol id="14842:19485" name="Type=Circle, Size=XL, Placeholder=True, Dot=False" x="440" y="816" width="144" height="144" />
+      <symbol id="14842:19369" name="Type=Square, Size=XL, Placeholder=False, Dot=True" x="1024" y="96" width="144" height="144" />
+      <symbol id="14842:19486" name="Type=Square, Size=XL, Placeholder=True, Dot=True" x="1024" y="576" width="144" height="144" />
+      <symbol id="14842:19410" name="Type=Circle, Size=XL, Placeholder=False, Dot=True" x="1024" y="336" width="144" height="144" />
+      <symbol id="14842:19488" name="Type=Circle, Size=XL, Placeholder=True, Dot=True" x="1024" y="816" width="144" height="144" />
+    </frame>
+  </frame>
+  <frame id="14845:19583" name="Stacked Avatars" x="2785" y="962" width="1456" height="800">
+    <frame id="14845:19582" name="Stacked Avatars" x="112" y="112" width="1232" height="576">
+      <symbol id="14845:19545" name="Type=Only Photos, Size=SM" x="96" y="96" width="72" height="24" />
+      <symbol id="14845:19686" name="Type=With Counter, Size=SM" x="96" y="336" width="72" height="24" />
+      <symbol id="14845:19556" name="Type=Only Photos, Size=MD" x="208" y="96" width="144" height="48" />
+      <symbol id="14845:19691" name="Type=With Counter, Size=MD" x="208" y="336" width="144" height="48" />
+      <symbol id="14845:19581" name="Type=Only Photos, Size=LG" x="392" y="96" width="248" height="80" />
+      <symbol id="14845:19696" name="Type=With Counter, Size=LG" x="392" y="336" width="248" height="80" />
+      <symbol id="14845:19570" name="Type=Only Photos, Size=XL" x="680" y="96" width="456" height="144" />
+      <symbol id="14845:19701" name="Type=With Counter, Size=XL" x="680" y="336" width="456" height="144" />
+    </frame>
+  </frame>
+  <frame id="14845:19710" name="Avatar + Text" x="4441" y="962" width="704" height="732">
+    <frame id="14845:19781" name="Avatar + Text" x="112" y="112" width="480" height="508">
+      <symbol id="14845:19769" name="Size=SM" x="96" y="96" width="160" height="32" />
+      <symbol id="14845:19780" name="Size=MD" x="96" y="168" width="176" height="36" />
+      <symbol id="14845:19782" name="Size=LG" x="96" y="244" width="208" height="48" />
+      <symbol id="14845:19787" name="Size=XL" x="96" y="332" width="288" height="80" />
+    </frame>
+  </frame>
+  <rounded-rectangle id="14844:19531" name="Image" x="1097" y="2742" width="1024" height="1024" />
+  <rounded-rectangle id="14845:19538" name="Image" x="2171" y="2742" width="1024" height="1024" />
+  <rounded-rectangle id="14845:19543" name="Image" x="3245" y="2742" width="1024" height="1024" />
+  <rounded-rectangle id="14845:19558" name="Image" x="6467" y="2742" width="1024" height="1024" />
+  <rounded-rectangle id="14845:19757" name="Image" x="5393" y="2742" width="1024" height="1024" />
+  <rounded-rectangle id="14845:19767" name="Image" x="4319" y="2742" width="1024" height="1024" />
+  <rounded-rectangle id="14845:19798" name="Image" x="7541" y="2742" width="1024" height="1024" />
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

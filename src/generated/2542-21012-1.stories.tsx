@@ -1,0 +1,11 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Buttons/Download App Button",args:{"Device":"iOS","Color":"White"},argTypes:{"Device":{"control":"select","options":["iOS","Android"]},"Color":{"control":"select","options":["White","Dark"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14847-2299"}},render:(args)=> <CatalogStory pageId="2542:21012" groupId="14847:2299" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+4+')',render:()=> <CatalogStory pageId="2542:21012" groupId="14847:2299" gallery/>};
+export const Variant001:Story={name:"Device=Android, Color=White",args:{"Device":"Android","Color":"White"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2299" properties={args}/>};
+export const Variant002:Story={name:"Device=iOS, Color=White",args:{"Device":"iOS","Color":"White"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2299" properties={args}/>};
+export const Variant003:Story={name:"Device=Android, Color=Dark",args:{"Device":"Android","Color":"Dark"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2299" properties={args}/>};
+export const Variant004:Story={name:"Device=iOS, Color=Dark",args:{"Device":"iOS","Color":"Dark"},render:(args)=><CatalogStory pageId="2542:21012" groupId="14847:2299" properties={args}/>};

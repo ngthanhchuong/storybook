@@ -1,0 +1,38 @@
+<canvas id="2109:197873" name="↳ Gallery" x="0" y="0" width="0" height="0">
+  <frame id="14954:13843" name="Gallery" x="-13718" y="-4279" width="5964" height="6942">
+    <rounded-rectangle id="14957:2691" name="Background" x="2982" y="112" width="2870" height="6718" />
+    <frame id="14957:2622" name="Screen" x="112" y="112" width="5740" height="6718">
+      <symbol id="14957:2621" name="Type=Simple Grid, Device=Mobile, Dark Mode=False" x="2384" y="96" width="390" height="748" />
+      <symbol id="14957:12154" name="Type=Tabs, Device=Mobile, Dark Mode=False" x="2384" y="5115" width="390" height="814" />
+      <symbol id="14957:2934" name="Type=Quad, Device=Mobile, Dark Mode=False" x="2384" y="2659" width="390" height="390" />
+      <symbol id="14957:3007" name="Type=Quad, Device=Mobile, Dark Mode=True" x="5254" y="2659" width="390" height="390" />
+      <symbol id="14957:2751" name="Type=Thumbnail, Device=Mobile, Dark Mode=False" x="2384" y="1637" width="390" height="349.6000061035156" />
+      <symbol id="14957:3046" name="Type=Carousel, Device=Mobile, Dark Mode=False" x="2384" y="4199" width="390" height="338" />
+      <symbol id="14957:3429" name="Type=Carousel, Device=Mobile, Dark Mode=True" x="5254" y="4199" width="390" height="338" />
+      <symbol id="14957:2852" name="Type=Thumbnail, Device=Mobile, Dark Mode=True" x="5254" y="1637" width="390" height="349.6000061035156" />
+      <symbol id="14957:2662" name="Type=Simple Grid, Device=Mobile, Dark Mode=True" x="5254" y="96" width="390" height="748" />
+      <symbol id="14957:12163" name="Type=Tabs, Device=Mobile, Dark Mode=True" x="5254" y="5115" width="390" height="814" />
+      <symbol id="14957:2620" name="Type=Simple Grid, Device=Tablet, Dark Mode=False" x="1576" y="96" width="768" height="768" />
+      <symbol id="14957:12172" name="Type=Tabs, Device=Tablet, Dark Mode=False" x="1576" y="5115" width="768" height="834" />
+      <symbol id="14957:2952" name="Type=Quad, Device=Tablet, Dark Mode=False" x="1576" y="2659" width="768" height="768" />
+      <symbol id="14957:3012" name="Type=Quad, Device=Tablet, Dark Mode=True" x="4446" y="2659" width="768" height="768" />
+      <symbol id="14957:2769" name="Type=Thumbnail, Device=Tablet, Dark Mode=False" x="1576" y="1637" width="768" height="688" />
+      <symbol id="14957:3054" name="Type=Carousel, Device=Tablet, Dark Mode=False" x="1576" y="4199" width="768" height="604" />
+      <symbol id="14957:3434" name="Type=Carousel, Device=Tablet, Dark Mode=True" x="4446" y="4199" width="768" height="604" />
+      <symbol id="14957:2860" name="Type=Thumbnail, Device=Tablet, Dark Mode=True" x="4446" y="1637" width="768" height="688" />
+      <symbol id="14957:2671" name="Type=Simple Grid, Device=Tablet, Dark Mode=True" x="4446" y="96" width="768" height="768" />
+      <symbol id="14957:12182" name="Type=Tabs, Device=Tablet, Dark Mode=True" x="4446" y="5115" width="768" height="834" />
+      <symbol id="14957:2619" name="Type=Simple Grid, Device=Desktop, Dark Mode=False" x="96" y="96" width="1440" height="1441" />
+      <symbol id="14957:12192" name="Type=Tabs, Device=Desktop, Dark Mode=False" x="96" y="5115" width="1440" height="1507" />
+      <symbol id="14957:2972" name="Type=Quad, Device=Desktop, Dark Mode=False" x="96" y="2659" width="1440" height="1440" />
+      <symbol id="14957:3017" name="Type=Quad, Device=Desktop, Dark Mode=True" x="2966" y="2659" width="1440" height="1440" />
+      <symbol id="14957:2789" name="Type=Thumbnail, Device=Desktop, Dark Mode=False" x="96" y="1637" width="1440" height="921.97705078125" />
+      <symbol id="14957:3062" name="Type=Carousel, Device=Desktop, Dark Mode=False" x="96" y="4199" width="1440" height="816" />
+      <symbol id="14957:3439" name="Type=Carousel, Device=Desktop, Dark Mode=True" x="2966" y="4199" width="1440" height="816" />
+      <symbol id="14957:2868" name="Type=Thumbnail, Device=Desktop, Dark Mode=True" x="2966" y="1637" width="1440" height="921.97705078125" />
+      <symbol id="14957:2681" name="Type=Simple Grid, Device=Desktop, Dark Mode=True" x="2966" y="96" width="1440" height="1441" />
+      <symbol id="14957:12202" name="Type=Tabs, Device=Desktop, Dark Mode=True" x="2966" y="5115" width="1440" height="1507" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

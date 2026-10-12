@@ -1,0 +1,27 @@
+<canvas id="3284:22719" name="↳ Tables" x="0" y="0" width="0" height="0">
+  <frame id="14975:25735" name="Tables" x="-9610" y="-2937" width="2696" height="2974">
+    <rounded-rectangle id="14975:30604" name="Background" x="1348" y="112" width="1236" height="2753" />
+    <frame id="14975:28121" name="Table" x="112" y="112" width="2472" height="2750">
+      <symbol id="14975:27280" name="Type=Default, Dark Mode=False" x="96" y="96" width="1044" height="786" />
+      <symbol id="14975:31728" name="Type=Default, Dark Mode=True" x="1332" y="96" width="1044" height="786" />
+      <symbol id="14975:29343" name="Type=Striped Columns, Dark Mode=False" x="96" y="1868" width="1044" height="786" />
+      <symbol id="14975:31891" name="Type=Striped Columns, Dark Mode=True" x="1332" y="1868" width="1044" height="786" />
+      <symbol id="14975:28122" name="Type=Striped Rows, Dark Mode=False" x="96" y="982" width="1044" height="786" />
+      <symbol id="14975:32054" name="Type=Striped Rows, Dark Mode=True" x="1332" y="982" width="1044" height="786" />
+    </frame>
+  </frame>
+  <frame id="14975:26184" name="Table Cells" x="-10767" y="-2937" width="957" height="698">
+    <rounded-rectangle id="14975:26185" name="Background" x="112" y="349" width="733" height="237" />
+    <frame id="14975:26186" name="Table Cell" x="112" y="112" width="733" height="474">
+      <symbol id="14975:26187" name="Type=Header, Dark Mode=False" x="96" y="96" width="148" height="53" />
+      <symbol id="14975:26190" name="Type=Text, Dark Mode=False" x="284" y="96" width="134" height="53" />
+      <symbol id="14975:26192" name="Type=Badge, Dark Mode=False" x="450" y="96" width="101" height="53" />
+      <symbol id="14975:26194" name="Type=Checkbox, Dark Mode=False" x="585" y="96" width="52" height="53" />
+      <symbol id="14975:26196" name="Type=Header, Dark Mode=True" x="96" y="333" width="148" height="53" />
+      <symbol id="14975:26199" name="Type=Text, Dark Mode=True" x="284" y="333" width="134" height="53" />
+      <symbol id="14975:26201" name="Type=Badge, Dark Mode=True" x="450" y="333" width="101" height="53" />
+      <symbol id="14975:26203" name="Type=Checkbox, Dark Mode=True" x="585" y="333" width="52" height="53" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

@@ -1,0 +1,64 @@
+<canvas id="3283:24168" name="↳ Badges" x="0" y="0" width="0" height="0">
+  <frame id="14851:1915" name="Badge" x="-458" y="535" width="1734" height="1062">
+    <rounded-rectangle id="14851:1916" name="Background" x="112" y="531" width="1510" height="419" />
+    <frame id="14851:2049" name="Badge" x="112" y="112" width="1510" height="838">
+      <symbol id="14851:2048" name="Type=Icons + Text, Color=Gray, Size=SM, Dark Mode=False" x="96" y="96" width="135" height="26" />
+      <symbol id="14851:2841" name="Type=Icons + Text, Color=Gray, Size=SM, Dark Mode=True" x="96" y="515" width="135" height="26" />
+      <symbol id="14851:2446" name="Type=Icon Only, Color=Gray, Size=SM, Dark Mode=False" x="96" y="231" width="26" height="26" />
+      <symbol id="14851:2845" name="Type=Icon Only, Color=Gray, Size=SM, Dark Mode=True" x="96" y="650" width="26" height="26" />
+      <symbol id="14851:2586" name="Type=Text Only, Color=Gray, Size=SM, Dark Mode=False" x="96" y="297" width="26" height="26" />
+      <symbol id="14851:2847" name="Type=Text Only, Color=Gray, Size=SM, Dark Mode=True" x="96" y="716" width="26" height="26" />
+      <symbol id="14851:2466" name="Type=Icon Only, Color=Red, Size=SM, Dark Mode=False" x="162" y="231" width="26" height="26" />
+      <symbol id="14851:2849" name="Type=Icon Only, Color=Red, Size=SM, Dark Mode=True" x="162" y="650" width="26" height="26" />
+      <symbol id="14851:2588" name="Type=Text Only, Color=Red, Size=SM, Dark Mode=False" x="162" y="297" width="26" height="26" />
+      <symbol id="14851:2851" name="Type=Text Only, Color=Red, Size=SM, Dark Mode=True" x="162" y="716" width="26" height="26" />
+      <symbol id="14851:2474" name="Type=Icon Only, Color=Blue, Size=SM, Dark Mode=False" x="228" y="231" width="26" height="26" />
+      <symbol id="14851:2853" name="Type=Icon Only, Color=Blue, Size=SM, Dark Mode=True" x="228" y="650" width="26" height="26" />
+      <symbol id="14851:2590" name="Type=Text Only, Color=Blue, Size=SM, Dark Mode=False" x="228" y="297" width="26" height="26" />
+      <symbol id="14851:2855" name="Type=Text Only, Color=Blue, Size=SM, Dark Mode=True" x="228" y="716" width="26" height="26" />
+      <symbol id="14851:2482" name="Type=Icon Only, Color=Green, Size=SM, Dark Mode=False" x="294" y="231" width="26" height="26" />
+      <symbol id="14851:2857" name="Type=Icon Only, Color=Green, Size=SM, Dark Mode=True" x="294" y="650" width="26" height="26" />
+      <symbol id="14851:2592" name="Type=Text Only, Color=Green, Size=SM, Dark Mode=False" x="294" y="297" width="26" height="26" />
+      <symbol id="14851:2859" name="Type=Text Only, Color=Green, Size=SM, Dark Mode=True" x="294" y="716" width="26" height="26" />
+      <symbol id="14851:2490" name="Type=Icon Only, Color=Yellow, Size=SM, Dark Mode=False" x="360" y="231" width="26" height="26" />
+      <symbol id="14851:2861" name="Type=Icon Only, Color=Yellow, Size=SM, Dark Mode=True" x="360" y="650" width="26" height="26" />
+      <symbol id="14851:2594" name="Type=Text Only, Color=Yellow, Size=SM, Dark Mode=False" x="360" y="297" width="26" height="26" />
+      <symbol id="14851:2863" name="Type=Text Only, Color=Yellow, Size=SM, Dark Mode=True" x="360" y="716" width="26" height="26" />
+      <symbol id="14851:2498" name="Type=Icon Only, Color=Purple, Size=SM, Dark Mode=False" x="426" y="231" width="26" height="26" />
+      <symbol id="14851:2865" name="Type=Icon Only, Color=Purple, Size=SM, Dark Mode=True" x="426" y="650" width="26" height="26" />
+      <symbol id="14851:2596" name="Type=Text Only, Color=Purple, Size=SM, Dark Mode=False" x="426" y="297" width="26" height="26" />
+      <symbol id="14851:2867" name="Type=Text Only, Color=Purple, Size=SM, Dark Mode=True" x="426" y="716" width="26" height="26" />
+      <symbol id="14851:2506" name="Type=Icon Only, Color=Pink, Size=SM, Dark Mode=False" x="492" y="231" width="26" height="26" />
+      <symbol id="14851:2869" name="Type=Icon Only, Color=Pink, Size=SM, Dark Mode=True" x="492" y="650" width="26" height="26" />
+      <symbol id="14851:2598" name="Type=Text Only, Color=Pink, Size=SM, Dark Mode=False" x="492" y="297" width="26" height="26" />
+      <symbol id="14851:2871" name="Type=Text Only, Color=Pink, Size=SM, Dark Mode=True" x="492" y="716" width="26" height="26" />
+      <symbol id="14851:2359" name="Type=Icons + Text, Color=Gray, Size=MD, Dark Mode=False" x="96" y="162" width="162" height="29" />
+      <symbol id="14851:2873" name="Type=Icons + Text, Color=Gray, Size=MD, Dark Mode=True" x="96" y="581" width="162" height="29" />
+      <symbol id="14851:2050" name="Type=Icons + Text, Color=Red, Size=SM, Dark Mode=False" x="264" y="96" width="135" height="26" />
+      <symbol id="14851:2877" name="Type=Icons + Text, Color=Red, Size=SM, Dark Mode=True" x="264" y="515" width="135" height="26" />
+      <symbol id="14851:2363" name="Type=Icons + Text, Color=Red, Size=MD, Dark Mode=False" x="290" y="162" width="162" height="29" />
+      <symbol id="14851:2881" name="Type=Icons + Text, Color=Red, Size=MD, Dark Mode=True" x="290" y="581" width="162" height="29" />
+      <symbol id="14851:2221" name="Type=Icons + Text, Color=Blue, Size=SM, Dark Mode=False" x="432" y="96" width="135" height="26" />
+      <symbol id="14851:2885" name="Type=Icons + Text, Color=Blue, Size=SM, Dark Mode=True" x="432" y="515" width="135" height="26" />
+      <symbol id="14851:2367" name="Type=Icons + Text, Color=Blue, Size=MD, Dark Mode=False" x="484" y="162" width="162" height="29" />
+      <symbol id="14851:2889" name="Type=Icons + Text, Color=Blue, Size=MD, Dark Mode=True" x="484" y="581" width="162" height="29" />
+      <symbol id="14851:2229" name="Type=Icons + Text, Color=Green, Size=SM, Dark Mode=False" x="600" y="96" width="135" height="26" />
+      <symbol id="14851:2893" name="Type=Icons + Text, Color=Green, Size=SM, Dark Mode=True" x="600" y="515" width="135" height="26" />
+      <symbol id="14851:2371" name="Type=Icons + Text, Color=Green, Size=MD, Dark Mode=False" x="678" y="162" width="162" height="29" />
+      <symbol id="14851:2897" name="Type=Icons + Text, Color=Green, Size=MD, Dark Mode=True" x="678" y="581" width="162" height="29" />
+      <symbol id="14851:2279" name="Type=Icons + Text, Color=Yellow, Size=SM, Dark Mode=False" x="768" y="96" width="135" height="26" />
+      <symbol id="14851:2901" name="Type=Icons + Text, Color=Yellow, Size=SM, Dark Mode=True" x="768" y="515" width="135" height="26" />
+      <symbol id="14851:2375" name="Type=Icons + Text, Color=Yellow, Size=MD, Dark Mode=False" x="872" y="162" width="162" height="29" />
+      <symbol id="14851:2905" name="Type=Icons + Text, Color=Yellow, Size=MD, Dark Mode=True" x="872" y="581" width="162" height="29" />
+      <symbol id="14851:2287" name="Type=Icons + Text, Color=Purple, Size=SM, Dark Mode=False" x="936" y="96" width="135" height="26" />
+      <symbol id="14851:2909" name="Type=Icons + Text, Color=Purple, Size=SM, Dark Mode=True" x="936" y="515" width="135" height="26" />
+      <symbol id="14851:2379" name="Type=Icons + Text, Color=Purple, Size=MD, Dark Mode=False" x="1066" y="162" width="162" height="29" />
+      <symbol id="14851:2913" name="Type=Icons + Text, Color=Purple, Size=MD, Dark Mode=True" x="1066" y="581" width="162" height="29" />
+      <symbol id="14851:2295" name="Type=Icons + Text, Color=Pink, Size=SM, Dark Mode=False" x="1104" y="96" width="135" height="26" />
+      <symbol id="14851:2917" name="Type=Icons + Text, Color=Pink, Size=SM, Dark Mode=True" x="1104" y="515" width="135" height="26" />
+      <symbol id="14851:2383" name="Type=Icons + Text, Color=Pink, Size=MD, Dark Mode=False" x="1260" y="162" width="162" height="29" />
+      <symbol id="14851:2921" name="Type=Icons + Text, Color=Pink, Size=MD, Dark Mode=True" x="1260" y="581" width="162" height="29" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

@@ -1,0 +1,76 @@
+<canvas id="3284:23179" name="↳ Modals" x="0" y="0" width="0" height="0">
+  <frame id="14960:5307" name="Modals" x="-8636" y="-1314" width="2332" height="1830">
+    <rounded-rectangle id="14960:9371" name="Background" x="1166" y="112" width="1054" height="1606" />
+    <frame id="14960:8914" name="Modal" x="112" y="112" width="2108" height="1606">
+      <symbol id="14960:8896" name="Type=Default, Mobile=False, Dark Mode=False" x="96" y="96" width="480" height="296" />
+      <symbol id="14960:9565" name="Type=Default, Mobile=False, Dark Mode=True" x="1150" y="96" width="480" height="296" />
+      <symbol id="14960:8955" name="Type=Form, Mobile=False, Dark Mode=False" x="96" y="471" width="480" height="389" />
+      <symbol id="14960:9575" name="Type=Form, Mobile=False, Dark Mode=True" x="1150" y="471" width="480" height="389" />
+      <symbol id="14960:9163" name="Type=Multiple Buttons, Mobile=False, Dark Mode=False" x="96" y="960" width="480" height="550" />
+      <symbol id="14960:9585" name="Type=Multiple Buttons, Mobile=False, Dark Mode=True" x="1150" y="960" width="480" height="550" />
+      <symbol id="14960:8905" name="Type=Default, Mobile=True, Dark Mode=False" x="616" y="96" width="342" height="243" />
+      <symbol id="14960:9614" name="Type=Default, Mobile=True, Dark Mode=True" x="1670" y="96" width="342" height="243" />
+      <symbol id="14960:8965" name="Type=Form, Mobile=True, Dark Mode=False" x="616" y="471" width="342" height="357" />
+      <symbol id="14960:9624" name="Type=Form, Mobile=True, Dark Mode=True" x="1670" y="471" width="342" height="357" />
+      <symbol id="14960:9174" name="Type=Multiple Buttons, Mobile=True, Dark Mode=False" x="616" y="960" width="342" height="539" />
+      <symbol id="14960:9634" name="Type=Multiple Buttons, Mobile=True, Dark Mode=True" x="1670" y="960" width="342" height="539" />
+    </frame>
+  </frame>
+  <frame id="14960:11012" name="Examples" x="-6104" y="-1314" width="6124" height="3656">
+    <frame id="14960:11013" name="Screen" x="2512" y="112" width="390" height="844">
+      <instance id="14960:11574" name="Modal" x="24" y="300" width="342" height="243" />
+    </frame>
+    <frame id="14960:11520" name="Screen" x="2512" y="1288" width="390" height="844">
+      <instance id="14960:11804" name="Modal" x="24" y="244" width="342" height="357" />
+    </frame>
+    <frame id="14960:11526" name="Screen" x="2512" y="2464" width="390" height="844">
+      <instance id="14960:12129" name="Modal" x="24" y="152.5" width="342" height="539" />
+    </frame>
+    <frame id="14960:11015" name="Screen" x="5622" y="112" width="390" height="844">
+      <instance id="14960:11614" name="Modal" x="24" y="300" width="342" height="243" />
+    </frame>
+    <frame id="14960:11521" name="Screen" x="5622" y="1288" width="390" height="844">
+      <instance id="14960:11975" name="Modal" x="24" y="244" width="342" height="357" />
+    </frame>
+    <frame id="14960:11527" name="Screen" x="5622" y="2464" width="390" height="844">
+      <instance id="14960:12213" name="Modal" x="24" y="152.5" width="342" height="539" />
+    </frame>
+    <frame id="14960:11033" name="Screen" x="1648" y="112" width="768" height="1024">
+      <instance id="14960:11553" name="Modal" x="144" y="363.5" width="480" height="296" />
+    </frame>
+    <frame id="14960:11522" name="Screen" x="1648" y="1288" width="768" height="1024">
+      <instance id="14960:11769" name="Modal" x="144" y="318" width="480" height="389" />
+    </frame>
+    <frame id="14960:11528" name="Screen" x="1648" y="2464" width="768" height="1024">
+      <instance id="14960:12086" name="Modal" x="144" y="237" width="480" height="550" />
+    </frame>
+    <frame id="14960:11035" name="Screen" x="4758" y="112" width="768" height="1024">
+      <instance id="14960:11713" name="Modal" x="144" y="363.5" width="480" height="296" />
+    </frame>
+    <frame id="14960:11523" name="Screen" x="4758" y="1288" width="768" height="1024">
+      <instance id="14960:11940" name="Modal" x="144" y="318" width="480" height="389" />
+    </frame>
+    <frame id="14960:11529" name="Screen" x="4758" y="2464" width="768" height="1024">
+      <instance id="14960:12381" name="Modal" x="144" y="237" width="480" height="550" />
+    </frame>
+    <frame id="14960:11053" name="Screen" x="112" y="112" width="1440" height="1080">
+      <instance id="14960:11532" name="Modal" x="480" y="391.5" width="480" height="296" />
+    </frame>
+    <frame id="14960:11524" name="Screen" x="112" y="1288" width="1440" height="1080">
+      <instance id="14960:11734" name="Modal" x="480" y="346" width="480" height="389" />
+    </frame>
+    <frame id="14960:11530" name="Screen" x="112" y="2464" width="1440" height="1080">
+      <instance id="14960:12043" name="Modal" x="480" y="265" width="480" height="550" />
+    </frame>
+    <frame id="14960:11055" name="Screen" x="3222" y="112" width="1440" height="1080">
+      <instance id="14960:11673" name="Modal" x="480" y="391.5" width="480" height="296" />
+    </frame>
+    <frame id="14960:11525" name="Screen" x="3222" y="1288" width="1440" height="1080">
+      <instance id="14960:11872" name="Modal" x="480" y="346" width="480" height="389" />
+    </frame>
+    <frame id="14960:11531" name="Screen" x="3222" y="2464" width="1440" height="1080">
+      <instance id="14960:12297" name="Modal" x="480" y="265" width="480" height="550" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

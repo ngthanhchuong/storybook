@@ -1,0 +1,30 @@
+[
+  {
+    "page": "Banners",
+    "screens": 1
+  },
+  {
+    "page": "Drawer",
+    "screens": 1
+  },
+  {
+    "page": "Chat Bubble",
+    "screens": 1
+  },
+  {
+    "page": "Modals",
+    "screens": 1
+  },
+  {
+    "page": "Navbar",
+    "screens": 1
+  },
+  {
+    "page": "Speed Dial",
+    "screens": 1
+  },
+  {
+    "page": "Toasts",
+    "screens": 1
+  }
+]

@@ -1,0 +1,125 @@
+<canvas id="3210:20952" name="↳ Layout Grid" x="0" y="0" width="0" height="0">
+  <frame id="14841:10816" name="Pages Container" x="-6778" y="11457" width="6150" height="1375">
+    <frame id="14841:10980" name="Container" x="112" y="112" width="390" height="915">
+      <text id="14841:10984" name="Mobile (390px)" x="0" y="0" width="390" height="31" />
+      <frame id="14841:10982" name="Screen" x="0" y="71" width="390" height="844" />
+    </frame>
+    <frame id="14841:10989" name="Container" x="598" y="112" width="768" height="1095">
+      <text id="14841:10990" name="Tablet (768px)" x="0" y="0" width="768" height="31" />
+      <frame id="14841:10991" name="Screen" x="0" y="71" width="768" height="1024" />
+    </frame>
+    <frame id="14841:10992" name="Container" x="1462" y="112" width="1024" height="1151">
+      <text id="14841:10993" name="Desktop (1024px)" x="0" y="0" width="1024" height="31" />
+      <frame id="14841:10994" name="Screen" x="0" y="71" width="1024" height="1080" />
+    </frame>
+    <frame id="14841:10995" name="Container" x="2582" y="112" width="1440" height="1151">
+      <text id="14841:10996" name="Desktop (1440px)" x="0" y="0" width="1440" height="31" />
+      <frame id="14841:10997" name="Screen" x="0" y="71" width="1440" height="1080" />
+    </frame>
+    <frame id="14841:10998" name="Container" x="4118" y="112" width="1920" height="1151">
+      <text id="14841:10999" name="Desktop (1920px)" x="0" y="0" width="1920" height="31" />
+      <frame id="14841:11000" name="Screen" x="0" y="71" width="1920" height="1080" />
+    </frame>
+  </frame>
+  <frame id="14841:11001" name="Grid Examples" x="-6778" y="13832" width="6150" height="1480">
+    <frame id="14841:11002" name="Container" x="112" y="112" width="390" height="1020">
+      <frame id="14841:11030" name="Header" x="0" y="0" width="390" height="136">
+        <text id="14841:11003" name="Mobile (390px)" x="0" y="0" width="390" height="31" />
+        <text id="14841:11029" name="Columns: 4 Margin: 24px Gutter: 16px" x="0" y="43" width="390" height="93" />
+      </frame>
+      <frame id="14841:11004" name="Screen" x="0" y="176" width="390" height="844">
+        <frame id="14841:11017" name="Grid" x="24" y="1" width="74" height="843" />
+        <frame id="14841:11018" name="Grid" x="114" y="1" width="73" height="843" />
+        <frame id="14841:11019" name="Grid" x="203" y="1" width="74" height="843" />
+        <frame id="14841:11020" name="Grid" x="293" y="1" width="73" height="843" />
+      </frame>
+    </frame>
+    <frame id="14841:11005" name="Container" x="598" y="112" width="768" height="1200">
+      <frame id="14841:11031" name="Header" x="0" y="0" width="768" height="136">
+        <text id="14841:11032" name="Tablet (768px)" x="0" y="0" width="768" height="31" />
+        <text id="14841:11033" name="Columns: 6 Margin: 32px Gutter: 16px" x="0" y="43" width="768" height="93" />
+      </frame>
+      <frame id="14841:11007" name="Screen" x="0" y="176" width="768" height="1024">
+        <frame id="14841:11022" name="Grid" x="32" y="1" width="104" height="1023" />
+        <frame id="14841:11024" name="Grid" x="152" y="1" width="104" height="1023" />
+        <frame id="14841:11025" name="Grid" x="272" y="1" width="104" height="1023" />
+        <frame id="14841:11026" name="Grid" x="392" y="1" width="104" height="1023" />
+        <frame id="14841:11027" name="Grid" x="512" y="1" width="104" height="1023" />
+        <frame id="14841:11028" name="Grid" x="632" y="1" width="104" height="1023" />
+      </frame>
+    </frame>
+    <frame id="14841:11008" name="Container" x="1462" y="112" width="1024" height="1256">
+      <frame id="14841:11035" name="Header" x="0" y="0" width="1024" height="136">
+        <text id="14841:11036" name="Desktop (1024px)" x="0" y="0" width="1024" height="31" />
+        <text id="14841:11037" name="Columns: 12 Margin: 56px Gutter: 16px" x="0" y="43" width="1024" height="93" />
+      </frame>
+      <frame id="14841:11010" name="Screen" x="0" y="176" width="1024" height="1080">
+        <frame id="14841:11043" name="Grid" x="56" y="0" width="61" height="1080" />
+        <frame id="14841:11045" name="Grid" x="133" y="0" width="62" height="1080" />
+        <frame id="14841:11046" name="Grid" x="211" y="0" width="61" height="1080" />
+        <frame id="14841:11047" name="Grid" x="288" y="0" width="61" height="1080" />
+        <frame id="14841:11048" name="Grid" x="365" y="0" width="62" height="1080" />
+        <frame id="14841:11049" name="Grid" x="443" y="0" width="61" height="1080" />
+        <frame id="14841:11050" name="Grid" x="520" y="0" width="61" height="1080" />
+        <frame id="14841:11051" name="Grid" x="597" y="0" width="62" height="1080" />
+        <frame id="14841:11052" name="Grid" x="675" y="0" width="61" height="1080" />
+        <frame id="14841:11053" name="Grid" x="752" y="0" width="61" height="1080" />
+        <frame id="14841:11054" name="Grid" x="829" y="0" width="62" height="1080" />
+        <frame id="14841:11055" name="Grid" x="907" y="0" width="61" height="1080" />
+      </frame>
+    </frame>
+    <frame id="14841:11011" name="Container" x="2582" y="112" width="1440" height="1256">
+      <frame id="14841:11057" name="Header" x="0" y="0" width="1440" height="136">
+        <text id="14841:11058" name="Desktop (1440px)" x="0" y="0" width="1440" height="31" />
+        <text id="14841:11059" name="Columns: 12 Margin: 96px Gutter: 20px" x="0" y="43" width="1440" height="93" />
+      </frame>
+      <frame id="14841:11013" name="Screen" x="0" y="176" width="1440" height="1080">
+        <frame id="14841:11067" name="Grid" x="96" y="0" width="86" height="1080" />
+        <frame id="14841:11069" name="Grid" x="202" y="0" width="85" height="1080" />
+        <frame id="14841:11070" name="Grid" x="307" y="0" width="86" height="1080" />
+        <frame id="14841:11071" name="Grid" x="413" y="0" width="86" height="1080" />
+        <frame id="14841:11072" name="Grid" x="519" y="0" width="85" height="1080" />
+        <frame id="14841:11073" name="Grid" x="624" y="0" width="86" height="1080" />
+        <frame id="14841:11074" name="Grid" x="730" y="0" width="86" height="1080" />
+        <frame id="14841:11075" name="Grid" x="836" y="0" width="85" height="1080" />
+        <frame id="14841:11076" name="Grid" x="941" y="0" width="86" height="1080" />
+        <frame id="14841:11077" name="Grid" x="1047" y="0" width="86" height="1080" />
+        <frame id="14841:11078" name="Grid" x="1153" y="0" width="85" height="1080" />
+        <frame id="14841:11079" name="Grid" x="1258" y="0" width="86" height="1080" />
+      </frame>
+    </frame>
+    <frame id="14841:11014" name="Container" x="4118" y="112" width="1920" height="1256">
+      <frame id="14841:11081" name="Header" x="0" y="0" width="1920" height="136">
+        <text id="14841:11082" name="Desktop (1920px)" x="0" y="0" width="1920" height="31" />
+        <text id="14841:11083" name="Columns: 24 Margin: 96px Gutter: 20px" x="0" y="43" width="1920" height="93" />
+      </frame>
+      <frame id="14841:11016" name="Screen" x="0" y="176" width="1920" height="1080">
+        <frame id="14841:11085" name="Grid" x="96" y="0" width="53" height="1080" />
+        <frame id="14841:11087" name="Grid" x="169" y="0" width="53" height="1080" />
+        <frame id="14841:11088" name="Grid" x="242" y="0" width="52" height="1080" />
+        <frame id="14841:11089" name="Grid" x="314" y="0" width="53" height="1080" />
+        <frame id="14841:11090" name="Grid" x="387" y="0" width="53" height="1080" />
+        <frame id="14841:11091" name="Grid" x="460" y="0" width="53" height="1080" />
+        <frame id="14841:11092" name="Grid" x="533" y="0" width="53" height="1080" />
+        <frame id="14841:11093" name="Grid" x="606" y="0" width="53" height="1080" />
+        <frame id="14841:11094" name="Grid" x="679" y="0" width="52" height="1080" />
+        <frame id="14841:11095" name="Grid" x="751" y="0" width="53" height="1080" />
+        <frame id="14841:11096" name="Grid" x="824" y="0" width="53" height="1080" />
+        <frame id="14841:11097" name="Grid" x="897" y="0" width="53" height="1080" />
+        <frame id="14841:11098" name="Grid" x="970" y="0" width="53" height="1080" />
+        <frame id="14841:11099" name="Grid" x="1043" y="0" width="53" height="1080" />
+        <frame id="14841:11100" name="Grid" x="1116" y="0" width="53" height="1080" />
+        <frame id="14841:11101" name="Grid" x="1189" y="0" width="52" height="1080" />
+        <frame id="14841:11102" name="Grid" x="1261" y="0" width="53" height="1080" />
+        <frame id="14841:11103" name="Grid" x="1334" y="0" width="53" height="1080" />
+        <frame id="14841:11104" name="Grid" x="1407" y="0" width="53" height="1080" />
+        <frame id="14841:11105" name="Grid" x="1480" y="0" width="53" height="1080" />
+        <frame id="14841:11106" name="Grid" x="1553" y="0" width="52" height="1080" />
+        <frame id="14841:11107" name="Grid" x="1625" y="0" width="53" height="1080" />
+        <frame id="14841:11109" name="Grid" x="1698" y="0" width="53" height="1080" />
+        <frame id="14841:11110" name="Grid" x="1771" y="0" width="53" height="1080" />
+      </frame>
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

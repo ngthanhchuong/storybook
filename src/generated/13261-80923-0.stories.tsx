@@ -1,0 +1,15 @@
+import { CatalogStory } from '../Scene';
+import type { Meta,StoryObj } from '@storybook/react-vite';
+const meta:Meta<Record<string,string>>={title:"Components/Drawer/Drawer",args:{"Type":"Menu","Dark Mode":"False"},argTypes:{"Type":{"control":"select","options":["Menu","Info","Contact Form","Event Booking"]},"Dark Mode":{"control":"select","options":["False","True"]}},parameters:{figma:{url:"https://www.figma.com/design/NwDM80FJMLnVdHk5sUwUdQ?node-id=14941-16026"}},render:(args)=> <CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Playground:Story={};
+export const AllVariants:Story={name:'All variants ('+8+')',render:()=> <CatalogStory pageId="13261:80923" groupId="14941:16026" gallery/>};
+export const Variant001:Story={name:"Type=Menu, Dark Mode=False",args:{"Type":"Menu","Dark Mode":"False"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant002:Story={name:"Type=Info, Dark Mode=False",args:{"Type":"Info","Dark Mode":"False"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant003:Story={name:"Type=Contact Form, Dark Mode=False",args:{"Type":"Contact Form","Dark Mode":"False"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant004:Story={name:"Type=Event Booking, Dark Mode=False",args:{"Type":"Event Booking","Dark Mode":"False"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant005:Story={name:"Type=Menu, Dark Mode=True",args:{"Type":"Menu","Dark Mode":"True"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant006:Story={name:"Type=Info, Dark Mode=True",args:{"Type":"Info","Dark Mode":"True"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant007:Story={name:"Type=Contact Form, Dark Mode=True",args:{"Type":"Contact Form","Dark Mode":"True"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};
+export const Variant008:Story={name:"Type=Event Booking, Dark Mode=True",args:{"Type":"Event Booking","Dark Mode":"True"},render:(args)=><CatalogStory pageId="13261:80923" groupId="14941:16026" properties={args}/>};

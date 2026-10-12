@@ -1,0 +1,753 @@
+<canvas id="3210:20947" name="↳ Icons" x="0" y="0" width="0" height="0">
+  <frame id="14845:22548" name="Flags" x="-505" y="3230" width="1000" height="1264">
+    <symbol id="267:608" name="flags / AF" x="112" y="112" width="28" height="20" />
+    <symbol id="267:618" name="flags / AL" x="180" y="112" width="28" height="20" />
+    <symbol id="267:623" name="flags / AE" x="248" y="112" width="28" height="20" />
+    <symbol id="267:629" name="flags / AD" x="316" y="112" width="28" height="20" />
+    <symbol id="267:638" name="flags / AO" x="384" y="112" width="28" height="20" />
+    <symbol id="267:648" name="flags / AG" x="452" y="112" width="28" height="20" />
+    <symbol id="267:658" name="flags / AR" x="520" y="112" width="28" height="20" />
+    <symbol id="267:664" name="flags / AM" x="588" y="112" width="28" height="20" />
+    <symbol id="267:670" name="flags / AU" x="656" y="112" width="28" height="20" />
+    <symbol id="267:683" name="flags / AT" x="724" y="112" width="28" height="20" />
+    <symbol id="267:688" name="flags / AZ" x="792" y="112" width="28" height="20" />
+    <symbol id="267:699" name="flags / AX" x="860" y="112" width="28" height="20" />
+    <symbol id="267:705" name="flags / AI" x="112" y="172" width="28" height="20" />
+    <symbol id="267:720" name="flags / BS" x="180" y="172" width="28" height="20" />
+    <symbol id="267:727" name="flags / BD" x="248" y="172" width="28" height="20" />
+    <symbol id="267:732" name="flags / BB" x="316" y="172" width="28" height="20" />
+    <symbol id="267:740" name="flags / BI" x="384" y="172" width="28" height="20" />
+    <symbol id="267:754" name="flags / BE" x="452" y="172" width="28" height="20" />
+    <symbol id="267:760" name="flags / BJ" x="520" y="172" width="28" height="20" />
+    <symbol id="267:766" name="flags / BT" x="588" y="172" width="28" height="20" />
+    <symbol id="267:771" name="flags / BA" x="656" y="172" width="28" height="20" />
+    <symbol id="267:781" name="flags / BZ" x="724" y="172" width="28" height="20" />
+    <symbol id="267:789" name="flags / BY" x="792" y="172" width="28" height="20" />
+    <symbol id="267:811" name="flags / BO" x="860" y="172" width="28" height="20" />
+    <symbol id="267:817" name="flags / BW" x="112" y="232" width="28" height="20" />
+    <symbol id="267:824" name="flags / BR" x="180" y="232" width="28" height="20" />
+    <symbol id="267:833" name="flags / BH" x="248" y="232" width="28" height="20" />
+    <symbol id="267:839" name="flags / BN" x="316" y="232" width="28" height="20" />
+    <symbol id="267:846" name="flags / BG" x="384" y="232" width="28" height="20" />
+    <symbol id="267:851" name="flags / BF" x="452" y="232" width="28" height="20" />
+    <symbol id="267:857" name="flags / BM" x="520" y="232" width="28" height="20" />
+    <symbol id="267:874" name="flags / CF" x="588" y="232" width="28" height="20" />
+    <symbol id="267:882" name="flags / CA" x="656" y="232" width="28" height="20" />
+    <symbol id="267:888" name="flags / CG" x="724" y="232" width="28" height="20" />
+    <symbol id="267:894" name="flags / CH" x="792" y="232" width="28" height="20" />
+    <symbol id="267:899" name="flags / CL" x="860" y="232" width="28" height="20" />
+    <symbol id="267:905" name="flags / CN" x="112" y="292" width="28" height="20" />
+    <symbol id="267:915" name="flags / CI" x="180" y="292" width="28" height="20" />
+    <symbol id="267:920" name="flags / CM" x="248" y="292" width="28" height="20" />
+    <symbol id="267:928" name="flags / CD" x="316" y="292" width="28" height="20" />
+    <symbol id="267:935" name="flags / CO" x="384" y="292" width="28" height="20" />
+    <symbol id="267:941" name="flags / KM" x="452" y="292" width="28" height="20" />
+    <symbol id="267:955" name="flags / CV" x="520" y="292" width="28" height="20" />
+    <symbol id="267:963" name="flags / CR" x="588" y="292" width="28" height="20" />
+    <symbol id="267:969" name="flags / CU" x="656" y="292" width="28" height="20" />
+    <symbol id="267:977" name="flags / CY" x="724" y="292" width="28" height="20" />
+    <symbol id="267:984" name="flags / CZ" x="792" y="292" width="28" height="20" />
+    <symbol id="267:989" name="flags / DK" x="860" y="292" width="28" height="20" />
+    <symbol id="267:995" name="flags / DJ" x="112" y="352" width="28" height="20" />
+    <symbol id="267:1002" name="flags / DM" x="180" y="352" width="28" height="20" />
+    <symbol id="267:1019" name="flags / DO" x="248" y="352" width="28" height="20" />
+    <symbol id="267:1028" name="flags / DZ" x="316" y="352" width="28" height="20" />
+    <symbol id="267:1036" name="flags / DE" x="384" y="352" width="28" height="20" />
+    <symbol id="267:1042" name="flags / EC" x="452" y="352" width="28" height="20" />
+    <symbol id="267:1053" name="flags / EG" x="520" y="352" width="28" height="20" />
+    <symbol id="267:1059" name="flags / ER" x="588" y="352" width="28" height="20" />
+    <symbol id="267:1073" name="flags / SV" x="656" y="352" width="28" height="20" />
+    <symbol id="267:1082" name="flags / ES" x="724" y="352" width="28" height="20" />
+    <symbol id="267:1094" name="flags / EE" x="792" y="352" width="28" height="20" />
+    <symbol id="267:1099" name="flags / ET" x="860" y="352" width="28" height="20" />
+    <symbol id="267:1107" name="flags / FJ" x="112" y="412" width="28" height="20" />
+    <symbol id="267:1122" name="flags / FI" x="180" y="412" width="28" height="20" />
+    <symbol id="267:1126" name="flags / FR" x="248" y="412" width="28" height="20" />
+    <symbol id="267:1131" name="flags / FM" x="316" y="412" width="28" height="20" />
+    <symbol id="267:1140" name="flags / GA" x="384" y="412" width="28" height="20" />
+    <symbol id="267:1146" name="flags / GM" x="452" y="412" width="28" height="20" />
+    <symbol id="267:1153" name="flags / GB" x="520" y="412" width="28" height="20" />
+    <symbol id="267:1166" name="flags / GW" x="588" y="412" width="28" height="20" />
+    <symbol id="267:1173" name="flags / GE" x="656" y="412" width="28" height="20" />
+    <symbol id="267:1191" name="flags / GQ" x="724" y="412" width="28" height="20" />
+    <symbol id="267:1198" name="flags / GH" x="792" y="412" width="28" height="20" />
+    <symbol id="267:1205" name="flags / GR" x="860" y="412" width="28" height="20" />
+    <symbol id="267:1217" name="flags / GT" x="112" y="472" width="28" height="20" />
+    <symbol id="267:1226" name="flags / GN" x="180" y="472" width="28" height="20" />
+    <symbol id="267:1232" name="flags / GD" x="248" y="472" width="28" height="20" />
+    <symbol id="267:1245" name="flags / GY" x="316" y="472" width="28" height="20" />
+    <symbol id="267:1251" name="flags / GG" x="384" y="472" width="28" height="20" />
+    <symbol id="267:1263" name="flags / GI" x="452" y="472" width="28" height="20" />
+    <symbol id="267:1278" name="flags / HT" x="520" y="472" width="28" height="20" />
+    <symbol id="267:1290" name="flags / HR" x="588" y="472" width="28" height="20" />
+    <symbol id="267:1318" name="flags / HN" x="656" y="472" width="28" height="20" />
+    <symbol id="267:1328" name="flags / HU" x="724" y="472" width="28" height="20" />
+    <symbol id="267:1333" name="flags / HK" x="792" y="472" width="28" height="20" />
+    <symbol id="267:1356" name="flags / IL" x="860" y="472" width="28" height="20" />
+    <symbol id="267:1363" name="flags / IT" x="112" y="532" width="28" height="20" />
+    <symbol id="267:1368" name="flags / ID" x="180" y="532" width="28" height="20" />
+    <symbol id="267:1372" name="flags / IN" x="248" y="532" width="28" height="20" />
+    <symbol id="267:1379" name="flags / IR" x="316" y="532" width="28" height="20" />
+    <symbol id="267:1407" name="flags / IE" x="384" y="532" width="28" height="20" />
+    <symbol id="267:1412" name="flags / IQ" x="452" y="532" width="28" height="20" />
+    <symbol id="267:1422" name="flags / IS" x="520" y="532" width="28" height="20" />
+    <symbol id="267:1428" name="flags / JM" x="588" y="532" width="28" height="20" />
+    <symbol id="267:1437" name="flags / JO" x="656" y="532" width="28" height="20" />
+    <symbol id="267:1444" name="flags / JP" x="724" y="532" width="28" height="20" />
+    <symbol id="267:1448" name="flags / KH" x="792" y="532" width="28" height="20" />
+    <symbol id="267:1461" name="flags / KW" x="860" y="532" width="28" height="20" />
+    <symbol id="267:1467" name="flags / KZ" x="112" y="592" width="28" height="20" />
+    <symbol id="267:1489" name="flags / KE" x="180" y="592" width="28" height="20" />
+    <symbol id="267:1505" name="flags / KG" x="248" y="592" width="28" height="20" />
+    <symbol id="267:1513" name="flags / KR" x="316" y="592" width="28" height="20" />
+    <symbol id="267:1529" name="flags / SA" x="384" y="592" width="28" height="20" />
+    <symbol id="267:1537" name="flags / KP" x="452" y="592" width="28" height="20" />
+    <symbol id="267:1547" name="flags / KN" x="520" y="592" width="28" height="20" />
+    <symbol id="267:1556" name="flags / KY" x="588" y="592" width="28" height="20" />
+    <symbol id="267:1572" name="flags / LU" x="656" y="592" width="28" height="20" />
+    <symbol id="267:1577" name="flags / LA" x="724" y="592" width="28" height="20" />
+    <symbol id="267:1584" name="flags / LV" x="792" y="592" width="28" height="20" />
+    <symbol id="267:1589" name="flags / LY" x="860" y="592" width="28" height="20" />
+    <symbol id="267:1600" name="flags / LR" x="112" y="652" width="28" height="20" />
+    <symbol id="267:1610" name="flags / LC" x="180" y="652" width="28" height="20" />
+    <symbol id="267:1617" name="flags / LS" x="248" y="652" width="28" height="20" />
+    <symbol id="267:1624" name="flags / LB" x="316" y="652" width="28" height="20" />
+    <symbol id="267:1630" name="flags / LI" x="384" y="652" width="28" height="20" />
+    <symbol id="267:1635" name="flags / LT" x="452" y="652" width="28" height="20" />
+    <symbol id="267:1641" name="flags / LK" x="520" y="652" width="28" height="20" />
+    <symbol id="267:1654" name="flags / MO" x="588" y="652" width="28" height="20" />
+    <symbol id="267:1673" name="flags / MS" x="656" y="652" width="28" height="20" />
+    <symbol id="267:1687" name="flags / MG" x="724" y="652" width="28" height="20" />
+    <symbol id="267:1696" name="flags / MA" x="792" y="652" width="28" height="20" />
+    <symbol id="267:1701" name="flags / MY" x="860" y="652" width="28" height="20" />
+    <symbol id="267:1719" name="flags / MW" x="112" y="712" width="28" height="20" />
+    <symbol id="267:1726" name="flags / MV" x="180" y="712" width="28" height="20" />
+    <symbol id="267:1734" name="flags / MX" x="248" y="712" width="28" height="20" />
+    <symbol id="267:1743" name="flags / MN" x="316" y="712" width="28" height="20" />
+    <symbol id="267:1757" name="flags / MK" x="384" y="712" width="28" height="20" />
+    <symbol id="267:1769" name="flags / ML" x="452" y="712" width="28" height="20" />
+    <symbol id="267:1775" name="flags / MT" x="520" y="712" width="28" height="20" />
+    <symbol id="267:1783" name="flags / ME" x="588" y="712" width="28" height="20" />
+    <symbol id="267:1792" name="flags / MC" x="656" y="712" width="28" height="20" />
+    <symbol id="267:1796" name="flags / MZ" x="724" y="712" width="28" height="20" />
+    <symbol id="267:1805" name="flags / MU" x="792" y="712" width="28" height="20" />
+    <symbol id="267:1812" name="flags / MR" x="860" y="712" width="28" height="20" />
+    <symbol id="267:1819" name="flags / MM" x="112" y="772" width="28" height="20" />
+    <symbol id="267:1826" name="flags / MD" x="180" y="772" width="28" height="20" />
+    <symbol id="267:1835" name="flags / NL" x="248" y="772" width="28" height="20" />
+    <symbol id="267:1840" name="flags / NG" x="316" y="772" width="28" height="20" />
+    <symbol id="267:1845" name="flags / NE" x="384" y="772" width="28" height="20" />
+    <symbol id="267:1851" name="flags / NO" x="452" y="772" width="28" height="20" />
+    <symbol id="267:1858" name="flags / NA" x="520" y="772" width="28" height="20" />
+    <symbol id="267:1866" name="flags / NZ" x="588" y="772" width="28" height="20" />
+    <symbol id="267:1877" name="flags / NI" x="656" y="772" width="28" height="20" />
+    <symbol id="267:1884" name="flags / NP" x="724" y="772" width="28" height="20" />
+    <symbol id="267:1898" name="flags / OM" x="792" y="772" width="28" height="20" />
+    <symbol id="267:1904" name="flags / PA" x="860" y="772" width="28" height="20" />
+    <symbol id="267:1915" name="flags / PY" x="112" y="832" width="28" height="20" />
+    <symbol id="267:1922" name="flags / PE" x="180" y="832" width="28" height="20" />
+    <symbol id="267:1927" name="flags / PH" x="248" y="832" width="28" height="20" />
+    <symbol id="267:1942" name="flags / PW" x="316" y="832" width="28" height="20" />
+    <symbol id="267:1947" name="flags / PG" x="384" y="832" width="28" height="20" />
+    <symbol id="267:1957" name="flags / PL" x="452" y="832" width="28" height="20" />
+    <symbol id="267:1961" name="flags / PT" x="520" y="832" width="28" height="20" />
+    <symbol id="267:1969" name="flags / PR" x="588" y="832" width="28" height="20" />
+    <symbol id="267:1978" name="flags / PK" x="656" y="832" width="28" height="20" />
+    <symbol id="267:1988" name="flags / QA" x="724" y="832" width="28" height="20" />
+    <symbol id="267:1994" name="flags / RO" x="792" y="832" width="28" height="20" />
+    <symbol id="267:2000" name="flags / RU" x="860" y="832" width="28" height="20" />
+    <symbol id="267:2005" name="flags / RW" x="112" y="892" width="28" height="20" />
+    <symbol id="267:2012" name="flags / RS" x="180" y="892" width="28" height="20" />
+    <symbol id="267:2022" name="flags / SZ" x="248" y="892" width="28" height="20" />
+    <symbol id="267:2035" name="flags / ST" x="316" y="892" width="28" height="20" />
+    <symbol id="267:2044" name="flags / SD" x="384" y="892" width="28" height="20" />
+    <symbol id="267:2050" name="flags / SR" x="452" y="892" width="28" height="20" />
+    <symbol id="267:2057" name="flags / SK" x="520" y="892" width="28" height="20" />
+    <symbol id="267:2069" name="flags / SE" x="588" y="892" width="28" height="20" />
+    <symbol id="267:2074" name="flags / SY" x="656" y="892" width="28" height="20" />
+    <symbol id="267:2081" name="flags / SB" x="724" y="892" width="28" height="20" />
+    <symbol id="267:2094" name="flags / SC" x="792" y="892" width="28" height="20" />
+    <symbol id="267:2104" name="flags / SN" x="860" y="892" width="28" height="20" />
+    <symbol id="267:2111" name="flags / SG" x="112" y="952" width="28" height="20" />
+    <symbol id="267:2124" name="flags / SL" x="180" y="952" width="28" height="20" />
+    <symbol id="267:2129" name="flags / SI" x="248" y="952" width="28" height="20" />
+    <symbol id="267:2137" name="flags / SM" x="316" y="952" width="28" height="20" />
+    <symbol id="267:2145" name="flags / SH" x="384" y="952" width="28" height="20" />
+    <symbol id="267:2161" name="flags / SO" x="452" y="952" width="28" height="20" />
+    <symbol id="267:2166" name="flags / TW" x="520" y="952" width="28" height="20" />
+    <symbol id="267:2172" name="flags / TH" x="588" y="952" width="28" height="20" />
+    <symbol id="267:2178" name="flags / TJ" x="656" y="952" width="28" height="20" />
+    <symbol id="267:2190" name="flags / TL" x="724" y="952" width="28" height="20" />
+    <symbol id="267:2197" name="flags / TG" x="792" y="952" width="28" height="20" />
+    <symbol id="267:2207" name="flags / TT" x="860" y="952" width="28" height="20" />
+    <symbol id="267:2213" name="flags / TN" x="112" y="1012" width="28" height="20" />
+    <symbol id="267:2224" name="flags / TR" x="180" y="1012" width="28" height="20" />
+    <symbol id="267:2232" name="flags / TD" x="248" y="1012" width="28" height="20" />
+    <symbol id="267:2238" name="flags / TC" x="316" y="1012" width="28" height="20" />
+    <symbol id="267:2252" name="flags / TZ" x="384" y="1012" width="28" height="20" />
+    <symbol id="267:2259" name="flags / TO" x="452" y="1012" width="28" height="20" />
+    <symbol id="267:2268" name="flags / TM" x="520" y="1012" width="28" height="20" />
+    <symbol id="267:2305" name="flags / UZ" x="588" y="1012" width="28" height="20" />
+    <symbol id="267:2319" name="flags / UG" x="656" y="1012" width="28" height="20" />
+    <symbol id="267:2330" name="flags / UA" x="724" y="1012" width="28" height="20" />
+    <symbol id="267:2335" name="flags / UY" x="792" y="1012" width="28" height="20" />
+    <symbol id="267:2350" name="flags / US" x="860" y="1012" width="28" height="20" />
+    <symbol id="267:2382" name="flags / WS" x="112" y="1072" width="28" height="20" />
+    <symbol id="267:2393" name="flags / VC" x="180" y="1072" width="28" height="20" />
+    <symbol id="267:2403" name="flags / VU" x="248" y="1072" width="28" height="20" />
+    <symbol id="267:2412" name="flags / VG" x="316" y="1072" width="28" height="20" />
+    <symbol id="267:2434" name="flags / VE" x="384" y="1072" width="28" height="20" />
+    <symbol id="267:2446" name="flags / VN" x="452" y="1072" width="28" height="20" />
+    <symbol id="267:2451" name="flags / YE" x="520" y="1072" width="28" height="20" />
+    <symbol id="267:2456" name="flags / ZA" x="588" y="1072" width="28" height="20" />
+    <symbol id="267:2465" name="flags / ZW" x="656" y="1072" width="28" height="20" />
+    <symbol id="267:2477" name="flags / EU" x="724" y="1072" width="28" height="20" />
+    <symbol id="267:2548" name="flags / PF" x="792" y="1072" width="28" height="20" />
+    <symbol id="267:2598" name="flags / AN" x="860" y="1072" width="28" height="20" />
+    <symbol id="267:2608" name="flags / AW" x="112" y="1132" width="28" height="20" />
+    <symbol id="267:2615" name="flags / FK" x="180" y="1132" width="28" height="20" />
+    <symbol id="267:2651" name="flags / IM" x="248" y="1132" width="28" height="20" />
+    <symbol id="267:2797" name="flags / ZM" x="316" y="1132" width="28" height="20" />
+    <symbol id="267:3072" name="flags / JE" x="384" y="1132" width="28" height="20" />
+  </frame>
+  <frame id="14845:59332" name="Social Icons / Colorful" x="695" y="3230" width="1000" height="448">
+    <symbol id="3213:20952" name="Facebook " x="112" y="112" width="48" height="48" />
+    <symbol id="3213:20955" name="Twitter " x="200" y="112" width="48" height="48" />
+    <symbol id="3213:20957" name="Instagram " x="288" y="112" width="48" height="48" />
+    <symbol id="3213:20962" name="LinkedIn " x="376" y="112" width="48" height="48" />
+    <symbol id="3213:20964" name="Google " x="464" y="112" width="48" height="48" />
+    <symbol id="3213:20969" name="YouTube" x="552" y="112" width="48" height="48" />
+    <symbol id="3213:20972" name="Apple" x="640" y="112" width="48" height="48" />
+    <symbol id="3213:20974" name="Snapchat" x="728" y="112" width="48" height="48" />
+    <symbol id="3213:20977" name="Pinterest" x="816" y="112" width="48" height="48" />
+    <symbol id="3213:20980" name="Medium" x="112" y="200" width="48" height="48" />
+    <symbol id="3213:20984" name="Github" x="200" y="200" width="48" height="48" />
+    <symbol id="3213:20993" name="Figma" x="288" y="200" width="48" height="48" />
+    <symbol id="3213:20999" name="Dribbble" x="376" y="200" width="48" height="48" />
+    <symbol id="3213:21004" name="Reddit" x="464" y="200" width="48" height="48" />
+    <symbol id="3213:21007" name="Discord" x="552" y="200" width="48" height="48" />
+    <symbol id="3213:21010" name="TikTok" x="640" y="200" width="48" height="48" />
+    <symbol id="3213:21014" name="Tumblr" x="728" y="200" width="48" height="48" />
+    <symbol id="3213:21017" name="Telegram" x="816" y="200" width="48" height="48" />
+    <symbol id="3213:21021" name="Clubhouse" x="112" y="288" width="48" height="48" />
+    <symbol id="3213:21025" name="Signal" x="200" y="288" width="48" height="48" />
+    <symbol id="3213:21027" name="Spotify" x="288" y="288" width="48" height="48" />
+    <symbol id="12670:53517" name="euro" x="376" y="288" width="48" height="48" />
+    <symbol id="3213:21094" name="VK" x="464" y="288" width="48" height="48" />
+    <symbol id="3445:20117" name="Google Play" x="552" y="288" width="48" height="48" />
+    <symbol id="12670:53521" name="Bitcoin" x="640" y="288" width="48" height="48" />
+    <symbol id="667:159999" name="Android" x="728" y="288" width="48" height="48" />
+  </frame>
+  <frame id="14845:72329" name="Social Icons / Colorful" x="695" y="3878" width="1000" height="448">
+    <symbol id="3213:21029" name="Facebook - White" x="112" y="112" width="48" height="48" />
+    <symbol id="3213:21031" name="Twitter - White" x="200" y="112" width="48" height="48" />
+    <symbol id="3213:21033" name="Instagram - White" x="288" y="112" width="48" height="48" />
+    <symbol id="3213:21038" name="LinkedIn - White" x="376" y="112" width="48" height="48" />
+    <symbol id="3213:21041" name="Google - White" x="464" y="112" width="48" height="48" />
+    <symbol id="3213:21043" name="YouTube - White" x="552" y="112" width="48" height="48" />
+    <symbol id="3213:21046" name="Apple - White" x="640" y="112" width="48" height="48" />
+    <symbol id="3213:21048" name="Snapchat - White" x="728" y="112" width="48" height="48" />
+    <symbol id="3213:21050" name="Pinterest - White" x="816" y="112" width="48" height="48" />
+    <symbol id="3213:21053" name="Medium - White" x="112" y="200" width="48" height="48" />
+    <symbol id="3213:21057" name="Github - White" x="200" y="200" width="48" height="48" />
+    <symbol id="3213:21066" name="Figma - White" x="288" y="200" width="48" height="48" />
+    <symbol id="3213:21068" name="Dribbble - White" x="376" y="200" width="48" height="48" />
+    <symbol id="3213:21070" name="Reddit - White" x="464" y="200" width="48" height="48" />
+    <symbol id="3213:21074" name="Discord - White" x="552" y="200" width="48" height="48" />
+    <symbol id="3213:21077" name="TikTok - White" x="640" y="200" width="48" height="48" />
+    <symbol id="3213:21079" name="Tumblr - White" x="728" y="200" width="48" height="48" />
+    <symbol id="3213:21082" name="Telegram - White" x="816" y="200" width="48" height="48" />
+    <symbol id="3213:21086" name="Clubhouse - White" x="112" y="288" width="48" height="48" />
+    <symbol id="3213:21090" name="Signal - White" x="200" y="288" width="48" height="48" />
+    <symbol id="3213:21092" name="Spotify - White" x="288" y="288" width="48" height="48" />
+    <symbol id="3213:21097" name="VK - White" x="376" y="288" width="48" height="48" />
+    <symbol id="667:160004" name="Android - White" x="464" y="288" width="48" height="48" />
+  </frame>
+  <frame id="14845:48468" name="Icons / Outline" x="-1705" y="3230" width="1000" height="1464">
+    <symbol id="14845:59104" name="business_center" x="112" y="112" width="24" height="24" />
+    <symbol id="14845:59105" name="trip" x="176" y="112" width="24" height="24" />
+    <symbol id="14845:59106" name="zoom_in" x="240" y="112" width="24" height="24" />
+    <symbol id="14845:59107" name="zoom_out" x="304" y="112" width="24" height="24" />
+    <symbol id="14845:59108" name="article" x="368" y="112" width="24" height="24" />
+    <symbol id="14845:59109" name="content_paste" x="432" y="112" width="24" height="24" />
+    <symbol id="14845:59110" name="contract" x="496" y="112" width="24" height="24" />
+    <symbol id="14845:59111" name="draft" x="560" y="112" width="24" height="24" />
+    <symbol id="14845:59112" name="description" x="624" y="112" width="24" height="24" />
+    <symbol id="14845:59113" name="library_books" x="688" y="112" width="24" height="24" />
+    <symbol id="14845:59114" name="folder" x="752" y="112" width="24" height="24" />
+    <symbol id="14845:59115" name="folder_copy" x="816" y="112" width="24" height="24" />
+    <symbol id="14845:59116" name="folder_check" x="112" y="176" width="24" height="24" />
+    <symbol id="14845:59117" name="create_new_folder" x="176" y="176" width="24" height="24" />
+    <symbol id="14845:59118" name="star" x="240" y="176" width="24" height="24" />
+    <symbol id="14845:59119" name="star_half" x="304" y="176" width="24" height="24" />
+    <symbol id="14845:59120" name="photo_camera" x="368" y="176" width="24" height="24" />
+    <symbol id="14845:59121" name="videocam" x="432" y="176" width="24" height="24" />
+    <symbol id="14845:59122" name="explore" x="496" y="176" width="24" height="24" />
+    <symbol id="14845:59123" name="location_on" x="560" y="176" width="24" height="24" />
+    <symbol id="14845:59124" name="add_location" x="624" y="176" width="24" height="24" />
+    <symbol id="14845:59125" name="add_location_alt" x="688" y="176" width="24" height="24" />
+    <symbol id="14845:59126" name="acute" x="752" y="176" width="24" height="24" />
+    <symbol id="14845:59127" name="history" x="816" y="176" width="24" height="24" />
+    <symbol id="14845:59128" name="schedule" x="112" y="240" width="24" height="24" />
+    <symbol id="14845:59129" name="mail" x="176" y="240" width="24" height="24" />
+    <symbol id="14845:59130" name="attach_email" x="240" y="240" width="24" height="24" />
+    <symbol id="14845:59131" name="forward_to_inbox" x="304" y="240" width="24" height="24" />
+    <symbol id="14845:59132" name="drafts" x="368" y="240" width="24" height="24" />
+    <symbol id="14845:59133" name="delete" x="432" y="240" width="24" height="24" />
+    <symbol id="14845:59134" name="attach_file" x="496" y="240" width="24" height="24" />
+    <symbol id="14845:59135" name="attachment" x="560" y="240" width="24" height="24" />
+    <symbol id="14845:59136" name="phone_android" x="624" y="240" width="24" height="24" />
+    <symbol id="14845:59137" name="tablet_mac" x="688" y="240" width="24" height="24" />
+    <symbol id="14845:59138" name="sunny" x="752" y="240" width="24" height="24" />
+    <symbol id="14845:59139" name="nightlight" x="816" y="240" width="24" height="24" />
+    <symbol id="14845:59140" name="mode_cool" x="112" y="304" width="24" height="24" />
+    <symbol id="14845:59141" name="backlight_high" x="176" y="304" width="24" height="24" />
+    <symbol id="14845:59142" name="mic" x="240" y="304" width="24" height="24" />
+    <symbol id="14845:59143" name="headset_mic" x="304" y="304" width="24" height="24" />
+    <symbol id="14845:59144" name="archive" x="368" y="304" width="24" height="24" />
+    <symbol id="14845:59145" name="all_inbox" x="432" y="304" width="24" height="24" />
+    <symbol id="14845:59146" name="deployed_code_history" x="496" y="304" width="24" height="24" />
+    <symbol id="14845:59147" name="box_add" x="560" y="304" width="24" height="24" />
+    <symbol id="14845:59148" name="database" x="624" y="304" width="24" height="24" />
+    <symbol id="14845:59149" name="settings" x="688" y="304" width="24" height="24" />
+    <symbol id="14845:59150" name="filter_alt" x="752" y="304" width="24" height="24" />
+    <symbol id="14845:59151" name="instant_mix" x="816" y="304" width="24" height="24" />
+    <symbol id="14845:59152" name="tune" x="112" y="368" width="24" height="24" />
+    <symbol id="14845:59153" name="backup_table" x="176" y="368" width="24" height="24" />
+    <symbol id="14845:59154" name="border_all" x="240" y="368" width="24" height="24" />
+    <symbol id="14845:59155" name="calendar_view_month" x="304" y="368" width="24" height="24" />
+    <symbol id="14845:59156" name="drag_indicator" x="368" y="368" width="24" height="24" />
+    <symbol id="14845:59162" name="globe" x="432" y="368" width="24" height="24" />
+    <symbol id="14845:59163" name="arrow_top_left" x="496" y="368" width="24" height="24" />
+    <symbol id="14845:59164" name="arrow_top_right" x="560" y="368" width="24" height="24" />
+    <symbol id="14845:59165" name="arrow_split" x="624" y="368" width="24" height="24" />
+    <symbol id="14845:59166" name="fast_rewind" x="688" y="368" width="24" height="24" />
+    <symbol id="14845:59167" name="fast_forward" x="752" y="368" width="24" height="24" />
+    <symbol id="14845:59168" name="arrow_back" x="816" y="368" width="24" height="24" />
+    <symbol id="14845:59169" name="arrow_forward" x="112" y="432" width="24" height="24" />
+    <symbol id="14845:59170" name="arrow_downward" x="176" y="432" width="24" height="24" />
+    <symbol id="14845:59171" name="arrow_upward" x="240" y="432" width="24" height="24" />
+    <symbol id="14883:22760" name="arrow_drop_down" x="304" y="432" width="24" height="24" />
+    <symbol id="14883:22759" name="arrow_drop_up" x="368" y="432" width="24" height="24" />
+    <symbol id="14883:22758" name="arrow_left" x="432" y="432" width="24" height="24" />
+    <symbol id="14883:22757" name="arrow_right" x="496" y="432" width="24" height="24" />
+    <symbol id="14845:59172" name="keyboard_arrow_down" x="560" y="432" width="24" height="24" />
+    <symbol id="14845:59173" name="keyboard_arrow_up" x="624" y="432" width="24" height="24" />
+    <symbol id="14845:59174" name="keyboard_arrow_left" x="688" y="432" width="24" height="24" />
+    <symbol id="14845:59175" name="keyboard_arrow_right" x="752" y="432" width="24" height="24" />
+    <symbol id="14845:59176" name="keyboard_double_arrow_left" x="816" y="432" width="24" height="24" />
+    <symbol id="14845:59177" name="keyboard_double_arrow_right" x="112" y="496" width="24" height="24" />
+    <symbol id="14845:59178" name="keyboard_double_arrow_down" x="176" y="496" width="24" height="24" />
+    <symbol id="14845:59179" name="stat_2" x="240" y="496" width="24" height="24" />
+    <symbol id="14845:59180" name="visibility" x="304" y="496" width="24" height="24" />
+    <symbol id="14845:59181" name="visibility_off" x="368" y="496" width="24" height="24" />
+    <symbol id="14845:59182" name="add_task" x="432" y="496" width="24" height="24" />
+    <symbol id="14845:59183" name="verified" x="496" y="496" width="24" height="24" />
+    <symbol id="14845:59184" name="verified_user" x="560" y="496" width="24" height="24" />
+    <symbol id="14845:59185" name="check_circle" x="624" y="496" width="24" height="24" />
+    <symbol id="14845:59186" name="add_circle" x="688" y="496" width="24" height="24" />
+    <symbol id="14845:59187" name="cancel" x="752" y="496" width="24" height="24" />
+    <symbol id="14845:59188" name="error" x="816" y="496" width="24" height="24" />
+    <symbol id="14845:59189" name="help" x="112" y="560" width="24" height="24" />
+    <symbol id="14845:59190" name="info" x="176" y="560" width="24" height="24" />
+    <symbol id="14845:59191" name="pause_circle" x="240" y="560" width="24" height="24" />
+    <symbol id="14845:59192" name="play_circle" x="304" y="560" width="24" height="24" />
+    <symbol id="14845:59193" name="close" x="368" y="560" width="24" height="24" />
+    <symbol id="14845:59194" name="add_2" x="432" y="560" width="24" height="24" />
+    <symbol id="14845:59195" name="remove" x="496" y="560" width="24" height="24" />
+    <symbol id="14845:59196" name="check" x="560" y="560" width="24" height="24" />
+    <symbol id="14862:2650" name="done_all" x="624" y="560" width="24" height="24" />
+    <symbol id="14845:59197" name="backup" x="688" y="560" width="24" height="24" />
+    <symbol id="14845:59198" name="cloud_download" x="752" y="560" width="24" height="24" />
+    <symbol id="14845:59199" name="cloud_done" x="816" y="560" width="24" height="24" />
+    <symbol id="14845:59200" name="publish" x="112" y="624" width="24" height="24" />
+    <symbol id="14845:59201" name="download" x="176" y="624" width="24" height="24" />
+    <symbol id="14845:59202" name="swap_vert" x="240" y="624" width="24" height="24" />
+    <symbol id="14845:59203" name="account_circle" x="304" y="624" width="24" height="24" />
+    <symbol id="14845:59204" name="record_voice_over" x="368" y="624" width="24" height="24" />
+    <symbol id="14845:59205" name="badge" x="432" y="624" width="24" height="24" />
+    <symbol id="14845:59206" name="group" x="496" y="624" width="24" height="24" />
+    <symbol id="14845:59207" name="groups" x="560" y="624" width="24" height="24" />
+    <symbol id="14845:59208" name="person" x="624" y="624" width="24" height="24" />
+    <symbol id="14845:59209" name="person_check" x="688" y="624" width="24" height="24" />
+    <symbol id="14845:59210" name="person_edit" x="752" y="624" width="24" height="24" />
+    <symbol id="14845:59211" name="person_remove" x="816" y="624" width="24" height="24" />
+    <symbol id="14845:59212" name="person_add" x="112" y="688" width="24" height="24" />
+    <symbol id="14845:59213" name="chat" x="176" y="688" width="24" height="24" />
+    <symbol id="14845:59214" name="add_comment" x="240" y="688" width="24" height="24" />
+    <symbol id="14845:59215" name="forum" x="304" y="688" width="24" height="24" />
+    <symbol id="14845:59216" name="sms" x="368" y="688" width="24" height="24" />
+    <symbol id="14845:59217" name="tooltip_2" x="432" y="688" width="24" height="24" />
+    <symbol id="14845:59218" name="calendar_month" x="496" y="688" width="24" height="24" />
+    <symbol id="14845:59219" name="calendar_today" x="560" y="688" width="24" height="24" />
+    <symbol id="14845:59220" name="edit_calendar" x="624" y="688" width="24" height="24" />
+    <symbol id="14845:59221" name="rocket_launch" x="688" y="688" width="24" height="24" />
+    <symbol id="14845:59222" name="travel" x="752" y="688" width="24" height="24" />
+    <symbol id="14845:59223" name="helicopter" x="816" y="688" width="24" height="24" />
+    <symbol id="14845:59224" name="notification_settings" x="112" y="752" width="24" height="24" />
+    <symbol id="14845:59225" name="notifications_active" x="176" y="752" width="24" height="24" />
+    <symbol id="14845:59226" name="notifications" x="240" y="752" width="24" height="24" />
+    <symbol id="14845:59227" name="notifications_unread" x="304" y="752" width="24" height="24" />
+    <symbol id="14845:59228" name="euro" x="368" y="752" width="24" height="24" />
+    <symbol id="14845:59229" name="attach_money" x="432" y="752" width="24" height="24" />
+    <symbol id="14845:59230" name="shoppingmode" x="496" y="752" width="24" height="24" />
+    <symbol id="14845:59231" name="percent" x="560" y="752" width="24" height="24" />
+    <symbol id="14845:59232" name="shopping_bag" x="624" y="752" width="24" height="24" />
+    <symbol id="14845:59233" name="add_shopping_cart" x="688" y="752" width="24" height="24" />
+    <symbol id="14845:59234" name="shopping_cart" x="752" y="752" width="24" height="24" />
+    <symbol id="14845:59235" name="production_quantity_limits" x="816" y="752" width="24" height="24" />
+    <symbol id="14845:59236" name="shopping_basket" x="112" y="816" width="24" height="24" />
+    <symbol id="14845:59237" name="account_balance_wallet" x="176" y="816" width="24" height="24" />
+    <symbol id="14845:59238" name="credit_card" x="240" y="816" width="24" height="24" />
+    <symbol id="14845:59239" name="universal_currency_alt" x="304" y="816" width="24" height="24" />
+    <symbol id="14845:59240" name="fingerprint" x="368" y="816" width="24" height="24" />
+    <symbol id="14845:59241" name="thumb_up" x="432" y="816" width="24" height="24" />
+    <symbol id="14845:59242" name="thumb_down" x="496" y="816" width="24" height="24" />
+    <symbol id="14845:59243" name="encrypted" x="560" y="816" width="24" height="24" />
+    <symbol id="14845:59244" name="lock" x="624" y="816" width="24" height="24" />
+    <symbol id="14845:59245" name="lock_open" x="688" y="816" width="24" height="24" />
+    <symbol id="14845:59246" name="lock_clock" x="752" y="816" width="24" height="24" />
+    <symbol id="14845:59247" name="login" x="816" y="816" width="24" height="24" />
+    <symbol id="14845:59248" name="logout" x="112" y="880" width="24" height="24" />
+    <symbol id="14845:59249" name="call" x="176" y="880" width="24" height="24" />
+    <symbol id="14845:59250" name="call_end" x="240" y="880" width="24" height="24" />
+    <symbol id="14845:59251" name="no_sound" x="304" y="880" width="24" height="24" />
+    <symbol id="14845:59252" name="volume_off" x="368" y="880" width="24" height="24" />
+    <symbol id="14845:59253" name="volume_up" x="432" y="880" width="24" height="24" />
+    <symbol id="14845:59254" name="volume_down" x="496" y="880" width="24" height="24" />
+    <symbol id="14845:59255" name="search" x="560" y="880" width="24" height="24" />
+    <symbol id="14845:59256" name="zoom_in" x="624" y="880" width="24" height="24" />
+    <symbol id="14845:59257" name="zoom_out" x="688" y="880" width="24" height="24" />
+    <symbol id="14845:59258" name="more_horiz" x="752" y="880" width="24" height="24" />
+    <symbol id="14845:59259" name="more_vert" x="816" y="880" width="24" height="24" />
+    <symbol id="14845:59260" name="arrows_output" x="112" y="944" width="24" height="24" />
+    <symbol id="14845:59261" name="arrows_input" x="176" y="944" width="24" height="24" />
+    <symbol id="14845:59262" name="arrows_outward" x="240" y="944" width="24" height="24" />
+    <symbol id="14845:59263" name="aspect_ratio" x="304" y="944" width="24" height="24" />
+    <symbol id="14845:59264" name="crop" x="368" y="944" width="24" height="24" />
+    <symbol id="14845:59265" name="pan_zoom" x="432" y="944" width="24" height="24" />
+    <symbol id="14845:59266" name="link" x="496" y="944" width="24" height="24" />
+    <symbol id="14845:59267" name="open_in_new" x="560" y="944" width="24" height="24" />
+    <symbol id="14845:59268" name="share" x="624" y="944" width="24" height="24" />
+    <symbol id="14845:59269" name="send" x="688" y="944" width="24" height="24" />
+    <symbol id="14845:59270" name="replay" x="752" y="944" width="24" height="24" />
+    <symbol id="14845:59271" name="cached" x="816" y="944" width="24" height="24" />
+    <symbol id="14845:59272" name="border_color" x="112" y="1008" width="24" height="24" />
+    <symbol id="14845:59273" name="edit" x="176" y="1008" width="24" height="24" />
+    <symbol id="14845:59274" name="edit_document" x="240" y="1008" width="24" height="24" />
+    <symbol id="14845:59275" name="edit_square" x="304" y="1008" width="24" height="24" />
+    <symbol id="14845:59276" name="content_cut" x="368" y="1008" width="24" height="24" />
+    <symbol id="14845:59277" name="bar_chart_4_bars" x="432" y="1008" width="24" height="24" />
+    <symbol id="14845:59278" name="add_chart" x="496" y="1008" width="24" height="24" />
+    <symbol id="14845:59279" name="bar_chart" x="560" y="1008" width="24" height="24" />
+    <symbol id="14845:59280" name="candlestick_chart" x="624" y="1008" width="24" height="24" />
+    <symbol id="14845:59281" name="finance" x="688" y="1008" width="24" height="24" />
+    <symbol id="14845:59282" name="earthquake" x="752" y="1008" width="24" height="24" />
+    <symbol id="14845:59283" name="graph_2" x="816" y="1008" width="24" height="24" />
+    <symbol id="14845:59284" name="graph_1" x="112" y="1072" width="24" height="24" />
+    <symbol id="14845:59285" name="trending_down" x="176" y="1072" width="24" height="24" />
+    <symbol id="14845:59286" name="trending_up" x="240" y="1072" width="24" height="24" />
+    <symbol id="14845:59287" name="pie_chart" x="304" y="1072" width="24" height="24" />
+    <symbol id="14845:59288" name="book_2" x="368" y="1072" width="24" height="24" />
+    <symbol id="14845:59289" name="import_contacts" x="432" y="1072" width="24" height="24" />
+    <symbol id="14845:59290" name="local_fire_department" x="496" y="1072" width="24" height="24" />
+    <symbol id="14845:59291" name="emoji_objects" x="560" y="1072" width="24" height="24" />
+    <symbol id="14845:59292" name="neurology" x="624" y="1072" width="24" height="24" />
+    <symbol id="14845:59293" name="psychiatry" x="688" y="1072" width="24" height="24" />
+    <symbol id="14845:59294" name="favorite" x="752" y="1072" width="24" height="24" />
+    <symbol id="14845:59295" name="cardiology" x="816" y="1072" width="24" height="24" />
+    <symbol id="14845:59296" name="genetics" x="112" y="1136" width="24" height="24" />
+    <symbol id="14845:59297" name="local_shipping" x="176" y="1136" width="24" height="24" />
+    <symbol id="14845:59298" name="delivery_truck_speed" x="240" y="1136" width="24" height="24" />
+    <symbol id="14845:59299" name="package_2" x="304" y="1136" width="24" height="24" />
+    <symbol id="14845:59300" name="orders" x="368" y="1136" width="24" height="24" />
+    <symbol id="14845:59301" name="shopping_bag_speed" x="432" y="1136" width="24" height="24" />
+    <symbol id="14845:59302" name="featured_seasonal_and_gifts" x="496" y="1136" width="24" height="24" />
+    <symbol id="14845:59303" name="rewarded_ads" x="560" y="1136" width="24" height="24" />
+    <symbol id="14845:59304" name="palette" x="624" y="1136" width="24" height="24" />
+    <symbol id="14845:59305" name="desktop_mac" x="688" y="1136" width="24" height="24" />
+    <symbol id="14845:59306" name="google_home_devices" x="752" y="1136" width="24" height="24" />
+    <symbol id="14845:59307" name="keyboard" x="816" y="1136" width="24" height="24" />
+    <symbol id="14845:59308" name="laptop_chromebook" x="112" y="1200" width="24" height="24" />
+    <symbol id="14845:59309" name="select_window" x="176" y="1200" width="24" height="24" />
+    <symbol id="14845:59310" name="print" x="240" y="1200" width="24" height="24" />
+    <symbol id="14845:59311" name="home" x="304" y="1200" width="24" height="24" />
+    <symbol id="14845:59312" name="apartment" x="368" y="1200" width="24" height="24" />
+    <symbol id="14845:59313" name="add_business" x="432" y="1200" width="24" height="24" />
+    <symbol id="14845:59314" name="local_convenience_store" x="496" y="1200" width="24" height="24" />
+    <symbol id="14845:59315" name="storefront" x="560" y="1200" width="24" height="24" />
+    <symbol id="14845:59316" name="bookmark" x="624" y="1200" width="24" height="24" />
+    <symbol id="14845:59317" name="confirmation_number" x="688" y="1200" width="24" height="24" />
+    <symbol id="14845:59318" name="pause" x="752" y="1200" width="24" height="24" />
+    <symbol id="14845:59319" name="play_arrow" x="816" y="1200" width="24" height="24" />
+    <symbol id="14845:59320" name="picture_as_pdf" x="112" y="1264" width="24" height="24" />
+    <symbol id="14845:59321" name="csv" x="176" y="1264" width="24" height="24" />
+    <symbol id="14845:59322" name="closed_caption" x="240" y="1264" width="24" height="24" />
+    <symbol id="14845:59323" name="frame_source" x="304" y="1264" width="24" height="24" />
+    <symbol id="14845:59324" name="translate" x="368" y="1264" width="24" height="24" />
+    <symbol id="14845:59325" name="add_photo_alternate" x="432" y="1264" width="24" height="24" />
+    <symbol id="14845:59326" name="imagesmode" x="496" y="1264" width="24" height="24" />
+    <symbol id="14845:59327" name="photo_library" x="560" y="1264" width="24" height="24" />
+    <symbol id="14845:59329" name="flag_2" x="624" y="1264" width="24" height="24" />
+    <symbol id="14845:59330" name="label_important" x="688" y="1264" width="24" height="24" />
+    <symbol id="14845:59331" name="label" x="752" y="1264" width="24" height="24" />
+    <symbol id="14845:59157" name="format_list_bulleted" x="816" y="1264" width="24" height="24" />
+    <symbol id="14845:59158" name="format_align_center" x="112" y="1328" width="24" height="24" />
+    <symbol id="14845:59159" name="format_align_left" x="176" y="1328" width="24" height="24" />
+    <symbol id="14845:59160" name="format_align_right" x="240" y="1328" width="24" height="24" />
+    <symbol id="14845:59161" name="format_align_justify" x="304" y="1328" width="24" height="24" />
+    <symbol id="14859:11922" name="format_color_text" x="368" y="1328" width="24" height="24" />
+    <symbol id="14859:11923" name="sentiment_satisfied" x="432" y="1328" width="24" height="24" />
+    <symbol id="14859:11924" name="alternate_email" x="496" y="1328" width="24" height="24" />
+    <symbol id="14859:11925" name="format_bold" x="560" y="1328" width="24" height="24" />
+    <symbol id="14859:11926" name="format_italic" x="624" y="1328" width="24" height="24" />
+    <symbol id="14859:11927" name="format_list_numbered" x="688" y="1328" width="24" height="24" />
+    <symbol id="14883:22558" name="keyboard_command_key" x="752" y="1328" width="24" height="24" />
+    <symbol id="15114:39874" name="dehaze" x="816" y="1328" width="24" height="24" />
+  </frame>
+  <frame id="14845:50893" name="Icons / Solid" x="-2905" y="3230" width="1000" height="1464">
+    <symbol id="14845:58876" name="business_center" x="112" y="112" width="24" height="24" />
+    <symbol id="14845:58877" name="trip" x="176" y="112" width="24" height="24" />
+    <symbol id="14845:58878" name="zoom_in" x="240" y="112" width="24" height="24" />
+    <symbol id="14845:58879" name="zoom_out" x="304" y="112" width="24" height="24" />
+    <symbol id="14845:58880" name="article" x="368" y="112" width="24" height="24" />
+    <symbol id="14845:58881" name="content_paste" x="432" y="112" width="24" height="24" />
+    <symbol id="14845:58882" name="contract" x="496" y="112" width="24" height="24" />
+    <symbol id="14845:58883" name="draft" x="560" y="112" width="24" height="24" />
+    <symbol id="14845:58884" name="description" x="624" y="112" width="24" height="24" />
+    <symbol id="14845:58885" name="library_books" x="688" y="112" width="24" height="24" />
+    <symbol id="14845:58886" name="folder" x="752" y="112" width="24" height="24" />
+    <symbol id="14845:58887" name="folder_copy" x="816" y="112" width="24" height="24" />
+    <symbol id="14845:58888" name="folder_check" x="112" y="176" width="24" height="24" />
+    <symbol id="14845:58889" name="create_new_folder" x="176" y="176" width="24" height="24" />
+    <symbol id="14845:58890" name="star" x="240" y="176" width="24" height="24" />
+    <symbol id="14845:58891" name="star_half" x="304" y="176" width="24" height="24" />
+    <symbol id="14845:58892" name="photo_camera" x="368" y="176" width="24" height="24" />
+    <symbol id="14845:58893" name="videocam" x="432" y="176" width="24" height="24" />
+    <symbol id="14845:58894" name="explore" x="496" y="176" width="24" height="24" />
+    <symbol id="14845:58895" name="location_on" x="560" y="176" width="24" height="24" />
+    <symbol id="14845:58896" name="add_location" x="624" y="176" width="24" height="24" />
+    <symbol id="14845:58897" name="add_location_alt" x="688" y="176" width="24" height="24" />
+    <symbol id="14845:58898" name="acute" x="752" y="176" width="24" height="24" />
+    <symbol id="14845:58899" name="history" x="816" y="176" width="24" height="24" />
+    <symbol id="14845:58900" name="schedule" x="112" y="240" width="24" height="24" />
+    <symbol id="14845:58901" name="mail" x="176" y="240" width="24" height="24" />
+    <symbol id="14845:58902" name="attach_email" x="240" y="240" width="24" height="24" />
+    <symbol id="14845:58903" name="forward_to_inbox" x="304" y="240" width="24" height="24" />
+    <symbol id="14845:58904" name="drafts" x="368" y="240" width="24" height="24" />
+    <symbol id="14845:58905" name="delete" x="432" y="240" width="24" height="24" />
+    <symbol id="14845:58906" name="attach_file" x="496" y="240" width="24" height="24" />
+    <symbol id="14845:58907" name="attachment" x="560" y="240" width="24" height="24" />
+    <symbol id="14845:58908" name="phone_android" x="624" y="240" width="24" height="24" />
+    <symbol id="14845:58909" name="tablet_mac" x="688" y="240" width="24" height="24" />
+    <symbol id="14845:58910" name="sunny" x="752" y="240" width="24" height="24" />
+    <symbol id="14845:58911" name="nightlight" x="816" y="240" width="24" height="24" />
+    <symbol id="14845:58912" name="mode_cool" x="112" y="304" width="24" height="24" />
+    <symbol id="14845:58913" name="backlight_high" x="176" y="304" width="24" height="24" />
+    <symbol id="14845:58914" name="mic" x="240" y="304" width="24" height="24" />
+    <symbol id="14845:58915" name="headset_mic" x="304" y="304" width="24" height="24" />
+    <symbol id="14845:58916" name="archive" x="368" y="304" width="24" height="24" />
+    <symbol id="14845:58917" name="all_inbox" x="432" y="304" width="24" height="24" />
+    <symbol id="14845:58918" name="deployed_code_history" x="496" y="304" width="24" height="24" />
+    <symbol id="14845:58919" name="box_add" x="560" y="304" width="24" height="24" />
+    <symbol id="14845:58920" name="database" x="624" y="304" width="24" height="24" />
+    <symbol id="14845:58921" name="settings" x="688" y="304" width="24" height="24" />
+    <symbol id="14845:58922" name="filter_alt" x="752" y="304" width="24" height="24" />
+    <symbol id="14845:58923" name="instant_mix" x="816" y="304" width="24" height="24" />
+    <symbol id="14845:58924" name="tune" x="112" y="368" width="24" height="24" />
+    <symbol id="14845:58925" name="backup_table" x="176" y="368" width="24" height="24" />
+    <symbol id="14845:58926" name="border_all" x="240" y="368" width="24" height="24" />
+    <symbol id="14845:58927" name="calendar_view_month" x="304" y="368" width="24" height="24" />
+    <symbol id="14845:58928" name="drag_indicator" x="368" y="368" width="24" height="24" />
+    <symbol id="14845:58934" name="globe" x="432" y="368" width="24" height="24" />
+    <symbol id="14845:58935" name="arrow_top_left" x="496" y="368" width="24" height="24" />
+    <symbol id="14845:58936" name="arrow_top_right" x="560" y="368" width="24" height="24" />
+    <symbol id="14845:58937" name="arrow_split" x="624" y="368" width="24" height="24" />
+    <symbol id="14845:58938" name="fast_rewind" x="688" y="368" width="24" height="24" />
+    <symbol id="14845:58939" name="fast_forward" x="752" y="368" width="24" height="24" />
+    <symbol id="14845:58940" name="arrow_back" x="816" y="368" width="24" height="24" />
+    <symbol id="14845:58941" name="arrow_forward" x="112" y="432" width="24" height="24" />
+    <symbol id="14845:58942" name="arrow_downward" x="176" y="432" width="24" height="24" />
+    <symbol id="14845:58943" name="arrow_upward" x="240" y="432" width="24" height="24" />
+    <symbol id="14883:22753" name="arrow_drop_down" x="304" y="432" width="24" height="24" />
+    <symbol id="14883:22754" name="arrow_drop_up" x="368" y="432" width="24" height="24" />
+    <symbol id="14883:22755" name="arrow_left" x="432" y="432" width="24" height="24" />
+    <symbol id="14883:22756" name="arrow_right" x="496" y="432" width="24" height="24" />
+    <symbol id="14845:58944" name="keyboard_arrow_down" x="560" y="432" width="24" height="24" />
+    <symbol id="14845:58945" name="keyboard_arrow_up" x="624" y="432" width="24" height="24" />
+    <symbol id="14845:58946" name="keyboard_arrow_left" x="688" y="432" width="24" height="24" />
+    <symbol id="14845:58947" name="keyboard_arrow_right" x="752" y="432" width="24" height="24" />
+    <symbol id="14845:58948" name="keyboard_double_arrow_left" x="816" y="432" width="24" height="24" />
+    <symbol id="14845:58949" name="keyboard_double_arrow_right" x="112" y="496" width="24" height="24" />
+    <symbol id="14845:58950" name="keyboard_double_arrow_down" x="176" y="496" width="24" height="24" />
+    <symbol id="14845:58951" name="stat_2" x="240" y="496" width="24" height="24" />
+    <symbol id="14845:58952" name="visibility" x="304" y="496" width="24" height="24" />
+    <symbol id="14845:58953" name="visibility_off" x="368" y="496" width="24" height="24" />
+    <symbol id="14845:58954" name="add_task" x="432" y="496" width="24" height="24" />
+    <symbol id="14845:58955" name="verified" x="496" y="496" width="24" height="24" />
+    <symbol id="14845:58956" name="verified_user" x="560" y="496" width="24" height="24" />
+    <symbol id="14845:58957" name="check_circle" x="624" y="496" width="24" height="24" />
+    <symbol id="14845:58958" name="add_circle" x="688" y="496" width="24" height="24" />
+    <symbol id="14845:58959" name="cancel" x="752" y="496" width="24" height="24" />
+    <symbol id="14845:58960" name="error" x="816" y="496" width="24" height="24" />
+    <symbol id="14845:58961" name="help" x="112" y="560" width="24" height="24" />
+    <symbol id="14845:58962" name="info" x="176" y="560" width="24" height="24" />
+    <symbol id="14845:58963" name="pause_circle" x="240" y="560" width="24" height="24" />
+    <symbol id="14845:58964" name="play_circle" x="304" y="560" width="24" height="24" />
+    <symbol id="14845:58965" name="close" x="368" y="560" width="24" height="24" />
+    <symbol id="14845:58966" name="add_2" x="432" y="560" width="24" height="24" />
+    <symbol id="14845:58967" name="remove" x="496" y="560" width="24" height="24" />
+    <symbol id="14845:58968" name="check" x="560" y="560" width="24" height="24" />
+    <symbol id="14862:2649" name="done_all" x="624" y="560" width="24" height="24" />
+    <symbol id="14845:58969" name="backup" x="688" y="560" width="24" height="24" />
+    <symbol id="14845:58970" name="cloud_download" x="752" y="560" width="24" height="24" />
+    <symbol id="14845:58971" name="cloud_done" x="816" y="560" width="24" height="24" />
+    <symbol id="14845:58972" name="publish" x="112" y="624" width="24" height="24" />
+    <symbol id="14845:58973" name="download" x="176" y="624" width="24" height="24" />
+    <symbol id="14845:58974" name="swap_vert" x="240" y="624" width="24" height="24" />
+    <symbol id="14845:58975" name="account_circle" x="304" y="624" width="24" height="24" />
+    <symbol id="14845:58976" name="record_voice_over" x="368" y="624" width="24" height="24" />
+    <symbol id="14845:58977" name="badge" x="432" y="624" width="24" height="24" />
+    <symbol id="14845:58978" name="group" x="496" y="624" width="24" height="24" />
+    <symbol id="14845:58979" name="groups" x="560" y="624" width="24" height="24" />
+    <symbol id="14845:58980" name="person" x="624" y="624" width="24" height="24" />
+    <symbol id="14845:58981" name="person_check" x="688" y="624" width="24" height="24" />
+    <symbol id="14845:58982" name="person_edit" x="752" y="624" width="24" height="24" />
+    <symbol id="14845:58983" name="person_remove" x="816" y="624" width="24" height="24" />
+    <symbol id="14845:58984" name="person_add" x="112" y="688" width="24" height="24" />
+    <symbol id="14845:58985" name="chat" x="176" y="688" width="24" height="24" />
+    <symbol id="14845:58986" name="add_comment" x="240" y="688" width="24" height="24" />
+    <symbol id="14845:58987" name="forum" x="304" y="688" width="24" height="24" />
+    <symbol id="14845:58988" name="sms" x="368" y="688" width="24" height="24" />
+    <symbol id="14845:58989" name="tooltip_2" x="432" y="688" width="24" height="24" />
+    <symbol id="14845:58990" name="calendar_month" x="496" y="688" width="24" height="24" />
+    <symbol id="14845:58991" name="calendar_today" x="560" y="688" width="24" height="24" />
+    <symbol id="14845:58992" name="edit_calendar" x="624" y="688" width="24" height="24" />
+    <symbol id="14845:58993" name="rocket_launch" x="688" y="688" width="24" height="24" />
+    <symbol id="14845:58994" name="travel" x="752" y="688" width="24" height="24" />
+    <symbol id="14845:58995" name="helicopter" x="816" y="688" width="24" height="24" />
+    <symbol id="14845:58996" name="notification_settings" x="112" y="752" width="24" height="24" />
+    <symbol id="14845:58997" name="notifications_active" x="176" y="752" width="24" height="24" />
+    <symbol id="14845:58998" name="notifications" x="240" y="752" width="24" height="24" />
+    <symbol id="14845:58999" name="notifications_unread" x="304" y="752" width="24" height="24" />
+    <symbol id="14845:59000" name="euro" x="368" y="752" width="24" height="24" />
+    <symbol id="14845:59001" name="attach_money" x="432" y="752" width="24" height="24" />
+    <symbol id="14845:59002" name="shoppingmode" x="496" y="752" width="24" height="24" />
+    <symbol id="14845:59003" name="percent" x="560" y="752" width="24" height="24" />
+    <symbol id="14845:59004" name="shopping_bag" x="624" y="752" width="24" height="24" />
+    <symbol id="14845:59005" name="add_shopping_cart" x="688" y="752" width="24" height="24" />
+    <symbol id="14845:59006" name="shopping_cart" x="752" y="752" width="24" height="24" />
+    <symbol id="14845:59007" name="production_quantity_limits" x="816" y="752" width="24" height="24" />
+    <symbol id="14845:59008" name="shopping_basket" x="112" y="816" width="24" height="24" />
+    <symbol id="14845:59009" name="account_balance_wallet" x="176" y="816" width="24" height="24" />
+    <symbol id="14845:59010" name="credit_card" x="240" y="816" width="24" height="24" />
+    <symbol id="14845:59011" name="universal_currency_alt" x="304" y="816" width="24" height="24" />
+    <symbol id="14845:59012" name="fingerprint" x="368" y="816" width="24" height="24" />
+    <symbol id="14845:59013" name="thumb_up" x="432" y="816" width="24" height="24" />
+    <symbol id="14845:59014" name="thumb_down" x="496" y="816" width="24" height="24" />
+    <symbol id="14845:59015" name="encrypted" x="560" y="816" width="24" height="24" />
+    <symbol id="14845:59016" name="lock" x="624" y="816" width="24" height="24" />
+    <symbol id="14845:59017" name="lock_open" x="688" y="816" width="24" height="24" />
+    <symbol id="14845:59018" name="lock_clock" x="752" y="816" width="24" height="24" />
+    <symbol id="14845:59019" name="login" x="816" y="816" width="24" height="24" />
+    <symbol id="14845:59020" name="logout" x="112" y="880" width="24" height="24" />
+    <symbol id="14845:59021" name="call" x="176" y="880" width="24" height="24" />
+    <symbol id="14845:59022" name="call_end" x="240" y="880" width="24" height="24" />
+    <symbol id="14845:59023" name="no_sound" x="304" y="880" width="24" height="24" />
+    <symbol id="14845:59024" name="volume_off" x="368" y="880" width="24" height="24" />
+    <symbol id="14845:59025" name="volume_up" x="432" y="880" width="24" height="24" />
+    <symbol id="14845:59026" name="volume_down" x="496" y="880" width="24" height="24" />
+    <symbol id="14845:59027" name="search" x="560" y="880" width="24" height="24" />
+    <symbol id="14845:59028" name="zoom_in" x="624" y="880" width="24" height="24" />
+    <symbol id="14845:59029" name="zoom_out" x="688" y="880" width="24" height="24" />
+    <symbol id="14845:59030" name="more_horiz" x="752" y="880" width="24" height="24" />
+    <symbol id="14845:59031" name="more_vert" x="816" y="880" width="24" height="24" />
+    <symbol id="14845:59032" name="arrows_output" x="112" y="944" width="24" height="24" />
+    <symbol id="14845:59033" name="arrows_input" x="176" y="944" width="24" height="24" />
+    <symbol id="14845:59034" name="arrows_outward" x="240" y="944" width="24" height="24" />
+    <symbol id="14845:59035" name="aspect_ratio" x="304" y="944" width="24" height="24" />
+    <symbol id="14845:59036" name="crop" x="368" y="944" width="24" height="24" />
+    <symbol id="14845:59037" name="pan_zoom" x="432" y="944" width="24" height="24" />
+    <symbol id="14845:59038" name="link" x="496" y="944" width="24" height="24" />
+    <symbol id="14845:59039" name="open_in_new" x="560" y="944" width="24" height="24" />
+    <symbol id="14845:59040" name="share" x="624" y="944" width="24" height="24" />
+    <symbol id="14845:59041" name="send" x="688" y="944" width="24" height="24" />
+    <symbol id="14845:59042" name="replay" x="752" y="944" width="24" height="24" />
+    <symbol id="14845:59043" name="cached" x="816" y="944" width="24" height="24" />
+    <symbol id="14845:59044" name="border_color" x="112" y="1008" width="24" height="24" />
+    <symbol id="14845:59045" name="edit" x="176" y="1008" width="24" height="24" />
+    <symbol id="14845:59046" name="edit_document" x="240" y="1008" width="24" height="24" />
+    <symbol id="14845:59047" name="edit_square" x="304" y="1008" width="24" height="24" />
+    <symbol id="14845:59048" name="content_cut" x="368" y="1008" width="24" height="24" />
+    <symbol id="14845:59049" name="bar_chart_4_bars" x="432" y="1008" width="24" height="24" />
+    <symbol id="14845:59050" name="add_chart" x="496" y="1008" width="24" height="24" />
+    <symbol id="14845:59051" name="bar_chart" x="560" y="1008" width="24" height="24" />
+    <symbol id="14845:59052" name="candlestick_chart" x="624" y="1008" width="24" height="24" />
+    <symbol id="14845:59053" name="finance" x="688" y="1008" width="24" height="24" />
+    <symbol id="14845:59054" name="earthquake" x="752" y="1008" width="24" height="24" />
+    <symbol id="14845:59055" name="graph_2" x="816" y="1008" width="24" height="24" />
+    <symbol id="14845:59056" name="graph_1" x="112" y="1072" width="24" height="24" />
+    <symbol id="14845:59057" name="trending_down" x="176" y="1072" width="24" height="24" />
+    <symbol id="14845:59058" name="trending_up" x="240" y="1072" width="24" height="24" />
+    <symbol id="14845:59059" name="pie_chart" x="304" y="1072" width="24" height="24" />
+    <symbol id="14845:59060" name="book_2" x="368" y="1072" width="24" height="24" />
+    <symbol id="14845:59061" name="import_contacts" x="432" y="1072" width="24" height="24" />
+    <symbol id="14845:59062" name="local_fire_department" x="496" y="1072" width="24" height="24" />
+    <symbol id="14845:59063" name="emoji_objects" x="560" y="1072" width="24" height="24" />
+    <symbol id="14845:59064" name="neurology" x="624" y="1072" width="24" height="24" />
+    <symbol id="14845:59065" name="psychiatry" x="688" y="1072" width="24" height="24" />
+    <symbol id="14845:59066" name="favorite" x="752" y="1072" width="24" height="24" />
+    <symbol id="14845:59067" name="cardiology" x="816" y="1072" width="24" height="24" />
+    <symbol id="14845:59068" name="genetics" x="112" y="1136" width="24" height="24" />
+    <symbol id="14845:59069" name="local_shipping" x="176" y="1136" width="24" height="24" />
+    <symbol id="14845:59070" name="delivery_truck_speed" x="240" y="1136" width="24" height="24" />
+    <symbol id="14845:59071" name="package_2" x="304" y="1136" width="24" height="24" />
+    <symbol id="14845:59072" name="orders" x="368" y="1136" width="24" height="24" />
+    <symbol id="14845:59073" name="shopping_bag_speed" x="432" y="1136" width="24" height="24" />
+    <symbol id="14845:59074" name="featured_seasonal_and_gifts" x="496" y="1136" width="24" height="24" />
+    <symbol id="14845:59075" name="rewarded_ads" x="560" y="1136" width="24" height="24" />
+    <symbol id="14845:59076" name="palette" x="624" y="1136" width="24" height="24" />
+    <symbol id="14845:59077" name="desktop_mac" x="688" y="1136" width="24" height="24" />
+    <symbol id="14845:59078" name="google_home_devices" x="752" y="1136" width="24" height="24" />
+    <symbol id="14845:59079" name="keyboard" x="816" y="1136" width="24" height="24" />
+    <symbol id="14845:59080" name="laptop_chromebook" x="112" y="1200" width="24" height="24" />
+    <symbol id="14845:59081" name="select_window" x="176" y="1200" width="24" height="24" />
+    <symbol id="14845:59082" name="print" x="240" y="1200" width="24" height="24" />
+    <symbol id="14845:59083" name="home" x="304" y="1200" width="24" height="24" />
+    <symbol id="14845:59084" name="apartment" x="368" y="1200" width="24" height="24" />
+    <symbol id="14845:59085" name="add_business" x="432" y="1200" width="24" height="24" />
+    <symbol id="14845:59086" name="local_convenience_store" x="496" y="1200" width="24" height="24" />
+    <symbol id="14845:59087" name="storefront" x="560" y="1200" width="24" height="24" />
+    <symbol id="14845:59088" name="bookmark" x="624" y="1200" width="24" height="24" />
+    <symbol id="14845:59089" name="confirmation_number" x="688" y="1200" width="24" height="24" />
+    <symbol id="14845:59090" name="pause" x="752" y="1200" width="24" height="24" />
+    <symbol id="14845:59091" name="play_arrow" x="816" y="1200" width="24" height="24" />
+    <symbol id="14845:59092" name="picture_as_pdf" x="112" y="1264" width="24" height="24" />
+    <symbol id="14845:59093" name="csv" x="176" y="1264" width="24" height="24" />
+    <symbol id="14845:59094" name="closed_caption" x="240" y="1264" width="24" height="24" />
+    <symbol id="14845:59095" name="frame_source" x="304" y="1264" width="24" height="24" />
+    <symbol id="14845:59096" name="translate" x="368" y="1264" width="24" height="24" />
+    <symbol id="14845:59097" name="add_photo_alternate" x="432" y="1264" width="24" height="24" />
+    <symbol id="14845:59098" name="imagesmode" x="496" y="1264" width="24" height="24" />
+    <symbol id="14845:59099" name="photo_library" x="560" y="1264" width="24" height="24" />
+    <symbol id="14845:59101" name="flag_2" x="624" y="1264" width="24" height="24" />
+    <symbol id="14845:59102" name="label_important" x="688" y="1264" width="24" height="24" />
+    <symbol id="14845:59103" name="label" x="752" y="1264" width="24" height="24" />
+    <symbol id="14845:58929" name="format_list_bulleted" x="816" y="1264" width="24" height="24" />
+    <symbol id="14845:58930" name="format_align_center" x="112" y="1328" width="24" height="24" />
+    <symbol id="14845:58931" name="format_align_left" x="176" y="1328" width="24" height="24" />
+    <symbol id="14845:58932" name="format_align_right" x="240" y="1328" width="24" height="24" />
+    <symbol id="14845:58933" name="format_align_justify" x="304" y="1328" width="24" height="24" />
+    <symbol id="14859:11947" name="format_color_text" x="368" y="1328" width="24" height="24" />
+    <symbol id="14859:11948" name="sentiment_satisfied" x="432" y="1328" width="24" height="24" />
+    <symbol id="14859:11949" name="alternate_email" x="496" y="1328" width="24" height="24" />
+    <symbol id="14859:11950" name="format_bold" x="560" y="1328" width="24" height="24" />
+    <symbol id="14859:11951" name="format_italic" x="624" y="1328" width="24" height="24" />
+    <symbol id="14859:11952" name="format_list_numbered" x="688" y="1328" width="24" height="24" />
+    <symbol id="14883:22559" name="keyboard_command_key" x="752" y="1328" width="24" height="24" />
+    <symbol id="15114:39873" name="dehaze" x="816" y="1328" width="24" height="24" />
+  </frame>
+  <rounded-rectangle id="14845:72383" name="Screenshot 2025-06-16 at 20.36.30 1" x="-3469" y="3230" width="364" height="303" />
+  <instance id="14848:1893" name="Alert Banner" x="695" y="2936" width="1000" height="94" />
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

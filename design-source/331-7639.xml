@@ -1,0 +1,16 @@
+<canvas id="331:7639" name="↳ Range Sliders" x="0" y="0" width="0" height="0">
+  <frame id="14867:4243" name="Range Sliders" x="612" y="-498" width="976" height="1414">
+    <rounded-rectangle id="14867:4433" name="Background" x="112" y="699" width="752" height="603" />
+    <frame id="14867:4363" name="Range Slider" x="112" y="112" width="752" height="1190">
+      <symbol id="14867:4351" name="Type=Default, Dark Mode=False" x="96" y="173" width="560" height="8" />
+      <symbol id="14867:4469" name="Type=Default, Dark Mode=True" x="96" y="776" width="560" height="8" />
+      <symbol id="14867:4364" name="Type=Rande, Dark Mode=False" x="96" y="261" width="560" height="8" />
+      <symbol id="14867:4474" name="Type=Rande, Dark Mode=True" x="96" y="864" width="560" height="8" />
+      <symbol id="14867:4413" name="Type=Volume, Dark Mode=False" x="96" y="341" width="288" height="32" />
+      <symbol id="14867:4479" name="Type=Volume, Dark Mode=True" x="96" y="944" width="288" height="32" />
+      <symbol id="14867:4414" name="Type=With Numbers, Dark Mode=False" x="96" y="453" width="560" height="38" />
+      <symbol id="14867:4486" name="Type=With Numbers, Dark Mode=True" x="96" y="1056" width="560" height="38" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

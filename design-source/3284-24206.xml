@@ -1,0 +1,12 @@
+<canvas id="3284:24206" name="↳ Breadcrumbs" x="0" y="0" width="0" height="0">
+  <frame id="14851:565" name="Breadcrumb" x="-414" y="788" width="737" height="808">
+    <rounded-rectangle id="14851:566" name="Background" x="112" y="404" width="513" height="292" />
+    <frame id="14851:742" name="Breadcrumb" x="112" y="112" width="513" height="584">
+      <symbol id="14849:3446" name="Type=Default, Dark Mode=False" x="96" y="96" width="305" height="18" />
+      <symbol id="14849:3479" name="Type=With Background, Dark Mode=False" x="96" y="154" width="321" height="42" />
+      <symbol id="14851:743" name="Type=Default, Dark Mode=True" x="96" y="388" width="305" height="18" />
+      <symbol id="14851:753" name="Type=With Background, Dark Mode=True" x="96" y="446" width="321" height="42" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

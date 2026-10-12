@@ -1,0 +1,172 @@
+<canvas id="2542:21012" name="↳ Buttons" x="0" y="0" width="0" height="0">
+  <frame id="14846:543" name="Button" x="-4264" y="-1291" width="1824" height="2168">
+    <frame id="14846:1230" name="Button" x="112" y="112" width="1600" height="1944">
+      <symbol id="14846:540" name="Color=Dark, State=Default, Size=SM, Outline=False, Icon Only=False" x="96" y="96" width="141" height="32" />
+      <symbol id="14846:2575" name="Color=Dark, State=Default, Size=SM, Outline=True, Icon Only=False" x="96" y="1020" width="141" height="32" />
+      <symbol id="14846:2863" name="Color=Blue, State=Default, Size=SM, Outline=True, Icon Only=False" x="96" y="1328" width="141" height="32" />
+      <symbol id="14846:3151" name="Color=Red, State=Default, Size=SM, Outline=True, Icon Only=False" x="96" y="1636" width="141" height="32" />
+      <symbol id="14846:1711" name="Color=Blue, State=Default, Size=SM, Outline=False, Icon Only=False" x="96" y="404" width="141" height="32" />
+      <symbol id="14846:1999" name="Color=Red, State=Default, Size=SM, Outline=False, Icon Only=False" x="96" y="712" width="141" height="32" />
+      <symbol id="14846:1399" name="Color=Dark, State=Default, Size=SM, Outline=False, Icon Only=True" x="1144" y="96" width="32" height="32" />
+      <symbol id="14846:2579" name="Color=Dark, State=Default, Size=SM, Outline=True, Icon Only=True" x="1144" y="1020" width="32" height="32" />
+      <symbol id="14846:2867" name="Color=Blue, State=Default, Size=SM, Outline=True, Icon Only=True" x="1144" y="1328" width="32" height="32" />
+      <symbol id="14846:3155" name="Color=Red, State=Default, Size=SM, Outline=True, Icon Only=True" x="1144" y="1636" width="32" height="32" />
+      <symbol id="14846:1715" name="Color=Blue, State=Default, Size=SM, Outline=False, Icon Only=True" x="1144" y="404" width="32" height="32" />
+      <symbol id="14846:2003" name="Color=Red, State=Default, Size=SM, Outline=False, Icon Only=True" x="1144" y="712" width="32" height="32" />
+      <symbol id="14846:1303" name="Color=Dark, State=Focused, Size=SM, Outline=False, Icon Only=False" x="620" y="96" width="141" height="32" />
+      <symbol id="14846:2581" name="Color=Dark, State=Focused, Size=SM, Outline=True, Icon Only=False" x="620" y="1020" width="141" height="32" />
+      <symbol id="14846:2869" name="Color=Blue, State=Focused, Size=SM, Outline=True, Icon Only=False" x="620" y="1328" width="141" height="32" />
+      <symbol id="14846:3157" name="Color=Red, State=Focused, Size=SM, Outline=True, Icon Only=False" x="620" y="1636" width="141" height="32" />
+      <symbol id="14846:1717" name="Color=Blue, State=Focused, Size=SM, Outline=False, Icon Only=False" x="620" y="404" width="141" height="32" />
+      <symbol id="14846:2005" name="Color=Red, State=Focused, Size=SM, Outline=False, Icon Only=False" x="620" y="712" width="141" height="32" />
+      <symbol id="14846:1495" name="Color=Dark, State=Focused, Size=SM, Outline=False, Icon Only=True" x="1336" y="96" width="32" height="32" />
+      <symbol id="14846:2585" name="Color=Dark, State=Focused, Size=SM, Outline=True, Icon Only=True" x="1336" y="1020" width="32" height="32" />
+      <symbol id="14846:2873" name="Color=Blue, State=Focused, Size=SM, Outline=True, Icon Only=True" x="1336" y="1328" width="32" height="32" />
+      <symbol id="14846:3161" name="Color=Red, State=Focused, Size=SM, Outline=True, Icon Only=True" x="1336" y="1636" width="32" height="32" />
+      <symbol id="14846:1721" name="Color=Blue, State=Focused, Size=SM, Outline=False, Icon Only=True" x="1336" y="404" width="32" height="32" />
+      <symbol id="14846:2009" name="Color=Red, State=Focused, Size=SM, Outline=False, Icon Only=True" x="1336" y="712" width="32" height="32" />
+      <symbol id="14846:1255" name="Color=Dark, State=Hover, Size=SM, Outline=False, Icon Only=False" x="358" y="96" width="141" height="32" />
+      <symbol id="14846:2587" name="Color=Dark, State=Hover, Size=SM, Outline=True, Icon Only=False" x="358" y="1020" width="141" height="32" />
+      <symbol id="14846:2875" name="Color=Blue, State=Hover, Size=SM, Outline=True, Icon Only=False" x="358" y="1328" width="141" height="32" />
+      <symbol id="14846:3163" name="Color=Red, State=Hover, Size=SM, Outline=True, Icon Only=False" x="358" y="1636" width="141" height="32" />
+      <symbol id="14846:1723" name="Color=Blue, State=Hover, Size=SM, Outline=False, Icon Only=False" x="358" y="404" width="141" height="32" />
+      <symbol id="14846:2011" name="Color=Red, State=Hover, Size=SM, Outline=False, Icon Only=False" x="358" y="712" width="141" height="32" />
+      <symbol id="14846:1447" name="Color=Dark, State=Hover, Size=SM, Outline=False, Icon Only=True" x="1240" y="96" width="32" height="32" />
+      <symbol id="14846:2591" name="Color=Dark, State=Hover, Size=SM, Outline=True, Icon Only=True" x="1240" y="1020" width="32" height="32" />
+      <symbol id="14846:2879" name="Color=Blue, State=Hover, Size=SM, Outline=True, Icon Only=True" x="1240" y="1328" width="32" height="32" />
+      <symbol id="14846:3167" name="Color=Red, State=Hover, Size=SM, Outline=True, Icon Only=True" x="1240" y="1636" width="32" height="32" />
+      <symbol id="14846:1727" name="Color=Blue, State=Hover, Size=SM, Outline=False, Icon Only=True" x="1240" y="404" width="32" height="32" />
+      <symbol id="14846:2015" name="Color=Red, State=Hover, Size=SM, Outline=False, Icon Only=True" x="1240" y="712" width="32" height="32" />
+      <symbol id="14846:1351" name="Color=Dark, State=Disabled, Size=SM, Outline=False, Icon Only=False" x="882" y="96" width="141" height="32" />
+      <symbol id="14846:2593" name="Color=Dark, State=Disabled, Size=SM, Outline=True, Icon Only=False" x="882" y="1020" width="141" height="32" />
+      <symbol id="14846:2881" name="Color=Blue, State=Disabled, Size=SM, Outline=True, Icon Only=False" x="882" y="1328" width="141" height="32" />
+      <symbol id="14846:3169" name="Color=Red, State=Disabled, Size=SM, Outline=True, Icon Only=False" x="882" y="1636" width="141" height="32" />
+      <symbol id="14846:1729" name="Color=Blue, State=Disabled, Size=SM, Outline=False, Icon Only=False" x="882" y="404" width="141" height="32" />
+      <symbol id="14846:2017" name="Color=Red, State=Disabled, Size=SM, Outline=False, Icon Only=False" x="882" y="712" width="141" height="32" />
+      <symbol id="14846:1543" name="Color=Dark, State=Disabled, Size=SM, Outline=False, Icon Only=True" x="1432" y="96" width="32" height="32" />
+      <symbol id="14846:2597" name="Color=Dark, State=Disabled, Size=SM, Outline=True, Icon Only=True" x="1432" y="1020" width="32" height="32" />
+      <symbol id="14846:2885" name="Color=Blue, State=Disabled, Size=SM, Outline=True, Icon Only=True" x="1432" y="1328" width="32" height="32" />
+      <symbol id="14846:3173" name="Color=Red, State=Disabled, Size=SM, Outline=True, Icon Only=True" x="1432" y="1636" width="32" height="32" />
+      <symbol id="14846:1733" name="Color=Blue, State=Disabled, Size=SM, Outline=False, Icon Only=True" x="1432" y="404" width="32" height="32" />
+      <symbol id="14846:2021" name="Color=Red, State=Disabled, Size=SM, Outline=False, Icon Only=True" x="1432" y="712" width="32" height="32" />
+      <symbol id="14846:541" name="Color=Dark, State=Default, Size=MD, Outline=False, Icon Only=False" x="96" y="168" width="196" height="45" />
+      <symbol id="14846:2599" name="Color=Dark, State=Default, Size=MD, Outline=True, Icon Only=False" x="96" y="1092" width="196" height="45" />
+      <symbol id="14846:2887" name="Color=Blue, State=Default, Size=MD, Outline=True, Icon Only=False" x="96" y="1400" width="196" height="45" />
+      <symbol id="14846:3175" name="Color=Red, State=Default, Size=MD, Outline=True, Icon Only=False" x="96" y="1708" width="196" height="45" />
+      <symbol id="14846:1735" name="Color=Blue, State=Default, Size=MD, Outline=False, Icon Only=False" x="96" y="476" width="196" height="45" />
+      <symbol id="14846:2023" name="Color=Red, State=Default, Size=MD, Outline=False, Icon Only=False" x="96" y="784" width="196" height="45" />
+      <symbol id="14846:1403" name="Color=Dark, State=Default, Size=MD, Outline=False, Icon Only=True" x="1144" y="168" width="44" height="44" />
+      <symbol id="14846:2603" name="Color=Dark, State=Default, Size=MD, Outline=True, Icon Only=True" x="1144" y="1092" width="44" height="44" />
+      <symbol id="14846:2891" name="Color=Blue, State=Default, Size=MD, Outline=True, Icon Only=True" x="1144" y="1400" width="44" height="44" />
+      <symbol id="14846:3179" name="Color=Red, State=Default, Size=MD, Outline=True, Icon Only=True" x="1144" y="1708" width="44" height="44" />
+      <symbol id="14846:1739" name="Color=Blue, State=Default, Size=MD, Outline=False, Icon Only=True" x="1144" y="476" width="44" height="44" />
+      <symbol id="14846:2027" name="Color=Red, State=Default, Size=MD, Outline=False, Icon Only=True" x="1144" y="784" width="44" height="44" />
+      <symbol id="14846:1307" name="Color=Dark, State=Focused, Size=MD, Outline=False, Icon Only=False" x="620" y="168" width="196" height="45" />
+      <symbol id="14846:2605" name="Color=Dark, State=Focused, Size=MD, Outline=True, Icon Only=False" x="620" y="1092" width="196" height="45" />
+      <symbol id="14846:2893" name="Color=Blue, State=Focused, Size=MD, Outline=True, Icon Only=False" x="620" y="1400" width="196" height="45" />
+      <symbol id="14846:3181" name="Color=Red, State=Focused, Size=MD, Outline=True, Icon Only=False" x="620" y="1708" width="196" height="45" />
+      <symbol id="14846:1741" name="Color=Blue, State=Focused, Size=MD, Outline=False, Icon Only=False" x="620" y="476" width="196" height="45" />
+      <symbol id="14846:2029" name="Color=Red, State=Focused, Size=MD, Outline=False, Icon Only=False" x="620" y="784" width="196" height="45" />
+      <symbol id="14846:1499" name="Color=Dark, State=Focused, Size=MD, Outline=False, Icon Only=True" x="1336" y="168" width="44" height="44" />
+      <symbol id="14846:2609" name="Color=Dark, State=Focused, Size=MD, Outline=True, Icon Only=True" x="1336" y="1092" width="44" height="44" />
+      <symbol id="14846:2897" name="Color=Blue, State=Focused, Size=MD, Outline=True, Icon Only=True" x="1336" y="1400" width="44" height="44" />
+      <symbol id="14846:3185" name="Color=Red, State=Focused, Size=MD, Outline=True, Icon Only=True" x="1336" y="1708" width="44" height="44" />
+      <symbol id="14846:1745" name="Color=Blue, State=Focused, Size=MD, Outline=False, Icon Only=True" x="1336" y="476" width="44" height="44" />
+      <symbol id="14846:2033" name="Color=Red, State=Focused, Size=MD, Outline=False, Icon Only=True" x="1336" y="784" width="44" height="44" />
+      <symbol id="14846:1259" name="Color=Dark, State=Hover, Size=MD, Outline=False, Icon Only=False" x="358" y="168" width="196" height="45" />
+      <symbol id="14846:2611" name="Color=Dark, State=Hover, Size=MD, Outline=True, Icon Only=False" x="358" y="1092" width="196" height="45" />
+      <symbol id="14846:2899" name="Color=Blue, State=Hover, Size=MD, Outline=True, Icon Only=False" x="358" y="1400" width="196" height="45" />
+      <symbol id="14846:3187" name="Color=Red, State=Hover, Size=MD, Outline=True, Icon Only=False" x="358" y="1708" width="196" height="45" />
+      <symbol id="14846:1747" name="Color=Blue, State=Hover, Size=MD, Outline=False, Icon Only=False" x="358" y="476" width="196" height="45" />
+      <symbol id="14846:2035" name="Color=Red, State=Hover, Size=MD, Outline=False, Icon Only=False" x="358" y="784" width="196" height="45" />
+      <symbol id="14846:1451" name="Color=Dark, State=Hover, Size=MD, Outline=False, Icon Only=True" x="1240" y="168" width="44" height="44" />
+      <symbol id="14846:2615" name="Color=Dark, State=Hover, Size=MD, Outline=True, Icon Only=True" x="1240" y="1092" width="44" height="44" />
+      <symbol id="14846:2903" name="Color=Blue, State=Hover, Size=MD, Outline=True, Icon Only=True" x="1240" y="1400" width="44" height="44" />
+      <symbol id="14846:3191" name="Color=Red, State=Hover, Size=MD, Outline=True, Icon Only=True" x="1240" y="1708" width="44" height="44" />
+      <symbol id="14846:1751" name="Color=Blue, State=Hover, Size=MD, Outline=False, Icon Only=True" x="1240" y="476" width="44" height="44" />
+      <symbol id="14846:2039" name="Color=Red, State=Hover, Size=MD, Outline=False, Icon Only=True" x="1240" y="784" width="44" height="44" />
+      <symbol id="14846:1355" name="Color=Dark, State=Disabled, Size=MD, Outline=False, Icon Only=False" x="882" y="168" width="196" height="45" />
+      <symbol id="14846:2617" name="Color=Dark, State=Disabled, Size=MD, Outline=True, Icon Only=False" x="882" y="1092" width="196" height="45" />
+      <symbol id="14846:2905" name="Color=Blue, State=Disabled, Size=MD, Outline=True, Icon Only=False" x="882" y="1400" width="196" height="45" />
+      <symbol id="14846:3193" name="Color=Red, State=Disabled, Size=MD, Outline=True, Icon Only=False" x="882" y="1708" width="196" height="45" />
+      <symbol id="14846:1753" name="Color=Blue, State=Disabled, Size=MD, Outline=False, Icon Only=False" x="882" y="476" width="196" height="45" />
+      <symbol id="14846:2041" name="Color=Red, State=Disabled, Size=MD, Outline=False, Icon Only=False" x="882" y="784" width="196" height="45" />
+      <symbol id="14846:1547" name="Color=Dark, State=Disabled, Size=MD, Outline=False, Icon Only=True" x="1432" y="168" width="44" height="44" />
+      <symbol id="14846:2621" name="Color=Dark, State=Disabled, Size=MD, Outline=True, Icon Only=True" x="1432" y="1092" width="44" height="44" />
+      <symbol id="14846:2909" name="Color=Blue, State=Disabled, Size=MD, Outline=True, Icon Only=True" x="1432" y="1400" width="44" height="44" />
+      <symbol id="14846:3197" name="Color=Red, State=Disabled, Size=MD, Outline=True, Icon Only=True" x="1432" y="1708" width="44" height="44" />
+      <symbol id="14846:1757" name="Color=Blue, State=Disabled, Size=MD, Outline=False, Icon Only=True" x="1432" y="476" width="44" height="44" />
+      <symbol id="14846:2045" name="Color=Red, State=Disabled, Size=MD, Outline=False, Icon Only=True" x="1432" y="784" width="44" height="44" />
+      <symbol id="14846:542" name="Color=Dark, State=Default, Size=LG, Outline=False, Icon Only=False" x="96" y="252" width="232" height="56" />
+      <symbol id="14846:2623" name="Color=Dark, State=Default, Size=LG, Outline=True, Icon Only=False" x="96" y="1176" width="232" height="56" />
+      <symbol id="14846:2911" name="Color=Blue, State=Default, Size=LG, Outline=True, Icon Only=False" x="96" y="1484" width="232" height="56" />
+      <symbol id="14846:3199" name="Color=Red, State=Default, Size=LG, Outline=True, Icon Only=False" x="96" y="1792" width="232" height="56" />
+      <symbol id="14846:1759" name="Color=Blue, State=Default, Size=LG, Outline=False, Icon Only=False" x="96" y="560" width="232" height="56" />
+      <symbol id="14846:2047" name="Color=Red, State=Default, Size=LG, Outline=False, Icon Only=False" x="96" y="868" width="232" height="56" />
+      <symbol id="14846:1407" name="Color=Dark, State=Default, Size=LG, Outline=False, Icon Only=True" x="1144" y="252" width="56" height="56" />
+      <symbol id="14846:2627" name="Color=Dark, State=Default, Size=LG, Outline=True, Icon Only=True" x="1144" y="1176" width="56" height="56" />
+      <symbol id="14846:2915" name="Color=Blue, State=Default, Size=LG, Outline=True, Icon Only=True" x="1144" y="1484" width="56" height="56" />
+      <symbol id="14846:3203" name="Color=Red, State=Default, Size=LG, Outline=True, Icon Only=True" x="1144" y="1792" width="56" height="56" />
+      <symbol id="14846:1763" name="Color=Blue, State=Default, Size=LG, Outline=False, Icon Only=True" x="1144" y="560" width="56" height="56" />
+      <symbol id="14846:2051" name="Color=Red, State=Default, Size=LG, Outline=False, Icon Only=True" x="1144" y="868" width="56" height="56" />
+      <symbol id="14846:1311" name="Color=Dark, State=Focused, Size=LG, Outline=False, Icon Only=False" x="620" y="252" width="232" height="56" />
+      <symbol id="14846:2629" name="Color=Dark, State=Focused, Size=LG, Outline=True, Icon Only=False" x="620" y="1176" width="232" height="56" />
+      <symbol id="14846:2917" name="Color=Blue, State=Focused, Size=LG, Outline=True, Icon Only=False" x="620" y="1484" width="232" height="56" />
+      <symbol id="14846:3205" name="Color=Red, State=Focused, Size=LG, Outline=True, Icon Only=False" x="620" y="1792" width="232" height="56" />
+      <symbol id="14846:1765" name="Color=Blue, State=Focused, Size=LG, Outline=False, Icon Only=False" x="620" y="560" width="232" height="56" />
+      <symbol id="14846:2053" name="Color=Red, State=Focused, Size=LG, Outline=False, Icon Only=False" x="620" y="868" width="232" height="56" />
+      <symbol id="14846:1503" name="Color=Dark, State=Focused, Size=LG, Outline=False, Icon Only=True" x="1336" y="252" width="56" height="56" />
+      <symbol id="14846:2633" name="Color=Dark, State=Focused, Size=LG, Outline=True, Icon Only=True" x="1336" y="1176" width="56" height="56" />
+      <symbol id="14846:2921" name="Color=Blue, State=Focused, Size=LG, Outline=True, Icon Only=True" x="1336" y="1484" width="56" height="56" />
+      <symbol id="14846:3209" name="Color=Red, State=Focused, Size=LG, Outline=True, Icon Only=True" x="1336" y="1792" width="56" height="56" />
+      <symbol id="14846:1769" name="Color=Blue, State=Focused, Size=LG, Outline=False, Icon Only=True" x="1336" y="560" width="56" height="56" />
+      <symbol id="14846:2057" name="Color=Red, State=Focused, Size=LG, Outline=False, Icon Only=True" x="1336" y="868" width="56" height="56" />
+      <symbol id="14846:1263" name="Color=Dark, State=Hover, Size=LG, Outline=False, Icon Only=False" x="358" y="252" width="232" height="56" />
+      <symbol id="14846:2635" name="Color=Dark, State=Hover, Size=LG, Outline=True, Icon Only=False" x="358" y="1176" width="232" height="56" />
+      <symbol id="14846:2923" name="Color=Blue, State=Hover, Size=LG, Outline=True, Icon Only=False" x="358" y="1484" width="232" height="56" />
+      <symbol id="14846:3211" name="Color=Red, State=Hover, Size=LG, Outline=True, Icon Only=False" x="358" y="1792" width="232" height="56" />
+      <symbol id="14846:1771" name="Color=Blue, State=Hover, Size=LG, Outline=False, Icon Only=False" x="358" y="560" width="232" height="56" />
+      <symbol id="14846:2059" name="Color=Red, State=Hover, Size=LG, Outline=False, Icon Only=False" x="358" y="868" width="232" height="56" />
+      <symbol id="14846:1455" name="Color=Dark, State=Hover, Size=LG, Outline=False, Icon Only=True" x="1240" y="252" width="56" height="56" />
+      <symbol id="14846:2639" name="Color=Dark, State=Hover, Size=LG, Outline=True, Icon Only=True" x="1240" y="1176" width="56" height="56" />
+      <symbol id="14846:2927" name="Color=Blue, State=Hover, Size=LG, Outline=True, Icon Only=True" x="1240" y="1484" width="56" height="56" />
+      <symbol id="14846:3215" name="Color=Red, State=Hover, Size=LG, Outline=True, Icon Only=True" x="1240" y="1792" width="56" height="56" />
+      <symbol id="14846:1775" name="Color=Blue, State=Hover, Size=LG, Outline=False, Icon Only=True" x="1240" y="560" width="56" height="56" />
+      <symbol id="14846:2063" name="Color=Red, State=Hover, Size=LG, Outline=False, Icon Only=True" x="1240" y="868" width="56" height="56" />
+      <symbol id="14846:1359" name="Color=Dark, State=Disabled, Size=LG, Outline=False, Icon Only=False" x="882" y="252" width="232" height="56" />
+      <symbol id="14846:2641" name="Color=Dark, State=Disabled, Size=LG, Outline=True, Icon Only=False" x="882" y="1176" width="232" height="56" />
+      <symbol id="14846:2929" name="Color=Blue, State=Disabled, Size=LG, Outline=True, Icon Only=False" x="882" y="1484" width="232" height="56" />
+      <symbol id="14846:3217" name="Color=Red, State=Disabled, Size=LG, Outline=True, Icon Only=False" x="882" y="1792" width="232" height="56" />
+      <symbol id="14846:1777" name="Color=Blue, State=Disabled, Size=LG, Outline=False, Icon Only=False" x="882" y="560" width="232" height="56" />
+      <symbol id="14846:2065" name="Color=Red, State=Disabled, Size=LG, Outline=False, Icon Only=False" x="882" y="868" width="232" height="56" />
+      <symbol id="14846:1551" name="Color=Dark, State=Disabled, Size=LG, Outline=False, Icon Only=True" x="1432" y="252" width="56" height="56" />
+      <symbol id="14846:2645" name="Color=Dark, State=Disabled, Size=LG, Outline=True, Icon Only=True" x="1432" y="1176" width="56" height="56" />
+      <symbol id="14846:2933" name="Color=Blue, State=Disabled, Size=LG, Outline=True, Icon Only=True" x="1432" y="1484" width="56" height="56" />
+      <symbol id="14846:3221" name="Color=Red, State=Disabled, Size=LG, Outline=True, Icon Only=True" x="1432" y="1792" width="56" height="56" />
+      <symbol id="14846:1781" name="Color=Blue, State=Disabled, Size=LG, Outline=False, Icon Only=True" x="1432" y="560" width="56" height="56" />
+      <symbol id="14846:2069" name="Color=Red, State=Disabled, Size=LG, Outline=False, Icon Only=True" x="1432" y="868" width="56" height="56" />
+    </frame>
+  </frame>
+  <frame id="14847:1381" name="Download App Button" x="-2240" y="-1291" width="814" height="582">
+    <frame id="14847:2299" name="Download App Button" x="112" y="112" width="590" height="358">
+      <symbol id="14847:2295" name="Device=Android, Color=White" x="302" y="96" width="176" height="63" />
+      <symbol id="14847:2296" name="Device=iOS, Color=White" x="96" y="96" width="166" height="63" />
+      <symbol id="14847:2297" name="Device=Android, Color=Dark" x="302" y="199" width="176" height="63" />
+      <symbol id="14847:2298" name="Device=iOS, Color=Dark" x="96" y="199" width="166" height="63" />
+    </frame>
+  </frame>
+  <frame id="14847:2413" name="Button Group" x="-1227" y="-1292" width="1008" height="683">
+    <rounded-rectangle id="14847:2911" name="Background" x="504" y="112" width="392" height="459" />
+    <frame id="14847:2910" name="Button Group" x="112" y="112" width="784" height="459">
+      <symbol id="14847:2909" name="Type=3 Options, Dark Mode=False" x="96" y="96" width="203" height="37" />
+      <symbol id="14847:2943" name="Type=3 Options, Dark Mode=True" x="488" y="96" width="203" height="37" />
+      <symbol id="14847:2908" name="Type=Icons, Dark Mode=False" x="96" y="173" width="87" height="36" />
+      <symbol id="14847:2950" name="Type=Icons, Dark Mode=True" x="488" y="173" width="87" height="36" />
+      <symbol id="14847:2907" name="Type=Labeled, Dark Mode=False" x="96" y="249" width="149" height="37" />
+      <symbol id="14847:2955" name="Type=Labeled, Dark Mode=True" x="488" y="249" width="149" height="37" />
+      <symbol id="14847:2906" name="Type=Action, Dark Mode=False" x="96" y="326" width="196" height="37" />
+      <symbol id="14847:2961" name="Type=Action, Dark Mode=True" x="488" y="326" width="196" height="37" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

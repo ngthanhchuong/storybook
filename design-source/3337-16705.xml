@@ -1,0 +1,90 @@
+<canvas id="3337:16705" name="↳ Toasts" x="0" y="0" width="0" height="0">
+  <frame id="15063:22329" name="Toasts" x="-4268" y="-462" width="1388" height="1063">
+    <rounded-rectangle id="15094:6573" name="Background" x="694" y="112" width="582" height="839" />
+    <frame id="15094:500" name="Toast" x="112" y="112" width="1164" height="839">
+      <symbol id="15063:22993" name="Type=Alert, Dark Mode=False" x="96" y="96" width="390" height="189" />
+      <symbol id="15094:6641" name="Type=Alert, Dark Mode=True" x="678" y="96" width="390" height="189" />
+      <symbol id="15094:2457" name="Type=Simple, Dark Mode=False" x="96" y="504" width="390" height="95" />
+      <symbol id="15094:6652" name="Type=Simple, Dark Mode=True" x="678" y="504" width="390" height="95" />
+      <symbol id="15094:501" name="Type=Message, Dark Mode=False" x="96" y="325" width="390" height="139" />
+      <symbol id="15094:6658" name="Type=Message, Dark Mode=True" x="678" y="325" width="390" height="139" />
+      <symbol id="15094:3422" name="Type=Notification, Dark Mode=False" x="96" y="618" width="390" height="125" />
+      <symbol id="15094:6665" name="Type=Notification, Dark Mode=True" x="678" y="618" width="390" height="125" />
+    </frame>
+  </frame>
+  <frame id="15094:7481" name="Examples" x="-2680" y="-462" width="6124" height="4832">
+    <frame id="15094:7482" name="Screen" x="2512" y="112" width="390" height="844">
+      <instance id="15094:8192" name="Toast" x="16" y="639" width="358" height="189" />
+    </frame>
+    <frame id="15094:7484" name="Screen" x="5622" y="112" width="390" height="844">
+      <instance id="15094:8350" name="Toast" x="16" y="639" width="358" height="189" />
+    </frame>
+    <frame id="15094:7486" name="Screen" x="2512" y="3640" width="390" height="844">
+      <instance id="15094:8247" name="Toast" x="16" y="703" width="358" height="125" />
+    </frame>
+    <frame id="15094:7488" name="Screen" x="5622" y="3640" width="390" height="844">
+      <instance id="15094:8262" name="Toast" x="16" y="703" width="358" height="125" />
+    </frame>
+    <frame id="15094:7494" name="Screen" x="2512" y="1288" width="390" height="844">
+      <instance id="15094:8215" name="Toast" x="16" y="668" width="358" height="160" />
+    </frame>
+    <frame id="15094:7496" name="Screen" x="5622" y="1288" width="390" height="844">
+      <instance id="15094:8312" name="Toast" x="16" y="668" width="358" height="160" />
+    </frame>
+    <frame id="15094:7498" name="Screen" x="2512" y="2464" width="390" height="844">
+      <instance id="15094:8235" name="Toast" x="16" y="733" width="358" height="95" />
+    </frame>
+    <frame id="15094:7500" name="Screen" x="5622" y="2464" width="390" height="844">
+      <instance id="15094:8290" name="Toast" x="16" y="733" width="358" height="95" />
+    </frame>
+    <frame id="15094:7502" name="Screen" x="1648" y="112" width="768" height="1024">
+      <instance id="15094:8122" name="Toast" x="358" y="815" width="390" height="189" />
+    </frame>
+    <frame id="15094:7504" name="Screen" x="4758" y="112" width="768" height="1024">
+      <instance id="15094:8394" name="Toast" x="358" y="815" width="390" height="189" />
+    </frame>
+    <frame id="15094:7506" name="Screen" x="1648" y="3640" width="768" height="1024">
+      <instance id="15094:8177" name="Toast" x="358" y="879" width="390" height="125" />
+    </frame>
+    <frame id="15094:7508" name="Screen" x="4758" y="3640" width="768" height="1024">
+      <instance id="15094:8498" name="Toast" x="358" y="879" width="390" height="125" />
+    </frame>
+    <frame id="15094:7514" name="Screen" x="1648" y="1288" width="768" height="1024">
+      <instance id="15094:8145" name="Toast" x="358" y="865" width="390" height="139" />
+    </frame>
+    <frame id="15094:7516" name="Screen" x="4758" y="1288" width="768" height="1024">
+      <instance id="15094:8438" name="Toast" x="358" y="865" width="390" height="139" />
+    </frame>
+    <frame id="15094:7518" name="Screen" x="1648" y="2464" width="768" height="1024">
+      <instance id="15094:8165" name="Toast" x="358" y="909" width="390" height="95" />
+    </frame>
+    <frame id="15094:7520" name="Screen" x="4758" y="2464" width="768" height="1024">
+      <instance id="15094:8476" name="Toast" x="358" y="909" width="390" height="95" />
+    </frame>
+    <frame id="15094:7522" name="Screen" x="112" y="112" width="1440" height="1080">
+      <instance id="15094:7989" name="Toast" x="1026" y="867" width="390" height="189" />
+    </frame>
+    <frame id="15094:7524" name="Screen" x="3222" y="112" width="1440" height="1080">
+      <instance id="15094:8526" name="Toast" x="1026" y="867" width="390" height="189" />
+    </frame>
+    <frame id="15094:7526" name="Screen" x="112" y="3640" width="1440" height="1080">
+      <instance id="15094:8086" name="Toast" x="1026" y="931" width="390" height="125" />
+    </frame>
+    <frame id="15094:7528" name="Screen" x="3222" y="3640" width="1440" height="1080">
+      <instance id="15094:8630" name="Toast" x="1026" y="931" width="390" height="125" />
+    </frame>
+    <frame id="15094:7534" name="Screen" x="112" y="1288" width="1440" height="1080">
+      <instance id="15094:8012" name="Toast" x="1026" y="917" width="390" height="139" />
+    </frame>
+    <frame id="15094:7536" name="Screen" x="3222" y="1288" width="1440" height="1080">
+      <instance id="15094:8570" name="Toast" x="1026" y="917" width="390" height="139" />
+    </frame>
+    <frame id="15094:7538" name="Screen" x="112" y="2464" width="1440" height="1080">
+      <instance id="15094:8053" name="Toast" x="1026" y="961" width="390" height="95" />
+    </frame>
+    <frame id="15094:7540" name="Screen" x="3222" y="2464" width="1440" height="1080">
+      <instance id="15094:8608" name="Toast" x="1026" y="961" width="390" height="95" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

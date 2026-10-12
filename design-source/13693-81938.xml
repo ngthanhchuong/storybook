@@ -1,0 +1,130 @@
+<canvas id="13693:81938" name="↳ Keyboard" x="0" y="0" width="0" height="0">
+  <frame id="14883:22112" name="Keyboard" x="-716" y="-1086" width="5383" height="682">
+    <rounded-rectangle id="14883:23072" name="Background" x="112" y="341" width="5159" height="229" />
+    <frame id="14883:22482" name="Keyboard" x="112" y="112" width="5159" height="458">
+      <symbol id="14883:22487" name="Keyboard=Command, Dark Mode=False" x="96" y="96" width="37" height="37" />
+      <symbol id="14883:22940" name="Keyboard=Command, Dark Mode=True" x="96" y="325" width="37" height="37" />
+      <symbol id="14883:22481" name="Keyboard=Shift, Dark Mode=False" x="173" y="96" width="60" height="37" />
+      <symbol id="14883:22942" name="Keyboard=Shift, Dark Mode=True" x="173" y="325" width="60" height="37" />
+      <symbol id="14883:22483" name="Keyboard=Ctrl, Dark Mode=False" x="270" y="96" width="52" height="37" />
+      <symbol id="14883:22944" name="Keyboard=Ctrl, Dark Mode=True" x="270" y="325" width="52" height="37" />
+      <symbol id="14883:22485" name="Keyboard=Option, Dark Mode=False" x="360" y="96" width="76" height="37" />
+      <symbol id="14883:22946" name="Keyboard=Option, Dark Mode=True" x="360" y="325" width="76" height="37" />
+      <symbol id="14883:22566" name="Keyboard=Tab, Dark Mode=False" x="472" y="96" width="53" height="37" />
+      <symbol id="14883:22948" name="Keyboard=Tab, Dark Mode=True" x="472" y="325" width="53" height="37" />
+      <symbol id="14883:22568" name="Keyboard=Caps Lock, Dark Mode=False" x="563" y="96" width="105" height="37" />
+      <symbol id="14883:22950" name="Keyboard=Caps Lock, Dark Mode=True" x="563" y="325" width="105" height="37" />
+      <symbol id="14883:22570" name="Keyboard=Esc, Dark Mode=False" x="702" y="96" width="52" height="37" />
+      <symbol id="14883:22952" name="Keyboard=Esc, Dark Mode=True" x="702" y="325" width="52" height="37" />
+      <symbol id="14883:22572" name="Keyboard=Space, Dark Mode=False" x="792" y="96" width="72" height="37" />
+      <symbol id="14883:22954" name="Keyboard=Space, Dark Mode=True" x="792" y="325" width="72" height="37" />
+      <symbol id="14883:22574" name="Keyboard=Enter, Dark Mode=False" x="901" y="96" width="65" height="37" />
+      <symbol id="14883:22956" name="Keyboard=Enter, Dark Mode=True" x="901" y="325" width="65" height="37" />
+      <symbol id="14883:22576" name="Keyboard=1, Dark Mode=False" x="1003" y="96" width="36" height="37" />
+      <symbol id="14883:22958" name="Keyboard=1, Dark Mode=True" x="1003" y="325" width="36" height="37" />
+      <symbol id="14883:22578" name="Keyboard=2, Dark Mode=False" x="1079" y="96" width="36" height="37" />
+      <symbol id="14883:22960" name="Keyboard=2, Dark Mode=True" x="1079" y="325" width="36" height="37" />
+      <symbol id="14883:22580" name="Keyboard=3, Dark Mode=False" x="1155" y="96" width="36" height="37" />
+      <symbol id="14883:22962" name="Keyboard=3, Dark Mode=True" x="1155" y="325" width="36" height="37" />
+      <symbol id="14883:22582" name="Keyboard=4, Dark Mode=False" x="1231" y="96" width="36" height="37" />
+      <symbol id="14883:22964" name="Keyboard=4, Dark Mode=True" x="1231" y="325" width="36" height="37" />
+      <symbol id="14883:22584" name="Keyboard=5, Dark Mode=False" x="1307" y="96" width="36" height="37" />
+      <symbol id="14883:22966" name="Keyboard=5, Dark Mode=True" x="1307" y="325" width="36" height="37" />
+      <symbol id="14883:22586" name="Keyboard=6, Dark Mode=False" x="1383" y="96" width="36" height="37" />
+      <symbol id="14883:22968" name="Keyboard=6, Dark Mode=True" x="1383" y="325" width="36" height="37" />
+      <symbol id="14883:22588" name="Keyboard=7, Dark Mode=False" x="1459" y="96" width="36" height="37" />
+      <symbol id="14883:22970" name="Keyboard=7, Dark Mode=True" x="1459" y="325" width="36" height="37" />
+      <symbol id="14883:22590" name="Keyboard=8, Dark Mode=False" x="1535" y="96" width="36" height="37" />
+      <symbol id="14883:22972" name="Keyboard=8, Dark Mode=True" x="1535" y="325" width="36" height="37" />
+      <symbol id="14883:22592" name="Keyboard=9, Dark Mode=False" x="1611" y="96" width="36" height="37" />
+      <symbol id="14883:22974" name="Keyboard=9, Dark Mode=True" x="1611" y="325" width="36" height="37" />
+      <symbol id="14883:22594" name="Keyboard=0, Dark Mode=False" x="1687" y="96" width="36" height="37" />
+      <symbol id="14883:22976" name="Keyboard=0, Dark Mode=True" x="1687" y="325" width="36" height="37" />
+      <symbol id="14883:22596" name="Keyboard=Q, Dark Mode=False" x="1763" y="96" width="36" height="37" />
+      <symbol id="14883:22978" name="Keyboard=Q, Dark Mode=True" x="1763" y="325" width="36" height="37" />
+      <symbol id="14883:22598" name="Keyboard=W, Dark Mode=False" x="1839" y="96" width="36" height="37" />
+      <symbol id="14883:22980" name="Keyboard=W, Dark Mode=True" x="1839" y="325" width="36" height="37" />
+      <symbol id="14883:22600" name="Keyboard=E, Dark Mode=False" x="1915" y="96" width="36" height="37" />
+      <symbol id="14883:22982" name="Keyboard=E, Dark Mode=True" x="1915" y="325" width="36" height="37" />
+      <symbol id="14883:22602" name="Keyboard=R, Dark Mode=False" x="1991" y="96" width="36" height="37" />
+      <symbol id="14883:22984" name="Keyboard=R, Dark Mode=True" x="1991" y="325" width="36" height="37" />
+      <symbol id="14883:22604" name="Keyboard=T, Dark Mode=False" x="2067" y="96" width="36" height="37" />
+      <symbol id="14883:22986" name="Keyboard=T, Dark Mode=True" x="2067" y="325" width="36" height="37" />
+      <symbol id="14883:22606" name="Keyboard=Y, Dark Mode=False" x="2143" y="96" width="36" height="37" />
+      <symbol id="14883:22988" name="Keyboard=Y, Dark Mode=True" x="2143" y="325" width="36" height="37" />
+      <symbol id="14883:22608" name="Keyboard=U, Dark Mode=False" x="2219" y="96" width="36" height="37" />
+      <symbol id="14883:22990" name="Keyboard=U, Dark Mode=True" x="2219" y="325" width="36" height="37" />
+      <symbol id="14883:22610" name="Keyboard=I, Dark Mode=False" x="2295" y="96" width="36" height="37" />
+      <symbol id="14883:22992" name="Keyboard=I, Dark Mode=True" x="2295" y="325" width="36" height="37" />
+      <symbol id="14883:22612" name="Keyboard=O, Dark Mode=False" x="2371" y="96" width="36" height="37" />
+      <symbol id="14883:22994" name="Keyboard=O, Dark Mode=True" x="2371" y="325" width="36" height="37" />
+      <symbol id="14883:22614" name="Keyboard=P, Dark Mode=False" x="2447" y="96" width="36" height="37" />
+      <symbol id="14883:22996" name="Keyboard=P, Dark Mode=True" x="2447" y="325" width="36" height="37" />
+      <symbol id="14883:22616" name="Keyboard=A, Dark Mode=False" x="2523" y="96" width="36" height="37" />
+      <symbol id="14883:22998" name="Keyboard=A, Dark Mode=True" x="2523" y="325" width="36" height="37" />
+      <symbol id="14883:22618" name="Keyboard=S, Dark Mode=False" x="2599" y="96" width="36" height="37" />
+      <symbol id="14883:23000" name="Keyboard=S, Dark Mode=True" x="2599" y="325" width="36" height="37" />
+      <symbol id="14883:22620" name="Keyboard=D, Dark Mode=False" x="2675" y="96" width="36" height="37" />
+      <symbol id="14883:23002" name="Keyboard=D, Dark Mode=True" x="2675" y="325" width="36" height="37" />
+      <symbol id="14883:22622" name="Keyboard=F, Dark Mode=False" x="2751" y="96" width="36" height="37" />
+      <symbol id="14883:23004" name="Keyboard=F, Dark Mode=True" x="2751" y="325" width="36" height="37" />
+      <symbol id="14883:22624" name="Keyboard=G, Dark Mode=False" x="2827" y="96" width="36" height="37" />
+      <symbol id="14883:23006" name="Keyboard=G, Dark Mode=True" x="2827" y="325" width="36" height="37" />
+      <symbol id="14883:22626" name="Keyboard=H, Dark Mode=False" x="2903" y="96" width="36" height="37" />
+      <symbol id="14883:23008" name="Keyboard=H, Dark Mode=True" x="2903" y="325" width="36" height="37" />
+      <symbol id="14883:22628" name="Keyboard=J, Dark Mode=False" x="2979" y="96" width="36" height="37" />
+      <symbol id="14883:23010" name="Keyboard=J, Dark Mode=True" x="2979" y="325" width="36" height="37" />
+      <symbol id="14883:22630" name="Keyboard=K, Dark Mode=False" x="3055" y="96" width="36" height="37" />
+      <symbol id="14883:23012" name="Keyboard=K, Dark Mode=True" x="3055" y="325" width="36" height="37" />
+      <symbol id="14883:22632" name="Keyboard=L, Dark Mode=False" x="3131" y="96" width="36" height="37" />
+      <symbol id="14883:23014" name="Keyboard=L, Dark Mode=True" x="3131" y="325" width="36" height="37" />
+      <symbol id="14883:22634" name="Keyboard=Z, Dark Mode=False" x="3207" y="96" width="36" height="37" />
+      <symbol id="14883:23016" name="Keyboard=Z, Dark Mode=True" x="3207" y="325" width="36" height="37" />
+      <symbol id="14883:22636" name="Keyboard=X, Dark Mode=False" x="3283" y="96" width="36" height="37" />
+      <symbol id="14883:23018" name="Keyboard=X, Dark Mode=True" x="3283" y="325" width="36" height="37" />
+      <symbol id="14883:22638" name="Keyboard=C, Dark Mode=False" x="3359" y="96" width="36" height="37" />
+      <symbol id="14883:23020" name="Keyboard=C, Dark Mode=True" x="3359" y="325" width="36" height="37" />
+      <symbol id="14883:22640" name="Keyboard=V, Dark Mode=False" x="3435" y="96" width="36" height="37" />
+      <symbol id="14883:23022" name="Keyboard=V, Dark Mode=True" x="3435" y="325" width="36" height="37" />
+      <symbol id="14883:22642" name="Keyboard=B, Dark Mode=False" x="3511" y="96" width="36" height="37" />
+      <symbol id="14883:23024" name="Keyboard=B, Dark Mode=True" x="3511" y="325" width="36" height="37" />
+      <symbol id="14883:22644" name="Keyboard=N, Dark Mode=False" x="3587" y="96" width="36" height="37" />
+      <symbol id="14883:23026" name="Keyboard=N, Dark Mode=True" x="3587" y="325" width="36" height="37" />
+      <symbol id="14883:22646" name="Keyboard=M, Dark Mode=False" x="3663" y="96" width="36" height="37" />
+      <symbol id="14883:23028" name="Keyboard=M, Dark Mode=True" x="3663" y="325" width="36" height="37" />
+      <symbol id="14883:22648" name="Keyboard=F1, Dark Mode=False" x="3739" y="96" width="48" height="37" />
+      <symbol id="14883:23030" name="Keyboard=F1, Dark Mode=True" x="3739" y="325" width="48" height="37" />
+      <symbol id="14883:22650" name="Keyboard=F2, Dark Mode=False" x="3827" y="96" width="48" height="37" />
+      <symbol id="14883:23032" name="Keyboard=F2, Dark Mode=True" x="3827" y="325" width="48" height="37" />
+      <symbol id="14883:22652" name="Keyboard=F3, Dark Mode=False" x="3915" y="96" width="48" height="37" />
+      <symbol id="14883:23034" name="Keyboard=F3, Dark Mode=True" x="3915" y="325" width="48" height="37" />
+      <symbol id="14883:22654" name="Keyboard=F4, Dark Mode=False" x="4003" y="96" width="48" height="37" />
+      <symbol id="14883:23036" name="Keyboard=F4, Dark Mode=True" x="4003" y="325" width="48" height="37" />
+      <symbol id="14883:22656" name="Keyboard=F5, Dark Mode=False" x="4091" y="96" width="48" height="37" />
+      <symbol id="14883:23038" name="Keyboard=F5, Dark Mode=True" x="4091" y="325" width="48" height="37" />
+      <symbol id="14883:22658" name="Keyboard=F6, Dark Mode=False" x="4179" y="96" width="48" height="37" />
+      <symbol id="14883:23040" name="Keyboard=F6, Dark Mode=True" x="4179" y="325" width="48" height="37" />
+      <symbol id="14883:22660" name="Keyboard=F7, Dark Mode=False" x="4267" y="96" width="48" height="37" />
+      <symbol id="14883:23042" name="Keyboard=F7, Dark Mode=True" x="4267" y="325" width="48" height="37" />
+      <symbol id="14883:22662" name="Keyboard=F8, Dark Mode=False" x="4355" y="96" width="48" height="37" />
+      <symbol id="14883:23044" name="Keyboard=F8, Dark Mode=True" x="4355" y="325" width="48" height="37" />
+      <symbol id="14883:22664" name="Keyboard=F9, Dark Mode=False" x="4443" y="96" width="48" height="37" />
+      <symbol id="14883:23046" name="Keyboard=F9, Dark Mode=True" x="4443" y="325" width="48" height="37" />
+      <symbol id="14883:22666" name="Keyboard=F10, Dark Mode=False" x="4531" y="96" width="48" height="37" />
+      <symbol id="14883:23048" name="Keyboard=F10, Dark Mode=True" x="4531" y="325" width="48" height="37" />
+      <symbol id="14883:22668" name="Keyboard=F11, Dark Mode=False" x="4619" y="96" width="48" height="37" />
+      <symbol id="14883:23050" name="Keyboard=F11, Dark Mode=True" x="4619" y="325" width="48" height="37" />
+      <symbol id="14883:22670" name="Keyboard=F12, Dark Mode=False" x="4707" y="96" width="48" height="37" />
+      <symbol id="14883:23052" name="Keyboard=F12, Dark Mode=True" x="4707" y="325" width="48" height="37" />
+      <symbol id="14883:22776" name="Keyboard=Arrow Top, Dark Mode=False" x="4795" y="96" width="37" height="37" />
+      <symbol id="14883:23054" name="Keyboard=Arrow Top, Dark Mode=True" x="4795" y="325" width="37" height="37" />
+      <symbol id="14883:22784" name="Keyboard=Arrow Down, Dark Mode=False" x="4872" y="96" width="37" height="37" />
+      <symbol id="14883:23056" name="Keyboard=Arrow Down, Dark Mode=True" x="4872" y="325" width="37" height="37" />
+      <symbol id="14883:22792" name="Keyboard=Arrow Left, Dark Mode=False" x="4949" y="96" width="37" height="37" />
+      <symbol id="14883:23058" name="Keyboard=Arrow Left, Dark Mode=True" x="4949" y="325" width="37" height="37" />
+      <symbol id="14883:22800" name="Keyboard=Arrow Right, Dark Mode=False" x="5026" y="96" width="37" height="37" />
+      <symbol id="14883:23060" name="Keyboard=Arrow Right, Dark Mode=True" x="5026" y="325" width="37" height="37" />
+    </frame>
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.
